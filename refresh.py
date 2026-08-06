@@ -24,6 +24,7 @@ from pathlib import Path
 PYTHON = sys.executable
 GENERATED = [
     "web/public/data.json",
+    "web/public/history.json",
     "web/public/assets/icons",
     "web/public/assets/icons.json",
     "output/highrisk",
@@ -83,6 +84,7 @@ def main() -> int:
     run([PYTHON, "profit.py", "--realm", args.realm], root)
     run([PYTHON, "tsm_export.py"], root)
     run([PYTHON, "build_data.py"], root)
+    run([PYTHON, "history.py", "--realm", args.realm], root)
     run(["npm", "run", "build"], root / "web")
     stale = prune_stale_bundles(root / "output" / "site")
     if stale:

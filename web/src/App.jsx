@@ -65,6 +65,7 @@ export default function App() {
   const [filter, setFilter] = useState('all')
   const [farmed, setFarmed] = useState(readFarmed)
   const [hover, setHover] = useState({ item: null, position: null })
+  const [history, setHistory] = useState(null)
 
   useEffect(() => {
     // The catalog is big and changes rarely; prices are tiny and change every
@@ -79,6 +80,11 @@ export default function App() {
     const prices = fetch(pricesUrl, { cache: 'no-store' })
       .then((r) => (r.ok ? r.json() : null))
       .catch(() => null)
+
+    fetch(import.meta.env.VITE_HISTORY_URL || 'history.json', { cache: 'no-store' })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((h) => setHistory(h?.items || null))
+      .catch(() => setHistory(null))
 
     Promise.all([catalog, prices])
       .then(([payload, live]) => setData(live ? applyPrices(payload, live) : payload))
@@ -239,6 +245,7 @@ export default function App() {
               onOpen={navigate}
               onHover={onHover}
               meta={data.meta}
+              history={history}
             />
           </div>
         </div>

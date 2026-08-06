@@ -31,7 +31,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
 # The final two characters are '_' then '=', not the other way round. Deriving
@@ -76,6 +76,8 @@ class Price:
     quantity: int | None
     last_scan: int | None
     history_days: int = 0
+    # day-number -> market value, TSM's own rolling 14-day series
+    history: dict[int, int] = field(default_factory=dict)
 
     def pick(self, source: str, floor: float = ROBUST_FLOOR) -> int | None:
         """The price to use for this item under a given basis.
@@ -227,9 +229,17 @@ def parse_scan_data(scan_data: str) -> tuple[dict[int, Price], int]:
             except DecodeError:
                 return None
 
-        history_days = 0
+        history: dict[int, int] = {}
         if fields[6] and fields[6] != "~":
-            history_days = sum(1 for part in fields[6].split("!") if ":" in part)
+            for part in fields[6].split("!"):
+                if ":" not in part:
+                    continue
+                day, value = part.split(":", 1)
+                try:
+                    # A trailing "@n" counts that day's scans, not a price.
+                    history[decode(day)] = decode(value.split("@", 1)[0])
+                except DecodeError:
+                    continue
 
         prices[item_id] = Price(
             item_id=item_id,
@@ -237,7 +247,8 @@ def parse_scan_data(scan_data: str) -> tuple[dict[int, Price], int]:
             min_buyout=maybe(5),
             quantity=maybe(7),
             last_scan=maybe(3),
-            history_days=history_days,
+            history_days=len(history),
+            history=history,
         )
     return prices, malformed
 

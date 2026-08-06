@@ -1,4 +1,5 @@
 import Icon from './Icon.jsx'
+import PriceTrend from './PriceTrend.jsx'
 import { QUALITY_CLASS, money, farmRoute, isGathered } from '../model.js'
 
 function ObtainRoute({ item, model, onOpen }) {
@@ -106,7 +107,7 @@ function MaterialRow({ line, farmed, onToggleFarm, onOpen, onHover }) {
   )
 }
 
-export default function ItemDetail({ item, model, farmed, onToggleFarm, onOpen, onHover, meta }) {
+export default function ItemDetail({ item, model, farmed, onToggleFarm, onOpen, onHover, meta, history }) {
   if (!item) return <div className="empty">Select an item, or search above.</div>
 
   const result = model.evaluate(item)
@@ -155,6 +156,8 @@ export default function ItemDetail({ item, model, farmed, onToggleFarm, onOpen, 
           )}
         </div>
       )}
+
+      <PriceTrend points={history?.[String(item.saleItemId ?? item.id)]} name={item.name} />
 
       {item.effect && (
         <div className="section">

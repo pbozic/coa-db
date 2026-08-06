@@ -31,6 +31,8 @@ import sys
 from pathlib import Path
 
 PRICES = Path("web/public/prices.json")
+HISTORY = Path("web/public/history.json")
+PUBLISHED = (PRICES, HISTORY)
 DATA_BRANCH = "data"
 
 
@@ -69,7 +71,7 @@ def raw_url(branch: str = DATA_BRANCH) -> str | None:
             break
     else:
         return None
-    return f"https://raw.githubusercontent.com/{slug}/{branch}/prices.json"
+    return f"https://raw.githubusercontent.com/{slug}/{branch}"
 
 
 def run_binary(command: list[str], payload: bytes) -> str:
@@ -90,14 +92,18 @@ def run_binary(command: list[str], payload: bytes) -> str:
 
 
 def publish_to_branch(branch: str) -> None:
-    """Put prices.json alone on an orphan branch, leaving the worktree alone."""
-    payload = PRICES.read_bytes()
-
+    """Put the published files on an orphan branch, leaving the worktree alone."""
     # Build the commit with plumbing so the working tree is never touched and
     # no branch checkout is needed.
-    blob = run_binary(["git", "hash-object", "-w", "--stdin"], payload)
-    tree = run_binary(["git", "mktree"],
-                      f"100644 blob {blob}\tprices.json\n".encode())
+    entries = []
+    for path in PUBLISHED:
+        if not path.exists():
+            continue
+        blob = run_binary(["git", "hash-object", "-w", "--stdin"], path.read_bytes())
+        entries.append(f"100644 blob {blob}\t{path.name}")
+    if not entries:
+        raise SystemExit("nothing to publish")
+    tree = run_binary(["git", "mktree"], ("\n".join(entries) + "\n").encode())
 
     parent = run(["git", "rev-parse", f"refs/heads/{branch}"], capture_output=True)
     args = ["git", "commit-tree", tree, "-m", "Update prices"]
@@ -128,8 +134,12 @@ def main() -> int:
 
     if args.print_url:
         url = raw_url(args.branch)
-        print(url or "No GitHub origin remote found; set VITE_PRICES_URL by hand.")
-        return 0 if url else 1
+        if not url:
+            print("No GitHub origin remote found; set the URLs by hand.")
+            return 1
+        print(f"VITE_PRICES_URL={url}/prices.json")
+        print(f"VITE_HISTORY_URL={url}/history.json")
+        return 0
 
     python = sys.executable
     if not args.skip_sync:
@@ -142,6 +152,12 @@ def main() -> int:
             return 1
     if run([python, "build_data.py"]).returncode:
         return 1
+    # Fold this scan into the trend series the browser charts.
+    history = [python, "history.py", "--realm", args.realm]
+    if args.sharing_cache:
+        history += ["--sharing-cache", str(args.sharing_cache)]
+    if run(history).returncode:
+        return 1
 
     payload = json.loads(PRICES.read_text(encoding="utf-8"))
     scan = payload.get("scan") or {}
@@ -150,7 +166,9 @@ def main() -> int:
 
     if args.target == "local":
         print(f"Wrote {PRICES}. Serve it next to the site, or copy it to output/site/.")
-        shutil.copy(PRICES, Path("output/site/prices.json"))
+        for path in PUBLISHED:
+            if path.exists():
+                shutil.copy(path, Path("output/site") / path.name)
         return 0
 
     if not Path(".git").exists():
@@ -159,7 +177,8 @@ def main() -> int:
     url = raw_url(args.branch)
     print(f"Pushed to the '{args.branch}' branch. No site rebuild was triggered.")
     if url:
-        print(f"Set VITE_PRICES_URL={url}")
+        print(f"Set VITE_PRICES_URL={url}/prices.json")
+        print(f"    VITE_HISTORY_URL={url}/history.json")
     return 0
 
 
