@@ -6,9 +6,17 @@ $python = Join-Path $root '.venv\Scripts\pythonw.exe'
 if (-not (Test-Path $python)) { $python = Join-Path $root '.venv\Scripts\python.exe' }
 
 $action  = New-ScheduledTaskAction -Execute $python `
-    -Argument 'watch_prices.py --once' -WorkingDirectory $root
-$trigger = New-ScheduledTaskTrigger -Once -At (Get-Date) `
+    -Argument 'watch_prices.py --once --log logs\prices.log' -WorkingDirectory $root
+
+# Fire at logon, then keep checking while the machine is up. Each run exits
+# immediately unless a new scan has actually landed.
+# Scoped to this user: an unscoped -AtLogOn trigger registers for all users
+# and needs an elevated shell.
+$atLogon = New-ScheduledTaskTrigger -AtLogOn -User "$env:USERDOMAIN\$env:USERNAME"
+$atLogon.Delay = 'PT2M'
+$repeat  = New-ScheduledTaskTrigger -Once -At (Get-Date) `
     -RepetitionInterval (New-TimeSpan -Minutes 15)
+$trigger = @($atLogon, $repeat)
 $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable `
     -DontStopIfGoingOnBatteries -AllowStartIfOnBatteries
 
