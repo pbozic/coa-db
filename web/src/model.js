@@ -96,6 +96,23 @@ export function createModel(items, farmed, cut = 0.05) {
 }
 
 /**
+ * Every material a recipe consumes, at any depth.
+ *
+ * "What can I make with these three things" needs the whole tree, not the top
+ * level: a flask lists Blightroot Extract, but what you actually farmed is the
+ * Blightroot two steps down.
+ */
+export function allMaterials(item, model, depth = 0, seen = new Set()) {
+  for (const reagent of item?.craft?.reagents || []) {
+    if (seen.has(reagent.id) || depth > 6) continue
+    seen.add(reagent.id)
+    const child = model.byId.get(reagent.id)
+    if (child?.craft?.expandable) allMaterials(child, model, depth + 1, seen)
+  }
+  return seen
+}
+
+/**
  * True when an item is picked from a node rather than farmed off mobs.
  *
  * Herbs carry incidental mob drops at a couple of percent, so ranking their

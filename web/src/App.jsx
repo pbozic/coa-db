@@ -3,6 +3,7 @@ import ItemList from './components/ItemList.jsx'
 import ItemDetail from './components/ItemDetail.jsx'
 import Profitable from './components/Profitable.jsx'
 import Tooltip from './components/Tooltip.jsx'
+import FarmPanel from './components/FarmPanel.jsx'
 import { createModel } from './model.js'
 
 const FILTERS = [
@@ -66,6 +67,7 @@ export default function App() {
   const [farmed, setFarmed] = useState(readFarmed)
   const [hover, setHover] = useState({ item: null, position: null })
   const [history, setHistory] = useState(null)
+  const [farmOpen, setFarmOpen] = useState(false)
 
   useEffect(() => {
     // The catalog is big and changes rarely; prices are tiny and change every
@@ -219,11 +221,10 @@ export default function App() {
           <button className="tab" aria-selected={route.tab === 'profit'} onClick={() => navigate('profit')}>
             Most profitable
           </button>
-          {farmed.size > 0 && (
-            <button className="tab" onClick={() => setFarmed(new Set())} title="Clear every ticked material">
-              <span className="muted">farming {farmed.size} — clear</span>
-            </button>
-          )}
+          <button className="tab farm-tab" onClick={() => setFarmOpen(true)}
+                  title="Manage the materials you farm yourself">
+            My farm list{farmed.size > 0 && <span className="count">{farmed.size}</span>}
+          </button>
         </nav>
       </header>
 
@@ -249,6 +250,17 @@ export default function App() {
             />
           </div>
         </div>
+      )}
+
+      {farmOpen && (
+        <FarmPanel
+          data={data}
+          farmed={farmed}
+          onToggle={toggleFarm}
+          onClear={() => setFarmed(new Set())}
+          onClose={() => setFarmOpen(false)}
+          onOpen={navigate}
+        />
       )}
 
       <Tooltip item={hover.item} position={hover.position} />

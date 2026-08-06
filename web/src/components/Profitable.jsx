@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import Icon from './Icon.jsx'
-import { QUALITY_CLASS, money, createModel } from '../model.js'
+import { QUALITY_CLASS, money, createModel, allMaterials } from '../model.js'
 
 const MODES = [
   { id: 'listed', label: 'Buy what is priced', hint: 'buy every material the last scan priced, farm the rest' },
@@ -30,6 +30,7 @@ function rowKind(item) {
 export default function Profitable({ data, farmed, onOpen, onHover }) {
   const [mode, setMode] = useState('listed')
   const [scope, setScope] = useState('all')
+  const [uses, setUses] = useState('off')
 
   // Materials the last scan carried no price for. That means "not seen by that
   // scan", not "never sold" -- a scan is a snapshot, and thin custom materials
@@ -62,6 +63,13 @@ export default function Profitable({ data, farmed, onOpen, onHover }) {
       if (!item.craft?.reagents?.length) continue
       if (scope === 'products' && !item.seed) continue
       if (scope === 'steps' && item.seed) continue
+      // "I am going to farm these — what is worth making?"
+      if (uses !== 'off' && farmed.size) {
+        const mats = allMaterials(item, model)
+        const hits = [...farmed].filter((id) => mats.has(id)).length
+        if (uses === 'any' && hits === 0) continue
+        if (uses === 'all' && hits !== farmed.size) continue
+      }
       const result = model.evaluate(item)
       if (!result || result.salePrice === null) continue
       if (result.profit === null) {
@@ -72,7 +80,7 @@ export default function Profitable({ data, farmed, onOpen, onHover }) {
     }
     rows.sort((a, b) => b.result.profit - a.result.profit)
     return { rows, excluded }
-  }, [data, model, scope])
+  }, [data, model, scope, uses, farmed])
 
   const blockers = useMemo(() => {
     const counts = new Map()
@@ -105,6 +113,21 @@ export default function Profitable({ data, farmed, onOpen, onHover }) {
       </div>
 
       <div className="chips" style={{ marginBottom: 14 }}>
+        {farmed.size > 0 && (
+          <>
+            <button className="chip" aria-pressed={uses === 'any'}
+                    onClick={() => setUses(uses === 'any' ? 'off' : 'any')}
+                    title="Only recipes that use at least one material from your farm list">
+              Uses my farm list
+            </button>
+            <button className="chip" aria-pressed={uses === 'all'}
+                    onClick={() => setUses(uses === 'all' ? 'off' : 'all')}
+                    title="Only recipes that use every material on your farm list">
+              Uses all {farmed.size}
+            </button>
+            <span className="chip-sep" />
+          </>
+        )}
         {SCOPES.map((sc) => (
           <button
             key={sc.id}

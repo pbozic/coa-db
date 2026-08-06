@@ -91,18 +91,29 @@ def run_binary(command: list[str], payload: bytes) -> str:
     return result.stdout.decode("utf-8").strip()
 
 
+# Vercel builds every branch it sees, not just production. This branch holds two
+# JSON files and no package.json, so Vercel guesses a Python project and the
+# build fails on every price push. An ignoreCommand exiting 0 tells Vercel to
+# skip the build entirely, which is what we want here.
+DATA_BRANCH_VERCEL_JSON = json.dumps({
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "ignoreCommand": "exit 0",
+}, indent=2) + "\n"
+
+
 def publish_to_branch(branch: str) -> None:
     """Put the published files on an orphan branch, leaving the worktree alone."""
     # Build the commit with plumbing so the working tree is never touched and
     # no branch checkout is needed.
-    entries = []
-    for path in PUBLISHED:
-        if not path.exists():
-            continue
-        blob = run_binary(["git", "hash-object", "-w", "--stdin"], path.read_bytes())
-        entries.append(f"100644 blob {blob}\t{path.name}")
-    if not entries:
+    contents = {path.name: path.read_bytes() for path in PUBLISHED if path.exists()}
+    if not contents:
         raise SystemExit("nothing to publish")
+    contents["vercel.json"] = DATA_BRANCH_VERCEL_JSON.encode()
+
+    entries = []
+    for name, payload in sorted(contents.items()):
+        blob = run_binary(["git", "hash-object", "-w", "--stdin"], payload)
+        entries.append(f"100644 blob {blob}\t{name}")
     tree = run_binary(["git", "mktree"], ("\n".join(entries) + "\n").encode())
 
     parent = run(["git", "rev-parse", f"refs/heads/{branch}"], capture_output=True)
