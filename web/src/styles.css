@@ -302,3 +302,5 @@ input[type='checkbox'] { accent-color: var(--accent); width: 15px; height: 15px;
 .remove:hover { color: var(--bad); background: var(--panel-2); }
 
 .chip-sep { width: 1px; align-self: stretch; background: var(--line); margin: 0 4px; }
+
+.turnover.collecting strong { font-size: 14px; font-style: italic; }

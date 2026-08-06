@@ -23,8 +23,8 @@
   ],
   "scan": {
     "realm": "Rexxar - Conquest of Azeroth",
-    "scanned_at": "2026-08-06 21:23",
-    "age_days": 0.062052965694003634,
+    "scanned_at": "2026-08-06 23:08",
+    "age_days": 0.008721413612365723,
     "items": 0
   },
   "prices": {
@@ -54,9 +54,9 @@
     "7076": {
       "buy": 303333,
       "sell": 303333,
-      "market": 415083,
+      "market": 415007,
       "minBuyout": 303333,
-      "quantity": 46,
+      "quantity": 60,
       "scenarios": {
         "buy": {
           "unit_cost": 303333.0,
@@ -100,9 +100,9 @@
     "7080": {
       "buy": 168999,
       "sell": 168999,
-      "market": 295150,
+      "market": 295020,
       "minBuyout": 168999,
-      "quantity": 84,
+      "quantity": 80,
       "scenarios": {
         "buy": {
           "unit_cost": 168999.0,
@@ -583,9 +583,9 @@
     "967444": {
       "buy": 145993,
       "sell": 145993,
-      "market": 187326,
+      "market": 187283,
       "minBuyout": 145993,
-      "quantity": 54,
+      "quantity": 55,
       "scenarios": {
         "buy": {
           "unit_cost": 133560.0,
@@ -606,9 +606,9 @@
     "967447": {
       "buy": 244000,
       "sell": 244000,
-      "market": 250129,
+      "market": 250509,
       "minBuyout": 244000,
-      "quantity": 55,
+      "quantity": 52,
       "scenarios": {
         "buy": {
           "unit_cost": 244000.0,
@@ -627,34 +627,34 @@
       "source": "scanned"
     },
     "967450": {
-      "buy": 244000,
-      "sell": 244000,
-      "market": 424902,
-      "minBuyout": 244000,
+      "buy": 240000,
+      "sell": 240000,
+      "market": 424792,
+      "minBuyout": 240000,
       "quantity": 89,
       "scenarios": {
         "buy": {
-          "unit_cost": 244000.0,
+          "unit_cost": 240000.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 244000.0,
+          "unit_cost": 240000.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 244000.0,
+          "unit_cost": 240000.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 244000.0,
+      "unit_cost": 240000.0,
       "source": "scanned"
     },
     "967453": {
       "buy": 356000,
       "sell": 356000,
-      "market": 455838,
+      "market": 455704,
       "minBuyout": 356000,
-      "quantity": 18,
+      "quantity": 21,
       "scenarios": {
         "buy": {
           "unit_cost": 356000.0,
@@ -675,9 +675,9 @@
     "967456": {
       "buy": 327000,
       "sell": 327000,
-      "market": 434943,
+      "market": 435340,
       "minBuyout": 327000,
-      "quantity": 22,
+      "quantity": 36,
       "scenarios": {
         "buy": {
           "unit_cost": 327000.0,
@@ -696,11 +696,11 @@
       "source": "scanned"
     },
     "967459": {
-      "buy": 113500,
-      "sell": 113500,
-      "market": 157067,
-      "minBuyout": 113500,
-      "quantity": 82,
+      "buy": 112999,
+      "sell": 112999,
+      "market": 157060,
+      "minBuyout": 112999,
+      "quantity": 78,
       "scenarios": {
         "buy": {
           "unit_cost": 66179.0,
@@ -719,103 +719,103 @@
       "source": "scanned"
     },
     "967462": {
-      "buy": 378000,
-      "sell": 378000,
-      "market": 310392,
-      "minBuyout": 378000,
-      "quantity": 85,
+      "buy": 377999,
+      "sell": 377999,
+      "market": 310279,
+      "minBuyout": 377999,
+      "quantity": 83,
       "scenarios": {
         "buy": {
-          "unit_cost": 378000.0,
+          "unit_cost": 377999.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 378000.0,
+          "unit_cost": 377999.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 378000.0,
+          "unit_cost": 377999.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 378000.0,
+      "unit_cost": 377999.0,
       "source": "scanned"
     },
     "967465": {
-      "buy": 347000,
-      "sell": 347000,
-      "market": 304663,
-      "minBuyout": 347000,
-      "quantity": 45,
+      "buy": 346000,
+      "sell": 346000,
+      "market": 304656,
+      "minBuyout": 346000,
+      "quantity": 48,
       "scenarios": {
         "buy": {
-          "unit_cost": 347000.0,
+          "unit_cost": 346000.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 347000.0,
+          "unit_cost": 346000.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 347000.0,
+          "unit_cost": 346000.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 347000.0,
+      "unit_cost": 346000.0,
       "source": "scanned"
     },
     "967468": {
-      "buy": 358000,
-      "sell": 358000,
-      "market": 352112,
-      "minBuyout": 358000,
-      "quantity": 42,
+      "buy": 353000,
+      "sell": 353000,
+      "market": 352015,
+      "minBuyout": 353000,
+      "quantity": 80,
       "scenarios": {
         "buy": {
-          "unit_cost": 358000.0,
+          "unit_cost": 353000.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 358000.0,
+          "unit_cost": 353000.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 358000.0,
+          "unit_cost": 353000.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 358000.0,
+      "unit_cost": 353000.0,
       "source": "scanned"
     },
     "967471": {
-      "buy": 326997,
-      "sell": 326997,
-      "market": 356957,
-      "minBuyout": 326997,
-      "quantity": 88,
+      "buy": 326996,
+      "sell": 326996,
+      "market": 356936,
+      "minBuyout": 326996,
+      "quantity": 89,
       "scenarios": {
         "buy": {
-          "unit_cost": 326997.0,
+          "unit_cost": 326996.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 326997.0,
+          "unit_cost": 326996.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 326997.0,
+          "unit_cost": 326996.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 326997.0,
+      "unit_cost": 326996.0,
       "source": "scanned"
     },
     "967474": {
       "buy": 127500,
       "sell": 127500,
-      "market": 154197,
+      "market": 154193,
       "minBuyout": 127500,
-      "quantity": 22,
+      "quantity": 36,
       "scenarios": {
         "buy": {
           "unit_cost": 84465.0,
@@ -834,49 +834,49 @@
       "source": "scanned"
     },
     "967510": {
-      "buy": 18198,
-      "sell": 18198,
-      "market": 22915,
-      "minBuyout": 18198,
-      "quantity": 109,
+      "buy": 18000,
+      "sell": 18000,
+      "market": 22914,
+      "minBuyout": 18000,
+      "quantity": 104,
       "scenarios": {
         "buy": {
-          "unit_cost": 18198.0,
+          "unit_cost": 18000.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 18198.0,
+          "unit_cost": 18000.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 18198.0,
+          "unit_cost": 18000.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 18198.0,
+      "unit_cost": 18000.0,
       "source": "scanned"
     },
     "967513": {
-      "buy": 29699,
-      "sell": 29699,
-      "market": 46662,
-      "minBuyout": 29699,
-      "quantity": 488,
+      "buy": 29500,
+      "sell": 29500,
+      "market": 46636,
+      "minBuyout": 29500,
+      "quantity": 448,
       "scenarios": {
         "buy": {
-          "unit_cost": 29699.0,
+          "unit_cost": 29500.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 29699.0,
+          "unit_cost": 29500.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 29699.0,
+          "unit_cost": 29500.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 29699.0,
+      "unit_cost": 29500.0,
       "source": "scanned"
     },
     "967516": {
@@ -905,9 +905,9 @@
     "967519": {
       "buy": 14199,
       "sell": 14199,
-      "market": 18862,
+      "market": 18848,
       "minBuyout": 14199,
-      "quantity": 294,
+      "quantity": 270,
       "scenarios": {
         "buy": {
           "unit_cost": 14199.0,
@@ -995,26 +995,26 @@
       "source": "scanned"
     },
     "967531": {
-      "buy": 19999,
-      "sell": 19999,
-      "market": 29699,
-      "minBuyout": 19999,
-      "quantity": 346,
+      "buy": 19800,
+      "sell": 19800,
+      "market": 29687,
+      "minBuyout": 19800,
+      "quantity": 381,
       "scenarios": {
         "buy": {
-          "unit_cost": 19999.0,
+          "unit_cost": 19800.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 19999.0,
+          "unit_cost": 19800.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 19999.0,
+          "unit_cost": 19800.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 19999.0,
+      "unit_cost": 19800.0,
       "source": "scanned"
     },
     "967534": {
@@ -1041,26 +1041,26 @@
       "source": "scanned"
     },
     "967537": {
-      "buy": 14343,
-      "sell": 14343,
-      "market": 28687,
+      "buy": 14338,
+      "sell": 14338,
+      "market": 28677,
       "minBuyout": 9700,
-      "quantity": 52,
+      "quantity": 48,
       "scenarios": {
         "buy": {
-          "unit_cost": 14343.0,
+          "unit_cost": 14338.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 14343.0,
+          "unit_cost": 14338.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 14343.0,
+          "unit_cost": 14338.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 14343.0,
+      "unit_cost": 14338.0,
       "source": "scanned"
     },
     "967540": {
@@ -1296,7 +1296,7 @@
     "967570": {
       "buy": 17597,
       "sell": 17597,
-      "market": 18299,
+      "market": 18298,
       "minBuyout": 17597,
       "quantity": 76,
       "scenarios": {
@@ -1501,11 +1501,11 @@
       "source": "gathered"
     },
     "967597": {
-      "buy": 77999,
-      "sell": 77999,
-      "market": 48989,
-      "minBuyout": 77999,
-      "quantity": 95,
+      "buy": 77998,
+      "sell": 77998,
+      "market": 48984,
+      "minBuyout": 77998,
+      "quantity": 84,
       "scenarios": {
         "buy": {
           "unit_cost": 63662.0,
@@ -1524,11 +1524,11 @@
       "source": "scanned"
     },
     "967600": {
-      "buy": 39397,
-      "sell": 39397,
-      "market": 26964,
-      "minBuyout": 39397,
-      "quantity": 61,
+      "buy": 39396,
+      "sell": 39396,
+      "market": 26963,
+      "minBuyout": 39396,
+      "quantity": 69,
       "scenarios": {
         "buy": {
           "unit_cost": 20457.0,
@@ -1593,26 +1593,26 @@
       "source": "scanned"
     },
     "967609": {
-      "buy": 68500,
-      "sell": 68500,
-      "market": 97219,
-      "minBuyout": 68500,
-      "quantity": 112,
+      "buy": 67999,
+      "sell": 67999,
+      "market": 97206,
+      "minBuyout": 67999,
+      "quantity": 133,
       "scenarios": {
         "buy": {
-          "unit_cost": 68500.0,
+          "unit_cost": 67999.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 68500.0,
+          "unit_cost": 67999.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 68500.0,
+          "unit_cost": 67999.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 68500.0,
+      "unit_cost": 67999.0,
       "source": "scanned"
     },
     "967612": {
@@ -1754,32 +1754,32 @@
       "source": "scanned"
     },
     "967630": {
-      "buy": 26797,
-      "sell": 26797,
-      "market": 53528,
-      "minBuyout": 26797,
-      "quantity": 151,
+      "buy": 26796,
+      "sell": 26796,
+      "market": 53526,
+      "minBuyout": 26796,
+      "quantity": 142,
       "scenarios": {
         "buy": {
-          "unit_cost": 26797.0,
+          "unit_cost": 26796.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 26797.0,
+          "unit_cost": 26796.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 26797.0,
+          "unit_cost": 26796.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 26797.0,
+      "unit_cost": 26796.0,
       "source": "scanned"
     },
     "967761": {
       "buy": 1802498,
       "sell": 1802498,
-      "market": 1770380,
+      "market": 1770372,
       "minBuyout": 1802498,
       "quantity": 11,
       "scenarios": {
@@ -1825,9 +1825,9 @@
     "967767": {
       "buy": 959500,
       "sell": 959500,
-      "market": 1513851,
+      "market": 1513524,
       "minBuyout": 959500,
-      "quantity": 10,
+      "quantity": 16,
       "scenarios": {
         "buy": {
           "unit_cost": 959500.0,
@@ -1848,9 +1848,9 @@
     "967770": {
       "buy": 1340000,
       "sell": 1340000,
-      "market": 1513704,
+      "market": 1513681,
       "minBuyout": 1340000,
-      "quantity": 16,
+      "quantity": 7,
       "scenarios": {
         "buy": {
           "unit_cost": 1340000.0,
@@ -1869,26 +1869,26 @@
       "source": "scanned"
     },
     "967773": {
-      "buy": 1380000,
-      "sell": 1380000,
-      "market": 1507844,
-      "minBuyout": 1380000,
-      "quantity": 18,
+      "buy": 1377500,
+      "sell": 1377500,
+      "market": 1507806,
+      "minBuyout": 1377500,
+      "quantity": 15,
       "scenarios": {
         "buy": {
-          "unit_cost": 1380000.0,
+          "unit_cost": 1377500.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 1380000.0,
+          "unit_cost": 1377500.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 1380000.0,
+          "unit_cost": 1377500.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 1380000.0,
+      "unit_cost": 1377500.0,
       "source": "scanned"
     },
     "967776": {
@@ -1940,7 +1940,7 @@
     "967782": {
       "buy": 1270000,
       "sell": 1270000,
-      "market": 1873585,
+      "market": 1873373,
       "minBuyout": 1270000,
       "quantity": 20,
       "scenarios": {
@@ -1984,26 +1984,26 @@
       "source": "unknown"
     },
     "967787": {
-      "buy": 1290000,
-      "sell": 1290000,
-      "market": 1505511,
-      "minBuyout": 1290000,
+      "buy": 1150200,
+      "sell": 1150200,
+      "market": 1505373,
+      "minBuyout": 1150200,
       "quantity": 21,
       "scenarios": {
         "buy": {
-          "unit_cost": 1290000.0,
+          "unit_cost": 1150200.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 1290000.0,
+          "unit_cost": 1150200.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 1290000.0,
+          "unit_cost": 1150200.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 1290000.0,
+      "unit_cost": 1150200.0,
       "source": "scanned"
     },
     "1303149": {
@@ -3140,21 +3140,21 @@
       "sale_item_id": 967773,
       "profession": "Enchanting",
       "yield": 1,
-      "unit_sale_price": 1380000,
+      "unit_sale_price": 1377500,
       "scenarios": {
         "buy": {
           "cost": 691075.0,
-          "profit": 619925.0,
-          "profit_per_unit": 619925.0,
-          "roi": 89.70444597185544,
+          "profit": 617550.0,
+          "profit_per_unit": 617550.0,
+          "roi": 89.36077849726874,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 691075.0,
-          "profit": 619925.0,
-          "profit_per_unit": 619925.0,
-          "roi": 89.70444597185544,
+          "profit": 617550.0,
+          "profit_per_unit": 617550.0,
+          "roi": 89.36077849726874,
           "gathered": [
             "Large Brilliant Shard",
             "Greater Eternal Essence",
@@ -3167,9 +3167,9 @@
         },
         "plan": {
           "cost": 691075.0,
-          "profit": 619925.0,
-          "profit_per_unit": 619925.0,
-          "roi": 89.70444597185544,
+          "profit": 617550.0,
+          "profit_per_unit": 617550.0,
+          "roi": 89.36077849726874,
           "gathered": [
             "Profane Shard",
             "Echoes of Blood",
@@ -3318,21 +3318,21 @@
       "sale_item_id": 967787,
       "profession": "Enchanting",
       "yield": 1,
-      "unit_sale_price": 1290000,
+      "unit_sale_price": 1150200,
       "scenarios": {
         "buy": {
           "cost": 700115.0,
-          "profit": 525385.0,
-          "profit_per_unit": 525385.0,
-          "roi": 75.04267156110068,
+          "profit": 392575.0,
+          "profit_per_unit": 392575.0,
+          "roi": 56.07293087564186,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 700115.0,
-          "profit": 525385.0,
-          "profit_per_unit": 525385.0,
-          "roi": 75.04267156110068,
+          "profit": 392575.0,
+          "profit_per_unit": 392575.0,
+          "roi": 56.07293087564186,
           "gathered": [
             "Large Brilliant Shard",
             "Greater Eternal Essence",
@@ -3345,9 +3345,9 @@
         },
         "plan": {
           "cost": 700115.0,
-          "profit": 525385.0,
-          "profit_per_unit": 525385.0,
-          "roi": 75.04267156110068,
+          "profit": 392575.0,
+          "profit_per_unit": 392575.0,
+          "roi": 56.07293087564186,
           "gathered": [
             "Profane Shard",
             "Echoes of Blood",
@@ -3585,21 +3585,21 @@
       "sale_item_id": 967459,
       "profession": "Alchemy",
       "yield": 1,
-      "unit_sale_price": 113500,
+      "unit_sale_price": 112999,
       "scenarios": {
         "buy": {
           "cost": 66179.0,
-          "profit": 41646.0,
-          "profit_per_unit": 41646.0,
-          "roi": 62.9293280345729,
+          "profit": 41170.04999999999,
+          "profit_per_unit": 41170.04999999999,
+          "roi": 62.21014219012072,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 66179.0,
-          "profit": 41646.0,
-          "profit_per_unit": 41646.0,
-          "roi": 62.9293280345729,
+          "profit": 41170.04999999999,
+          "profit_per_unit": 41170.04999999999,
+          "roi": 62.21014219012072,
           "gathered": [
             "Essence of Undeath",
             "Golden Sansam",
@@ -3611,9 +3611,9 @@
         },
         "plan": {
           "cost": 66179.0,
-          "profit": 41646.0,
-          "profit_per_unit": 41646.0,
-          "roi": 62.9293280345729,
+          "profit": 41170.04999999999,
+          "profit_per_unit": 41170.04999999999,
+          "roi": 62.21014219012072,
           "gathered": [
             "Fiery Frond",
             "Blightroot",
@@ -3884,21 +3884,21 @@
       "sale_item_id": 967600,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 39397,
+      "unit_sale_price": 39396,
       "scenarios": {
         "buy": {
           "cost": 20457.0,
-          "profit": 16970.15,
-          "profit_per_unit": 16970.15,
-          "roi": 82.95522315099967,
+          "profit": 16969.199999999997,
+          "profit_per_unit": 16969.199999999997,
+          "roi": 82.95057926382165,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 20457.0,
-          "profit": 16970.15,
-          "profit_per_unit": 16970.15,
-          "roi": 82.95522315099967,
+          "profit": 16969.199999999997,
+          "profit_per_unit": 16969.199999999997,
+          "roi": 82.95057926382165,
           "gathered": [
             "Mystery Meat",
             "Raw Savage Flesh",
@@ -3908,9 +3908,9 @@
         },
         "plan": {
           "cost": 20457.0,
-          "profit": 16970.15,
-          "profit_per_unit": 16970.15,
-          "roi": 82.95522315099967,
+          "profit": 16969.199999999997,
+          "profit_per_unit": 16969.199999999997,
+          "roi": 82.95057926382165,
           "gathered": [
             "Raw Savage Flesh",
             "Silithid Meat Chunks"
@@ -3953,21 +3953,21 @@
       "sale_item_id": 967597,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 77999,
+      "unit_sale_price": 77998,
       "scenarios": {
         "buy": {
           "cost": 63662.0,
-          "profit": 10437.050000000003,
-          "profit_per_unit": 10437.050000000003,
-          "roi": 16.394473940498262,
+          "profit": 10436.099999999991,
+          "profit_per_unit": 10436.099999999991,
+          "roi": 16.392981684521367,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 63662.0,
-          "profit": 10437.050000000003,
-          "profit_per_unit": 10437.050000000003,
-          "roi": 16.394473940498262,
+          "profit": 10436.099999999991,
+          "profit_per_unit": 10436.099999999991,
+          "roi": 16.392981684521367,
           "gathered": [
             "Mystery Meat",
             "Raw Savage Flesh",
@@ -3977,9 +3977,9 @@
         },
         "plan": {
           "cost": 63662.0,
-          "profit": 10437.050000000003,
-          "profit_per_unit": 10437.050000000003,
-          "roi": 16.394473940498262,
+          "profit": 10436.099999999991,
+          "profit_per_unit": 10436.099999999991,
+          "roi": 16.392981684521367,
           "gathered": [
             "Raw Savage Flesh",
             "Savage Chimaera Chunks"
@@ -4449,21 +4449,21 @@
       "sale_item_id": 967630,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 26797,
+      "unit_sale_price": 26796,
       "scenarios": {
         "buy": {
           "cost": 27822.0,
-          "profit": -2364.850000000002,
-          "profit_per_unit": -2364.850000000002,
-          "roi": -8.499928114441817,
+          "profit": -2365.800000000003,
+          "profit_per_unit": -2365.800000000003,
+          "roi": -8.50334267845591,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 27822.0,
-          "profit": -2364.850000000002,
-          "profit_per_unit": -2364.850000000002,
-          "roi": -8.499928114441817,
+          "profit": -2365.800000000003,
+          "profit_per_unit": -2365.800000000003,
+          "roi": -8.50334267845591,
           "gathered": [
             "Turtle Meat",
             "Raw Savage Flesh",
@@ -4473,9 +4473,9 @@
         },
         "plan": {
           "cost": 27822.0,
-          "profit": -2364.850000000002,
-          "profit_per_unit": -2364.850000000002,
-          "roi": -8.499928114441817,
+          "profit": -2365.800000000003,
+          "profit_per_unit": -2365.800000000003,
+          "roi": -8.50334267845591,
           "gathered": [
             "Raw Savage Flesh",
             "Animated Meat Chunks"
@@ -4934,21 +4934,21 @@
       "sale_item_id": 967510,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 18198,
+      "unit_sale_price": 18000,
       "scenarios": {
         "buy": {
           "cost": 27262.0,
-          "profit": -9973.900000000001,
-          "profit_per_unit": -9973.900000000001,
-          "roi": -36.58535690705011,
+          "profit": -10162.0,
+          "profit_per_unit": -10162.0,
+          "roi": -37.27532829579634,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 27262.0,
-          "profit": -9973.900000000001,
-          "profit_per_unit": -9973.900000000001,
-          "roi": -36.58535690705011,
+          "profit": -10162.0,
+          "profit_per_unit": -10162.0,
+          "roi": -37.27532829579634,
           "gathered": [
             "Mystery Meat",
             "Raw Savage Flesh",
@@ -4958,9 +4958,9 @@
         },
         "plan": {
           "cost": 27262.0,
-          "profit": -9973.900000000001,
-          "profit_per_unit": -9973.900000000001,
-          "roi": -36.58535690705011,
+          "profit": -10162.0,
+          "profit_per_unit": -10162.0,
+          "roi": -37.27532829579634,
           "gathered": [
             "Raw Savage Flesh",
             "Animated Meat Chunks"
@@ -5414,76 +5414,6 @@
     },
     {
       "family": "food",
-      "product": "Fused Clear-Cut Steak",
-      "product_id": 967531,
-      "kind": "item",
-      "sale_item_id": 967531,
-      "profession": "Cooking",
-      "yield": 1,
-      "unit_sale_price": 19999,
-      "scenarios": {
-        "buy": {
-          "cost": 34460.0,
-          "profit": -15460.95,
-          "profit_per_unit": -15460.95,
-          "roi": -44.86636680208938,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 34460.0,
-          "profit": -15460.95,
-          "profit_per_unit": -15460.95,
-          "roi": -44.86636680208938,
-          "gathered": [
-            "Giant Egg",
-            "Raw Savage Flesh",
-            "Animated Meat Chunks"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 34460.0,
-          "profit": -15460.95,
-          "profit_per_unit": -15460.95,
-          "roi": -44.86636680208938,
-          "gathered": [
-            "Giant Egg",
-            "Raw Savage Flesh",
-            "Animated Meat Chunks"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303723,
-          "name": "Shadowcharred Animated Meat",
-          "quantity": 1,
-          "unit_cost": 8600.0,
-          "line_cost": 8600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303720,
-          "name": "Cured Savage Meat",
-          "quantity": 1,
-          "unit_cost": 18000.0,
-          "line_cost": 18000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 12207,
-          "name": "Giant Egg",
-          "quantity": 2,
-          "unit_cost": 3930.0,
-          "line_cost": 7860.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "food",
       "product": "Fused Hearty Steamed Wontons",
       "product_id": 967591,
       "kind": "item",
@@ -5553,54 +5483,54 @@
     },
     {
       "family": "food",
-      "product": "Fused Bold Stew",
-      "product_id": 967609,
+      "product": "Fused Clear-Cut Steak",
+      "product_id": 967531,
       "kind": "item",
-      "sale_item_id": 967609,
+      "sale_item_id": 967531,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 68500,
+      "unit_sale_price": 19800,
       "scenarios": {
         "buy": {
-          "cost": 81400.0,
-          "profit": -16325.0,
-          "profit_per_unit": -16325.0,
-          "roi": -20.055282555282556,
+          "cost": 34460.0,
+          "profit": -15650.0,
+          "profit_per_unit": -15650.0,
+          "roi": -45.414973882762624,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 81400.0,
-          "profit": -16325.0,
-          "profit_per_unit": -16325.0,
-          "roi": -20.055282555282556,
+          "cost": 34460.0,
+          "profit": -15650.0,
+          "profit_per_unit": -15650.0,
+          "roi": -45.414973882762624,
           "gathered": [
-            "Sandworm Meat",
+            "Giant Egg",
             "Raw Savage Flesh",
-            "Savage Chimaera Chunks"
+            "Animated Meat Chunks"
           ],
           "missing": []
         },
         "plan": {
-          "cost": 81400.0,
-          "profit": -16325.0,
-          "profit_per_unit": -16325.0,
-          "roi": -20.055282555282556,
+          "cost": 34460.0,
+          "profit": -15650.0,
+          "profit_per_unit": -15650.0,
+          "roi": -45.414973882762624,
           "gathered": [
-            "Sandworm Meat",
+            "Giant Egg",
             "Raw Savage Flesh",
-            "Savage Chimaera Chunks"
+            "Animated Meat Chunks"
           ],
           "missing": []
         }
       },
       "breakdown": [
         {
-          "item_id": 1303721,
-          "name": "Seared Savage Chimaera Meat",
+          "item_id": 1303723,
+          "name": "Shadowcharred Animated Meat",
           "quantity": 1,
-          "unit_cost": 45000.0,
-          "line_cost": 45000.0,
+          "unit_cost": 8600.0,
+          "line_cost": 8600.0,
           "sourced": "crafted"
         },
         {
@@ -5612,11 +5542,11 @@
           "sourced": "crafted"
         },
         {
-          "item_id": 20424,
-          "name": "Sandworm Meat",
+          "item_id": 12207,
+          "name": "Giant Egg",
           "quantity": 2,
-          "unit_cost": 9200.0,
-          "line_cost": 18400.0,
+          "unit_cost": 3930.0,
+          "line_cost": 7860.0,
           "sourced": "bought"
         }
       ]
@@ -5755,6 +5685,76 @@
           "quantity": 2,
           "unit_cost": 331.0,
           "line_cost": 662.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "food",
+      "product": "Fused Bold Stew",
+      "product_id": 967609,
+      "kind": "item",
+      "sale_item_id": 967609,
+      "profession": "Cooking",
+      "yield": 1,
+      "unit_sale_price": 67999,
+      "scenarios": {
+        "buy": {
+          "cost": 81400.0,
+          "profit": -16800.950000000004,
+          "profit_per_unit": -16800.950000000004,
+          "roi": -20.639987714987722,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 81400.0,
+          "profit": -16800.950000000004,
+          "profit_per_unit": -16800.950000000004,
+          "roi": -20.639987714987722,
+          "gathered": [
+            "Sandworm Meat",
+            "Raw Savage Flesh",
+            "Savage Chimaera Chunks"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 81400.0,
+          "profit": -16800.950000000004,
+          "profit_per_unit": -16800.950000000004,
+          "roi": -20.639987714987722,
+          "gathered": [
+            "Sandworm Meat",
+            "Raw Savage Flesh",
+            "Savage Chimaera Chunks"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303721,
+          "name": "Seared Savage Chimaera Meat",
+          "quantity": 1,
+          "unit_cost": 45000.0,
+          "line_cost": 45000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303720,
+          "name": "Cured Savage Meat",
+          "quantity": 1,
+          "unit_cost": 18000.0,
+          "line_cost": 18000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 20424,
+          "name": "Sandworm Meat",
+          "quantity": 2,
+          "unit_cost": 9200.0,
+          "line_cost": 18400.0,
           "sourced": "bought"
         }
       ]
@@ -5905,21 +5905,21 @@
       "sale_item_id": 967537,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 14343,
+      "unit_sale_price": 14338,
       "scenarios": {
         "buy": {
           "cost": 43905.0,
-          "profit": -30279.15,
-          "profit_per_unit": -30279.15,
-          "roi": -68.96515203279809,
+          "profit": -30283.9,
+          "profit_per_unit": -30283.9,
+          "roi": -68.97597084614509,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 43905.0,
-          "profit": -30279.15,
-          "profit_per_unit": -30279.15,
-          "roi": -68.96515203279809,
+          "profit": -30283.9,
+          "profit_per_unit": -30283.9,
+          "roi": -68.97597084614509,
           "gathered": [
             "Sandworm Meat",
             "Raw Savage Flesh",
@@ -5929,9 +5929,9 @@
         },
         "plan": {
           "cost": 43905.0,
-          "profit": -30279.15,
-          "profit_per_unit": -30279.15,
-          "roi": -68.96515203279809,
+          "profit": -30283.9,
+          "profit_per_unit": -30283.9,
+          "roi": -68.97597084614509,
           "gathered": [
             "Sandworm Meat",
             "Raw Savage Flesh",
@@ -5975,21 +5975,21 @@
       "sale_item_id": 967513,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 29699,
+      "unit_sale_price": 29500,
       "scenarios": {
         "buy": {
           "cost": 63662.0,
-          "profit": -35447.95,
-          "profit_per_unit": -35447.95,
-          "roi": -55.68148974270365,
+          "profit": -35637.0,
+          "profit_per_unit": -35637.0,
+          "roi": -55.97844868210235,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 63662.0,
-          "profit": -35447.95,
-          "profit_per_unit": -35447.95,
-          "roi": -55.68148974270365,
+          "profit": -35637.0,
+          "profit_per_unit": -35637.0,
+          "roi": -55.97844868210235,
           "gathered": [
             "Mystery Meat",
             "Raw Savage Flesh",
@@ -5999,9 +5999,9 @@
         },
         "plan": {
           "cost": 63662.0,
-          "profit": -35447.95,
-          "profit_per_unit": -35447.95,
-          "roi": -55.68148974270365,
+          "profit": -35637.0,
+          "profit_per_unit": -35637.0,
+          "roi": -55.97844868210235,
           "gathered": [
             "Raw Savage Flesh",
             "Savage Chimaera Chunks"
@@ -6183,21 +6183,21 @@
       "sale_item_id": 967471,
       "profession": "Alchemy",
       "yield": 1,
-      "unit_sale_price": 326997,
+      "unit_sale_price": 326996,
       "scenarios": {
         "buy": {
           "cost": 394693.0,
-          "profit": -84045.85000000003,
-          "profit_per_unit": -84045.85000000003,
-          "roi": -21.293980384754743,
+          "profit": -84046.79999999999,
+          "profit_per_unit": -84046.79999999999,
+          "roi": -21.29422107815441,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 394693.0,
-          "profit": -84045.85000000003,
-          "profit_per_unit": -84045.85000000003,
-          "roi": -21.293980384754743,
+          "profit": -84046.79999999999,
+          "profit_per_unit": -84046.79999999999,
+          "roi": -21.29422107815441,
           "gathered": [
             "Essence of Water",
             "Icecap",
@@ -6209,9 +6209,9 @@
         },
         "plan": {
           "cost": 394693.0,
-          "profit": -84045.85000000003,
-          "profit_per_unit": -84045.85000000003,
-          "roi": -21.293980384754743,
+          "profit": -84046.79999999999,
+          "profit_per_unit": -84046.79999999999,
+          "roi": -21.29422107815441,
           "gathered": [
             "Plague Blossom",
             "Blightroot",
@@ -6263,21 +6263,21 @@
       "sale_item_id": 967468,
       "profession": "Alchemy",
       "yield": 1,
-      "unit_sale_price": 358000,
+      "unit_sale_price": 353000,
       "scenarios": {
         "buy": {
           "cost": 478370.0,
-          "profit": -138270.0,
-          "profit_per_unit": -138270.0,
-          "roi": -28.904404540418504,
+          "profit": -143020.0,
+          "profit_per_unit": -143020.0,
+          "roi": -29.897359784267408,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 478370.0,
-          "profit": -138270.0,
-          "profit_per_unit": -138270.0,
-          "roi": -28.904404540418504,
+          "profit": -143020.0,
+          "profit_per_unit": -143020.0,
+          "roi": -29.897359784267408,
           "gathered": [
             "Essence of Fire",
             "Plaguebloom",
@@ -6289,9 +6289,9 @@
         },
         "plan": {
           "cost": 478370.0,
-          "profit": -138270.0,
-          "profit_per_unit": -138270.0,
-          "roi": -28.904404540418504,
+          "profit": -143020.0,
+          "profit_per_unit": -143020.0,
+          "roi": -29.897359784267408,
           "gathered": [
             "Spectral Rose",
             "Blightroot",
@@ -6337,107 +6337,27 @@
     },
     {
       "family": "flask",
-      "product": "Distilled Flask of the Kirin Tor",
-      "product_id": 967450,
-      "kind": "item",
-      "sale_item_id": 967450,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 244000,
-      "scenarios": {
-        "buy": {
-          "cost": 421708.0,
-          "profit": -189908.0,
-          "profit_per_unit": -189908.0,
-          "roi": -45.03305604826088,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 421708.0,
-          "profit": -189908.0,
-          "profit_per_unit": -189908.0,
-          "roi": -45.03305604826088,
-          "gathered": [
-            "Essence of Water",
-            "Arthas' Tears",
-            "Spectral Rose",
-            "Blightroot",
-            "Spectral Teardrops"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 421708.0,
-          "profit": -189908.0,
-          "profit_per_unit": -189908.0,
-          "roi": -45.03305604826088,
-          "gathered": [
-            "Spectral Rose",
-            "Blightroot",
-            "Spectral Teardrops"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303715,
-          "name": "Spectral Rose",
-          "quantity": 1,
-          "unit_cost": 29600.0,
-          "line_cost": 29600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 8836,
-          "name": "Arthas' Tears",
-          "quantity": 10,
-          "unit_cost": 951.0,
-          "line_cost": 9510.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 7080,
-          "name": "Essence of Water",
-          "quantity": 2,
-          "unit_cost": 168999.0,
-          "line_cost": 337998.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "flask",
       "product": "Distilled Flask of Savage Assault",
       "product_id": 967462,
       "kind": "item",
       "sale_item_id": 967462,
       "profession": "Alchemy",
       "yield": 1,
-      "unit_sale_price": 378000,
+      "unit_sale_price": 377999,
       "scenarios": {
         "buy": {
           "cost": 552775.0,
-          "profit": -193675.0,
-          "profit_per_unit": -193675.0,
-          "roi": -35.03685948170594,
+          "profit": -193675.95,
+          "profit_per_unit": -193675.95,
+          "roi": -35.03703134186604,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 552775.0,
-          "profit": -193675.0,
-          "profit_per_unit": -193675.0,
-          "roi": -35.03685948170594,
+          "profit": -193675.95,
+          "profit_per_unit": -193675.95,
+          "roi": -35.03703134186604,
           "gathered": [
             "Essence of Air",
             "Sungrass",
@@ -6449,9 +6369,9 @@
         },
         "plan": {
           "cost": 552775.0,
-          "profit": -193675.0,
-          "profit_per_unit": -193675.0,
-          "roi": -35.03685948170594,
+          "profit": -193675.95,
+          "profit_per_unit": -193675.95,
+          "roi": -35.03703134186604,
           "gathered": [
             "Storm Brine",
             "Blightroot",
@@ -6491,6 +6411,86 @@
           "quantity": 2,
           "unit_cost": 242000.0,
           "line_cost": 484000.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "flask",
+      "product": "Distilled Flask of the Kirin Tor",
+      "product_id": 967450,
+      "kind": "item",
+      "sale_item_id": 967450,
+      "profession": "Alchemy",
+      "yield": 1,
+      "unit_sale_price": 240000,
+      "scenarios": {
+        "buy": {
+          "cost": 421708.0,
+          "profit": -193708.0,
+          "profit_per_unit": -193708.0,
+          "roi": -45.93415349009267,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 421708.0,
+          "profit": -193708.0,
+          "profit_per_unit": -193708.0,
+          "roi": -45.93415349009267,
+          "gathered": [
+            "Essence of Water",
+            "Arthas' Tears",
+            "Spectral Rose",
+            "Blightroot",
+            "Spectral Teardrops"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 421708.0,
+          "profit": -193708.0,
+          "profit_per_unit": -193708.0,
+          "roi": -45.93415349009267,
+          "gathered": [
+            "Spectral Rose",
+            "Blightroot",
+            "Spectral Teardrops"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303715,
+          "name": "Spectral Rose",
+          "quantity": 1,
+          "unit_cost": 29600.0,
+          "line_cost": 29600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 8836,
+          "name": "Arthas' Tears",
+          "quantity": 10,
+          "unit_cost": 951.0,
+          "line_cost": 9510.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 7080,
+          "name": "Essence of Water",
+          "quantity": 2,
+          "unit_cost": 168999.0,
+          "line_cost": 337998.0,
           "sourced": "bought"
         }
       ]
@@ -6583,21 +6583,21 @@
       "sale_item_id": 967465,
       "profession": "Alchemy",
       "yield": 1,
-      "unit_sale_price": 347000,
+      "unit_sale_price": 346000,
       "scenarios": {
         "buy": {
           "cost": 552775.0,
-          "profit": -223125.0,
-          "profit_per_unit": -223125.0,
-          "roi": -40.36452444484645,
+          "profit": -224075.0,
+          "profit_per_unit": -224075.0,
+          "roi": -40.53638460494776,
           "gathered": [],
           "missing": []
         },
         "gather": {
           "cost": 552775.0,
-          "profit": -223125.0,
-          "profit_per_unit": -223125.0,
-          "roi": -40.36452444484645,
+          "profit": -224075.0,
+          "profit_per_unit": -224075.0,
+          "roi": -40.53638460494776,
           "gathered": [
             "Essence of Air",
             "Sungrass",
@@ -6609,9 +6609,9 @@
         },
         "plan": {
           "cost": 552775.0,
-          "profit": -223125.0,
-          "profit_per_unit": -223125.0,
-          "roi": -40.36452444484645,
+          "profit": -224075.0,
+          "profit_per_unit": -224075.0,
+          "roi": -40.53638460494776,
           "gathered": [
             "Storm Brine",
             "Blightroot",

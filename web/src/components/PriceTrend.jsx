@@ -102,6 +102,8 @@ export default function PriceTrend({ points, turnover, name }) {
     setHover(best)
   }
 
+  // A reading only counts towards demand once it carries a listing depth.
+  const depthReadings = (points || []).filter((p) => p.length > 3 && p[3] != null).length
   const ticks = view ? niceTicks(view.lo, view.hi) : []
   const fmtTick = tickFormatter(ticks.length ? ticks : [0])
   const first = view?.rows[0]
@@ -171,6 +173,27 @@ export default function PriceTrend({ points, turnover, name }) {
             </g>
           )}
         </svg>
+      )}
+
+      {!turnover && depthReadings > 0 && (
+        <div className="turnover collecting">
+          <span className="k">
+            Stock leaving the AH
+            <InfoTip label="Why there is no figure yet">
+              This is measured by watching how many units are listed and counting the
+              falls. That needs at least three readings spanning an hour, and a reading
+              only lands when a fresh auction scan reaches the shared database — roughly
+              a few times a day, not once per publish.
+              <br /><br />
+              {depthReadings} recorded so far. Scanning the auction house yourself and
+              reloading adds one immediately.
+            </InfoTip>
+          </span>
+          <strong className="muted">collecting</strong>
+          <span className="muted">
+            {depthReadings} depth reading{depthReadings === 1 ? '' : 's'} so far · needs 3 over an hour
+          </span>
+        </div>
       )}
 
       {turnover && (

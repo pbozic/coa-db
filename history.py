@@ -82,7 +82,7 @@ def update(catalog: coadata.Catalog, realm: str, store_path: Path,
     store = load(store_path)
     items = store.setdefault("items", {})
     now = time.time()
-    added = seeded = 0
+    added = seeded = upgraded = 0
 
     for item_id in sorted(wanted):
         price = best.prices.get(item_id)
@@ -100,11 +100,18 @@ def update(catalog: coadata.Catalog, realm: str, store_path: Path,
                 known.add(stamp)
                 seeded += 1
 
-        stamp = price.last_scan or best.last_complete_scan or int(now)
-        if stamp not in known:
-            points.append([int(stamp), price.market_value, price.min_buyout,
-                           price.quantity])
+        stamp = int(price.last_scan or best.last_complete_scan or now)
+        fresh = [stamp, price.market_value, price.min_buyout, price.quantity]
+        existing = next((p for p in points if p[0] == stamp), None)
+        if existing is None:
+            points.append(fresh)
             added += 1
+        elif len(existing) < 4 or existing[3] is None:
+            # An earlier run recorded this reading before quantity was tracked.
+            # Skipping it would keep that gap forever, since the timestamp never
+            # comes round again.
+            existing[:] = fresh
+            upgraded += 1
 
         items[key] = compact(points, now)
 
@@ -115,7 +122,7 @@ def update(catalog: coadata.Catalog, realm: str, store_path: Path,
 
     total = sum(len(v) for v in items.values())
     print(f"{len(items)} items, {total} points "
-          f"(+{added} from this scan, +{seeded} backfilled from TSM's daily series)")
+          f"(+{added} new, {upgraded} filled in, +{seeded} backfilled from TSM)")
     print(f"Wrote {store_path} ({store_path.stat().st_size / 1024:.0f} KB)")
     return store
 
