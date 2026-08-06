@@ -233,3 +233,34 @@ input[type='checkbox'] { accent-color: var(--accent); width: 15px; height: 15px;
   margin-top: 8px; padding: 7px 11px; border-radius: 6px;
   background: var(--panel-2); font-size: 13px; font-variant-numeric: tabular-nums;
 }
+
+.turnover {
+  display: grid; grid-template-columns: auto auto 1fr; gap: 4px 12px;
+  align-items: baseline; margin-top: 10px; padding: 9px 12px;
+  border-radius: 6px; background: var(--panel-2);
+}
+.turnover .k { font-size: 10.5px; text-transform: uppercase; letter-spacing: .7px; color: var(--dim); }
+.turnover strong { font-size: 16px; font-variant-numeric: tabular-nums; }
+.turnover .muted { font-size: 12.5px; }
+.turnover .caveat { grid-column: 1 / -1; color: var(--dim); font-size: 12px; margin-top: 2px; }
+
+/* ---------- info tip ---------- */
+.infotip { position: relative; display: inline-block; margin-left: 5px; cursor: help; }
+.infotip-mark {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 13px; height: 13px; border-radius: 50%; font-size: 9px; font-weight: 700;
+  background: var(--panel-3); color: var(--muted); border: 1px solid var(--line);
+}
+.infotip:hover .infotip-mark, .infotip:focus .infotip-mark { background: var(--accent); color: #14161a; }
+.infotip-body {
+  position: absolute; left: 0; top: calc(100% + 7px); z-index: 60; width: 320px;
+  background: var(--panel); border: 1px solid var(--line); border-radius: 8px;
+  padding: 11px 13px; font-size: 12.5px; line-height: 1.55; font-weight: 400;
+  color: var(--text); text-transform: none; letter-spacing: 0;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, .55);
+  opacity: 0; visibility: hidden; transition: opacity .12s ease;
+}
+.infotip:hover .infotip-body, .infotip:focus .infotip-body { opacity: 1; visibility: visible; }
+/* The label sits at the left of the panel, so the tip opens rightwards from the
+   marker. Anchoring it right would push it off the pane, which clips it. */
+.turnover .infotip-body { left: 0; right: auto; }

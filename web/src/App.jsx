@@ -83,7 +83,7 @@ export default function App() {
 
     fetch(import.meta.env.VITE_HISTORY_URL || 'history.json', { cache: 'no-store' })
       .then((r) => (r.ok ? r.json() : null))
-      .then((h) => setHistory(h?.items || null))
+      .then((h) => setHistory(h ? { series: h.items || {}, turnover: h.turnover || {} } : null))
       .catch(() => setHistory(null))
 
     Promise.all([catalog, prices])

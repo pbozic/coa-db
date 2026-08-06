@@ -157,7 +157,11 @@ export default function ItemDetail({ item, model, farmed, onToggleFarm, onOpen, 
         </div>
       )}
 
-      <PriceTrend points={history?.[String(item.saleItemId ?? item.id)]} name={item.name} />
+      <PriceTrend
+        points={history?.series?.[String(item.saleItemId ?? item.id)]}
+        turnover={history?.turnover?.[String(item.saleItemId ?? item.id)]}
+        name={item.name}
+      />
 
       {item.effect && (
         <div className="section">

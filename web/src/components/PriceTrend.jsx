@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import InfoTip from './InfoTip.jsx'
 import { money } from '../model.js'
 
 const WIDTH = 640
@@ -46,7 +47,7 @@ function niceTicks(min, max, count = 4) {
  * starts partway along — drawn as a separate path rather than interpolated
  * across the gap, which would invent readings that were never taken.
  */
-export default function PriceTrend({ points, name }) {
+export default function PriceTrend({ points, turnover, name }) {
   const [days, setDays] = useState(14)
   const [hover, setHover] = useState(null)
 
@@ -170,6 +171,33 @@ export default function PriceTrend({ points, name }) {
             </g>
           )}
         </svg>
+      )}
+
+      {turnover && (
+        <div className="turnover">
+          <span className="k">
+            Stock leaving the AH
+            <InfoTip label="How stock leaving is measured">
+              <strong>Counted, not reported.</strong> Every scan records how many units are
+              listed. When that number falls, units left the auction house — so this is the
+              total that disappeared per day.
+              <br /><br />
+              Those departures are <em>sales and expiries together</em>. No scan data
+              separates them, and Ascension has no crowdsourced sale rate the way retail TSM
+              does, so treat it as an <strong>upper bound on demand</strong> rather than a
+              sale figure. On a briskly traded item expiries are the smaller part; on a
+              stagnant one most of it may be listings timing out.
+              <br /><br />
+              Compare it against the relisted figure: if roughly as much comes back as
+              leaves, supply is replacing itself and the price should hold.
+            </InfoTip>
+          </span>
+          <strong>~{turnover.perDay}/day</strong>
+          <span className="muted">
+            {turnover.addedPerDay}/day relisted · typically {turnover.medianDepth} listed ·
+            from {turnover.samples} readings over {turnover.hours}h
+          </span>
+        </div>
       )}
 
       {hover && (

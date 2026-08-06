@@ -96,13 +96,14 @@ def update(catalog: coadata.Catalog, realm: str, store_path: Path,
         for day, value in sorted(price.history.items()):
             stamp = day_to_timestamp(day)
             if stamp not in known and value:
-                points.append([stamp, value, None])
+                points.append([stamp, value, None, None])
                 known.add(stamp)
                 seeded += 1
 
         stamp = price.last_scan or best.last_complete_scan or int(now)
         if stamp not in known:
-            points.append([int(stamp), price.market_value, price.min_buyout])
+            points.append([int(stamp), price.market_value, price.min_buyout,
+                           price.quantity])
             added += 1
 
         items[key] = compact(points, now)
@@ -119,17 +120,54 @@ def update(catalog: coadata.Catalog, realm: str, store_path: Path,
     return store
 
 
+def turnover(points: list[list]) -> dict | None:
+    """How fast stock leaves the auction house, from changes in listing depth.
+
+    A drop in the number listed means units left: bought, or expired. There is
+    no way to tell those apart from scan data -- TSM records neither -- so this
+    is an upper bound on sales, not a sale rate. It is still the only demand
+    signal available, and on a liquid item expiries are the smaller part.
+
+    Needs our own snapshots; TSM's daily backfill carries no quantity.
+    """
+    depths = [(p[0], p[3]) for p in points if len(p) > 3 and p[3] is not None]
+    if len(depths) < 3:
+        return None
+    depths.sort()
+    span = depths[-1][0] - depths[0][0]
+    if span < 3600:                       # under an hour of readings proves nothing
+        return None
+
+    removed = sum(max(0, a[1] - b[1]) for a, b in zip(depths, depths[1:]))
+    added = sum(max(0, b[1] - a[1]) for a, b in zip(depths, depths[1:]))
+    values = sorted(d[1] for d in depths)
+    return {
+        "perDay": round(removed / (span / 86400), 1),
+        "addedPerDay": round(added / (span / 86400), 1),
+        "medianDepth": values[len(values) // 2],
+        "samples": len(depths),
+        "hours": round(span / 3600, 1),
+    }
+
+
 def export(store: dict, path: Path) -> None:
     """Trim to what the browser plots, and write it next to the site."""
+    stats = {}
+    for key, points in store["items"].items():
+        summary = turnover(points)
+        if summary:
+            stats[key] = summary
     payload = {
         "updated": store.get("updated"),
         "realm": store.get("realm"),
+        "turnover": stats,
         "items": {k: v for k, v in store["items"].items() if len(v) >= 2},
     }
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(payload, separators=(",", ":")), encoding="utf-8")
     print(f"Wrote {path} ({path.stat().st_size / 1024:.0f} KB, "
-          f"{len(payload['items'])} items with a trend)")
+          f"{len(payload['items'])} items with a trend, "
+          f"{len(stats)} with a turnover estimate)")
 
 
 def main() -> int:
