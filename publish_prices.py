@@ -72,23 +72,32 @@ def raw_url(branch: str = DATA_BRANCH) -> str | None:
     return f"https://raw.githubusercontent.com/{slug}/{branch}/prices.json"
 
 
+def run_binary(command: list[str], payload: bytes) -> str:
+    """Feed git plumbing on stdin without newline translation.
+
+    Text mode would rewrite every ``\\n`` as ``\\r\\n`` on Windows, and
+    ``git mktree`` reads its input line by line -- so the stray carriage return
+    ends up as part of the filename, producing a file literally called
+    ``prices.json\\r`` that no URL can reach.
+    """
+    resolved = shutil.which(command[0]) or command[0]
+    result = subprocess.run([resolved, *command[1:]], input=payload,
+                            capture_output=True, **NO_WINDOW)
+    if result.returncode != 0:
+        raise SystemExit(f"{' '.join(command)} failed: "
+                         f"{result.stderr.decode('utf-8', 'replace').strip()}")
+    return result.stdout.decode("utf-8").strip()
+
+
 def publish_to_branch(branch: str) -> None:
     """Put prices.json alone on an orphan branch, leaving the worktree alone."""
-    payload = PRICES.read_text(encoding="utf-8")
+    payload = PRICES.read_bytes()
 
     # Build the commit with plumbing so the working tree is never touched and
     # no branch checkout is needed.
-    result = run(["git", "hash-object", "-w", "--stdin"],
-                 input=payload, capture_output=True)
-    if result.returncode != 0:
-        raise SystemExit("could not write prices blob")
-    blob = result.stdout.strip()
-
-    tree_spec = f"100644 blob {blob}\tprices.json\n"
-    result = run(["git", "mktree"], input=tree_spec, capture_output=True)
-    if result.returncode != 0:
-        raise SystemExit("could not build prices tree")
-    tree = result.stdout.strip()
+    blob = run_binary(["git", "hash-object", "-w", "--stdin"], payload)
+    tree = run_binary(["git", "mktree"],
+                      f"100644 blob {blob}\tprices.json\n".encode())
 
     parent = run(["git", "rev-parse", f"refs/heads/{branch}"], capture_output=True)
     args = ["git", "commit-tree", tree, "-m", "Update prices"]
