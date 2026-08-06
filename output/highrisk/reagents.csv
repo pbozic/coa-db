@@ -1,0 +1,250 @@
+product_id,product_name,family,spell_id,reagent_id,reagent_name,quantity_per_craft,reagent_is_custom,reagent_craftable,reagent_sources
+968698,Enchant Weapon - Arcane Artillery,enchant,968698,1303708,Hell Dust,1,1,1,crafted
+968698,Enchant Weapon - Arcane Artillery,enchant,968698,1303707,Profane Shard,1,1,1,"crafted, disenchanting"
+968698,Enchant Weapon - Arcane Artillery,enchant,968698,14344,Large Brilliant Shard,5,0,0,"container, quest objective, crafted, disenchanting"
+968698,Enchant Weapon - Arcane Artillery,enchant,968698,16203,Greater Eternal Essence,15,0,0,"container, quest objective, crafted, disenchanting"
+968698,Enchant Weapon - Arcane Artillery,enchant,968698,16204,Illusion Dust,20,0,0,"container, quest objective, disenchanting"
+968695,Enchant Weapon - Arcane Dexterity,enchant,968695,1303164,Item 1303164,1,1,0,
+968695,Enchant Weapon - Arcane Dexterity,enchant,968695,1303149,Item 1303149,1,1,0,
+968695,Enchant Weapon - Arcane Dexterity,enchant,968695,14344,Large Brilliant Shard,1,0,0,"container, quest objective, crafted, disenchanting"
+968695,Enchant Weapon - Arcane Dexterity,enchant,968695,16203,Greater Eternal Essence,5,0,0,"container, quest objective, crafted, disenchanting"
+968695,Enchant Weapon - Arcane Dexterity,enchant,968695,16204,Illusion Dust,10,0,0,"container, quest objective, disenchanting"
+968701,Enchant Weapon - Arcane Precision,enchant,968701,1303160,Item 1303160,1,1,0,
+968701,Enchant Weapon - Arcane Precision,enchant,968701,1303149,Item 1303149,1,1,0,
+968701,Enchant Weapon - Arcane Precision,enchant,968701,14344,Large Brilliant Shard,1,0,0,"container, quest objective, crafted, disenchanting"
+968701,Enchant Weapon - Arcane Precision,enchant,968701,16203,Greater Eternal Essence,5,0,0,"container, quest objective, crafted, disenchanting"
+968701,Enchant Weapon - Arcane Precision,enchant,968701,16204,Illusion Dust,10,0,0,"container, quest objective, disenchanting"
+968770,Enchant Weapon - Brutal Crusader,enchant,968770,1303709,Animated Bone Dust,1,1,1,crafted
+968770,Enchant Weapon - Brutal Crusader,enchant,968770,1303707,Profane Shard,1,1,1,"crafted, disenchanting"
+968770,Enchant Weapon - Brutal Crusader,enchant,968770,14344,Large Brilliant Shard,5,0,0,"container, quest objective, crafted, disenchanting"
+968770,Enchant Weapon - Brutal Crusader,enchant,968770,16203,Greater Eternal Essence,15,0,0,"container, quest objective, crafted, disenchanting"
+968770,Enchant Weapon - Brutal Crusader,enchant,968770,16204,Illusion Dust,20,0,0,"container, quest objective, disenchanting"
+968689,Enchant Weapon - Grovewarden's Blessing,enchant,968689,1303710,Essence of Twilight,1,1,1,crafted
+968689,Enchant Weapon - Grovewarden's Blessing,enchant,968689,1303707,Profane Shard,1,1,1,"crafted, disenchanting"
+968689,Enchant Weapon - Grovewarden's Blessing,enchant,968689,14344,Large Brilliant Shard,5,0,0,"container, quest objective, crafted, disenchanting"
+968689,Enchant Weapon - Grovewarden's Blessing,enchant,968689,16203,Greater Eternal Essence,15,0,0,"container, quest objective, crafted, disenchanting"
+968689,Enchant Weapon - Grovewarden's Blessing,enchant,968689,16204,Illusion Dust,20,0,0,"container, quest objective, disenchanting"
+968680,Enchant Weapon - Lucid Assault,enchant,968680,1303164,Item 1303164,1,1,0,
+968680,Enchant Weapon - Lucid Assault,enchant,968680,1303149,Item 1303149,1,1,0,
+968680,Enchant Weapon - Lucid Assault,enchant,968680,14344,Large Brilliant Shard,1,0,0,"container, quest objective, crafted, disenchanting"
+968680,Enchant Weapon - Lucid Assault,enchant,968680,16203,Greater Eternal Essence,5,0,0,"container, quest objective, crafted, disenchanting"
+968680,Enchant Weapon - Lucid Assault,enchant,968680,16204,Illusion Dust,10,0,0,"container, quest objective, disenchanting"
+968686,Enchant Weapon - Ninja's Focus,enchant,968686,1303710,Essence of Twilight,1,1,1,crafted
+968686,Enchant Weapon - Ninja's Focus,enchant,968686,1303707,Profane Shard,1,1,1,"crafted, disenchanting"
+968686,Enchant Weapon - Ninja's Focus,enchant,968686,14344,Large Brilliant Shard,5,0,0,"container, quest objective, crafted, disenchanting"
+968686,Enchant Weapon - Ninja's Focus,enchant,968686,16203,Greater Eternal Essence,15,0,0,"container, quest objective, crafted, disenchanting"
+968686,Enchant Weapon - Ninja's Focus,enchant,968686,16204,Illusion Dust,20,0,0,"container, quest objective, disenchanting"
+968683,Enchant Weapon - Spellbinder's Rage,enchant,968683,1303709,Animated Bone Dust,1,1,1,crafted
+968683,Enchant Weapon - Spellbinder's Rage,enchant,968683,1303707,Profane Shard,1,1,1,"crafted, disenchanting"
+968683,Enchant Weapon - Spellbinder's Rage,enchant,968683,14344,Large Brilliant Shard,5,0,0,"container, quest objective, crafted, disenchanting"
+968683,Enchant Weapon - Spellbinder's Rage,enchant,968683,16203,Greater Eternal Essence,15,0,0,"container, quest objective, crafted, disenchanting"
+968683,Enchant Weapon - Spellbinder's Rage,enchant,968683,16204,Illusion Dust,20,0,0,"container, quest objective, disenchanting"
+968677,Enchant Weapon - Unstoppable Assault,enchant,968677,1303708,Hell Dust,1,1,1,crafted
+968677,Enchant Weapon - Unstoppable Assault,enchant,968677,1303707,Profane Shard,1,1,1,"crafted, disenchanting"
+968677,Enchant Weapon - Unstoppable Assault,enchant,968677,14344,Large Brilliant Shard,5,0,0,"container, quest objective, crafted, disenchanting"
+968677,Enchant Weapon - Unstoppable Assault,enchant,968677,16203,Greater Eternal Essence,15,0,0,"container, quest objective, crafted, disenchanting"
+968677,Enchant Weapon - Unstoppable Assault,enchant,968677,16204,Illusion Dust,20,0,0,"container, quest objective, disenchanting"
+968692,Enchant Weapon - Viscious Assault,enchant,968692,1303164,Item 1303164,1,1,0,
+968692,Enchant Weapon - Viscious Assault,enchant,968692,1303149,Item 1303149,1,1,0,
+968692,Enchant Weapon - Viscious Assault,enchant,968692,14344,Large Brilliant Shard,1,0,0,"container, quest objective, crafted, disenchanting"
+968692,Enchant Weapon - Viscious Assault,enchant,968692,16203,Greater Eternal Essence,5,0,0,"container, quest objective, crafted, disenchanting"
+968692,Enchant Weapon - Viscious Assault,enchant,968692,16204,Illusion Dust,10,0,0,"container, quest objective, disenchanting"
+967474,Distilled Flask of Adept Striking,flask,968433,1303714,Plague Blossom,1,1,1,"object, crafted"
+967474,Distilled Flask of Adept Striking,flask,968433,1303711,Blightroot Extract,1,1,1,crafted
+967474,Distilled Flask of Adept Striking,flask,968433,13463,Dreamfoil,10,0,0,"vendor, drop, container, object, quest objective, gathering"
+967474,Distilled Flask of Adept Striking,flask,968433,12808,Essence of Undeath,2,0,0,"drop, crafted"
+967453,Distilled Flask of Butchery,flask,968412,1303713,Fiery Frond,1,1,1,"object, crafted"
+967453,Distilled Flask of Butchery,flask,968412,1303711,Blightroot Extract,1,1,1,crafted
+967453,Distilled Flask of Butchery,flask,968412,13466,Plaguebloom,10,0,0,"drop, container, quest objective, gathering"
+967453,Distilled Flask of Butchery,flask,968412,7076,Essence of Earth,2,0,0,"drop, container, crafted"
+967471,Distilled Flask of Deep Meditation,flask,968430,1303714,Plague Blossom,1,1,1,"object, crafted"
+967471,Distilled Flask of Deep Meditation,flask,968430,1303711,Blightroot Extract,1,1,1,crafted
+967471,Distilled Flask of Deep Meditation,flask,968430,13467,Icecap,10,0,0,"vendor, drop, container, quest objective, gathering"
+967471,Distilled Flask of Deep Meditation,flask,968430,7080,Essence of Water,2,0,0,"drop, container, quest objective, crafted"
+967444,Distilled Flask of Manifesting Power,flask,968403,1303715,Spectral Rose,1,1,1,"object, crafted"
+967444,Distilled Flask of Manifesting Power,flask,968403,1303711,Blightroot Extract,1,1,1,crafted
+967444,Distilled Flask of Manifesting Power,flask,968403,13465,Mountain Silversage,10,0,0,"vendor, drop, container, object, quest objective, gathering"
+967444,Distilled Flask of Manifesting Power,flask,968403,12803,Living Essence,2,0,0,"drop, quest objective, crafted"
+967462,Distilled Flask of Savage Assault,flask,968421,1303712,Storm Brine,1,1,1,"object, crafted"
+967462,Distilled Flask of Savage Assault,flask,968421,1303711,Blightroot Extract,1,1,1,crafted
+967462,Distilled Flask of Savage Assault,flask,968421,8838,Sungrass,10,0,0,"drop, container, object, quest objective, gathering"
+967462,Distilled Flask of Savage Assault,flask,968421,7082,Essence of Air,2,0,0,"drop, container, quest objective, crafted"
+967465,Distilled Flask of Shattering Thunder,flask,968424,1303712,Storm Brine,1,1,1,"object, crafted"
+967465,Distilled Flask of Shattering Thunder,flask,968424,1303711,Blightroot Extract,1,1,1,crafted
+967465,Distilled Flask of Shattering Thunder,flask,968424,8838,Sungrass,10,0,0,"drop, container, object, quest objective, gathering"
+967465,Distilled Flask of Shattering Thunder,flask,968424,7082,Essence of Air,2,0,0,"drop, container, quest objective, crafted"
+967459,Distilled Flask of Unrelenting Power,flask,968418,1303713,Fiery Frond,1,1,1,"object, crafted"
+967459,Distilled Flask of Unrelenting Power,flask,968418,1303711,Blightroot Extract,1,1,1,crafted
+967459,Distilled Flask of Unrelenting Power,flask,968418,13464,Golden Sansam,10,0,0,"vendor, drop, container, object, quest objective, gathering"
+967459,Distilled Flask of Unrelenting Power,flask,968418,12808,Essence of Undeath,2,0,0,"drop, crafted"
+967468,Distilled Flask of the Executioner,flask,968427,1303715,Spectral Rose,1,1,1,"object, crafted"
+967468,Distilled Flask of the Executioner,flask,968427,1303711,Blightroot Extract,1,1,1,crafted
+967468,Distilled Flask of the Executioner,flask,968427,13466,Plaguebloom,10,0,0,"drop, container, quest objective, gathering"
+967468,Distilled Flask of the Executioner,flask,968427,7078,Essence of Fire,2,0,0,"drop, container, quest objective, crafted"
+967450,Distilled Flask of the Kirin Tor,flask,968409,1303715,Spectral Rose,1,1,1,"object, crafted"
+967450,Distilled Flask of the Kirin Tor,flask,968409,1303711,Blightroot Extract,1,1,1,crafted
+967450,Distilled Flask of the Kirin Tor,flask,968409,8836,Arthas' Tears,10,0,0,"drop, container, quest objective, gathering"
+967450,Distilled Flask of the Kirin Tor,flask,968409,7080,Essence of Water,2,0,0,"drop, container, quest objective, crafted"
+967456,Distilled Flask of the Unyielding,flask,968415,1303713,Fiery Frond,1,1,1,"object, crafted"
+967456,Distilled Flask of the Unyielding,flask,968415,1303711,Blightroot Extract,1,1,1,crafted
+967456,Distilled Flask of the Unyielding,flask,968415,13465,Mountain Silversage,10,0,0,"vendor, drop, container, object, quest objective, gathering"
+967456,Distilled Flask of the Unyielding,flask,968415,7076,Essence of Earth,2,0,0,"drop, container, crafted"
+967447,Distilled Flask of the Warsong,flask,968406,1303714,Plague Blossom,1,1,1,"object, crafted"
+967447,Distilled Flask of the Warsong,flask,968406,1303711,Blightroot Extract,1,1,1,crafted
+967447,Distilled Flask of the Warsong,flask,968406,13467,Icecap,10,0,0,"vendor, drop, container, quest objective, gathering"
+967447,Distilled Flask of the Warsong,flask,968406,7078,Essence of Fire,2,0,0,"drop, container, quest objective, crafted"
+967519,Fused Air Fried Chops,food,968289,1303724,Scorched Silithid Meat,1,1,1,crafted
+967519,Fused Air Fried Chops,food,968289,1303720,Cured Savage Meat,1,1,1,crafted
+967519,Fused Air Fried Chops,food,968289,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967624,Fused Blackened Roast,food,968394,1303721,Seared Savage Chimaera Meat,1,1,1,crafted
+967624,Fused Blackened Roast,food,968394,1303720,Cured Savage Meat,1,1,1,crafted
+967624,Fused Blackened Roast,food,968394,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967561,Fused Blazing Stew,food,968331,1303476,Item 1303476,1,1,0,
+967561,Fused Blazing Stew,food,968331,1303470,Item 1303470,1,1,0,
+967561,Fused Blazing Stew,food,968331,12184,Raptor Flesh,3,0,0,"drop, container"
+967561,Fused Blazing Stew,food,968331,7078,Essence of Fire,1,0,0,"drop, container, quest objective, crafted"
+967630,Fused Bold Duck Stew,food,968400,1303723,Shadowcharred Animated Meat,1,1,1,crafted
+967630,Fused Bold Duck Stew,food,968400,1303720,Cured Savage Meat,1,1,1,crafted
+967630,Fused Bold Duck Stew,food,968400,3712,Turtle Meat,2,0,0,"drop, container, quest objective"
+967627,Fused Bold Simmered Stew,food,968397,1303724,Scorched Silithid Meat,1,1,1,crafted
+967627,Fused Bold Simmered Stew,food,968397,1303720,Cured Savage Meat,1,1,1,crafted
+967627,Fused Bold Simmered Stew,food,968397,12208,Tender Wolf Meat,2,0,0,"drop, container"
+967609,Fused Bold Stew,food,968379,1303721,Seared Savage Chimaera Meat,1,1,1,crafted
+967609,Fused Bold Stew,food,968379,1303720,Cured Savage Meat,1,1,1,crafted
+967609,Fused Bold Stew,food,968379,20424,Sandworm Meat,2,0,0,"drop, quest objective"
+967513,Fused Charred Steak,food,968283,1303721,Seared Savage Chimaera Meat,1,1,1,crafted
+967513,Fused Charred Steak,food,968283,1303720,Cured Savage Meat,1,1,1,crafted
+967513,Fused Charred Steak,food,968283,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967567,Fused Chunky Stew,food,968337,1303724,Scorched Silithid Meat,1,1,1,crafted
+967567,Fused Chunky Stew,food,968337,1303720,Cured Savage Meat,1,1,1,crafted
+967567,Fused Chunky Stew,food,968337,12184,Raptor Flesh,2,0,0,"drop, container"
+967525,Fused Clear-Cut Chops,food,968295,1303722,Salted Naga Tail,1,1,1,crafted
+967525,Fused Clear-Cut Chops,food,968295,1303720,Cured Savage Meat,1,1,1,crafted
+967525,Fused Clear-Cut Chops,food,968295,12184,Raptor Flesh,2,0,0,"drop, container"
+967531,Fused Clear-Cut Steak,food,968301,1303723,Shadowcharred Animated Meat,1,1,1,crafted
+967531,Fused Clear-Cut Steak,food,968301,1303720,Cured Savage Meat,1,1,1,crafted
+967531,Fused Clear-Cut Steak,food,968301,12207,Giant Egg,2,0,0,"drop, container, quest objective"
+967528,Fused Clear-Cut Wontons,food,968298,1303721,Seared Savage Chimaera Meat,1,1,1,crafted
+967528,Fused Clear-Cut Wontons,food,968298,1303720,Cured Savage Meat,1,1,1,crafted
+967528,Fused Clear-Cut Wontons,food,968298,13759,Raw Nightfin Snapper,2,0,0,"container, quest objective"
+967564,Fused Duck Stew,food,968334,1303722,Salted Naga Tail,1,1,1,crafted
+967564,Fused Duck Stew,food,968334,1303720,Cured Savage Meat,1,1,1,crafted
+967564,Fused Duck Stew,food,968334,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967585,Fused Hearty Air Fried Chops,food,968355,1303724,Scorched Silithid Meat,1,1,1,crafted
+967585,Fused Hearty Air Fried Chops,food,968355,1303720,Cured Savage Meat,1,1,1,crafted
+967585,Fused Hearty Air Fried Chops,food,968355,12208,Tender Wolf Meat,2,0,0,"drop, container"
+967588,Fused Hearty Charred Steak,food,968358,1303722,Salted Naga Tail,1,1,1,crafted
+967588,Fused Hearty Charred Steak,food,968358,1303720,Cured Savage Meat,1,1,1,crafted
+967588,Fused Hearty Charred Steak,food,968358,13759,Raw Nightfin Snapper,2,0,0,"container, quest objective"
+967582,Fused Hearty Living Soup,food,968352,1303721,Seared Savage Chimaera Meat,1,1,1,crafted
+967582,Fused Hearty Living Soup,food,968352,1303720,Cured Savage Meat,1,1,1,crafted
+967582,Fused Hearty Living Soup,food,968352,12207,Giant Egg,2,0,0,"drop, container, quest objective"
+967591,Fused Hearty Steamed Wontons,food,968361,1303723,Shadowcharred Animated Meat,1,1,1,crafted
+967591,Fused Hearty Steamed Wontons,food,968361,1303720,Cured Savage Meat,1,1,1,crafted
+967591,Fused Hearty Steamed Wontons,food,968361,3712,Turtle Meat,2,0,0,"drop, container, quest objective"
+967579,Fused Heightened Wontons,food,968349,1303472,Item 1303472,1,1,0,
+967579,Fused Heightened Wontons,food,968349,1303470,Item 1303470,1,1,0,
+967579,Fused Heightened Wontons,food,968349,3712,Turtle Meat,3,0,0,"drop, container, quest objective"
+967579,Fused Heightened Wontons,food,968349,7080,Essence of Water,1,0,0,"drop, container, quest objective, crafted"
+967510,Fused Living Soup,food,968280,1303723,Shadowcharred Animated Meat,1,1,1,crafted
+967510,Fused Living Soup,food,968280,1303720,Cured Savage Meat,1,1,1,crafted
+967510,Fused Living Soup,food,968280,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967612,Fused Mana Imbued Roast,food,968382,1303722,Salted Naga Tail,1,1,1,crafted
+967612,Fused Mana Imbued Roast,food,968382,1303720,Cured Savage Meat,1,1,1,crafted
+967612,Fused Mana Imbued Roast,food,968382,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967534,Fused Piercing Chops,food,968304,1303721,Seared Savage Chimaera Meat,1,1,1,crafted
+967534,Fused Piercing Chops,food,968304,1303720,Cured Savage Meat,1,1,1,crafted
+967534,Fused Piercing Chops,food,968304,21024,Chimaerok Tenderloin,2,0,0,"drop, quest objective"
+967537,Fused Piercing Steak,food,968307,1303722,Salted Naga Tail,1,1,1,crafted
+967537,Fused Piercing Steak,food,968307,1303720,Cured Savage Meat,1,1,1,crafted
+967537,Fused Piercing Steak,food,968307,20424,Sandworm Meat,2,0,0,"drop, quest objective"
+967558,Fused Red-Hot Stew,food,968328,1303721,Seared Savage Chimaera Meat,1,1,1,crafted
+967558,Fused Red-Hot Stew,food,968328,1303720,Cured Savage Meat,1,1,1,crafted
+967558,Fused Red-Hot Stew,food,968328,20424,Sandworm Meat,2,0,0,"drop, quest objective"
+967522,Fused Rock's Stew,food,968292,1303723,Shadowcharred Animated Meat,1,1,1,crafted
+967522,Fused Rock's Stew,food,968292,1303720,Cured Savage Meat,1,1,1,crafted
+967522,Fused Rock's Stew,food,968292,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967549,Fused Savory Chops,food,968319,1303476,Item 1303476,1,1,0,
+967549,Fused Savory Chops,food,968319,1303470,Item 1303470,1,1,0,
+967549,Fused Savory Chops,food,968319,21024,Chimaerok Tenderloin,3,0,0,"drop, quest objective"
+967549,Fused Savory Chops,food,968319,12808,Essence of Undeath,2,0,0,"drop, crafted"
+967552,Fused Savory Steak,food,968322,1303476,Item 1303476,1,1,0,
+967552,Fused Savory Steak,food,968322,1303470,Item 1303470,1,1,0,
+967552,Fused Savory Steak,food,968322,21024,Chimaerok Tenderloin,3,0,0,"drop, quest objective"
+967552,Fused Savory Steak,food,968322,12808,Essence of Undeath,2,0,0,"drop, crafted"
+967546,Fused Savory Stew,food,968316,1303476,Item 1303476,1,1,0,
+967546,Fused Savory Stew,food,968316,1303470,Item 1303470,1,1,0,
+967546,Fused Savory Stew,food,968316,12037,Mystery Meat,3,0,0,"vendor, drop, container"
+967546,Fused Savory Stew,food,968316,12808,Essence of Undeath,2,0,0,"drop, crafted"
+967555,Fused Savory Wontons,food,968325,1303476,Item 1303476,1,1,0,
+967555,Fused Savory Wontons,food,968325,1303470,Item 1303470,1,1,0,
+967555,Fused Savory Wontons,food,968325,3712,Turtle Meat,3,0,0,"drop, container, quest objective"
+967555,Fused Savory Wontons,food,968325,7080,Essence of Water,1,0,0,"drop, container, quest objective, crafted"
+967543,Fused Seared Chops,food,968313,1303724,Scorched Silithid Meat,1,1,1,crafted
+967543,Fused Seared Chops,food,968313,1303720,Cured Savage Meat,1,1,1,crafted
+967543,Fused Seared Chops,food,968313,12207,Giant Egg,2,0,0,"drop, container, quest objective"
+967540,Fused Seared Wontons,food,968310,1303724,Scorched Silithid Meat,1,1,1,crafted
+967540,Fused Seared Wontons,food,968310,1303720,Cured Savage Meat,1,1,1,crafted
+967540,Fused Seared Wontons,food,968310,21024,Chimaerok Tenderloin,2,0,0,"drop, quest objective"
+967570,Fused Simmered Stew,food,968340,1303723,Shadowcharred Animated Meat,1,1,1,crafted
+967570,Fused Simmered Stew,food,968340,1303720,Cured Savage Meat,1,1,1,crafted
+967570,Fused Simmered Stew,food,968340,12208,Tender Wolf Meat,2,0,0,"drop, container"
+967615,Fused Sizzling Roast,food,968385,1303723,Shadowcharred Animated Meat,1,1,1,crafted
+967615,Fused Sizzling Roast,food,968385,1303720,Cured Savage Meat,1,1,1,crafted
+967615,Fused Sizzling Roast,food,968385,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967516,Fused Steamed Wontons,food,968286,1303722,Salted Naga Tail,1,1,1,crafted
+967516,Fused Steamed Wontons,food,968286,1303720,Cured Savage Meat,1,1,1,crafted
+967516,Fused Steamed Wontons,food,968286,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967597,Fused Subtle Chops,food,968367,1303721,Seared Savage Chimaera Meat,1,1,1,crafted
+967597,Fused Subtle Chops,food,968367,1303720,Cured Savage Meat,1,1,1,crafted
+967597,Fused Subtle Chops,food,968367,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967606,Fused Subtle Soup,food,968376,1303724,Scorched Silithid Meat,1,1,1,crafted
+967606,Fused Subtle Soup,food,968376,1303720,Cured Savage Meat,1,1,1,crafted
+967606,Fused Subtle Soup,food,968376,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967600,Fused Subtle Steak,food,968370,1303724,Scorched Silithid Meat,1,1,1,crafted
+967600,Fused Subtle Steak,food,968370,1303720,Cured Savage Meat,1,1,1,crafted
+967600,Fused Subtle Steak,food,968370,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967603,Fused Subtle Wontons,food,968373,1303722,Salted Naga Tail,1,1,1,crafted
+967603,Fused Subtle Wontons,food,968373,1303720,Cured Savage Meat,1,1,1,crafted
+967603,Fused Subtle Wontons,food,968373,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967594,Fused Vibrant Chops,food,968364,1303476,Item 1303476,1,1,0,
+967594,Fused Vibrant Chops,food,968364,1303470,Item 1303470,1,1,0,
+967594,Fused Vibrant Chops,food,968364,13759,Raw Nightfin Snapper,3,0,0,"container, quest objective"
+967594,Fused Vibrant Chops,food,968364,7082,Essence of Air,1,0,0,"drop, container, quest objective, crafted"
+967618,Fused Wild Roast,food,968388,1303721,Seared Savage Chimaera Meat,1,1,1,crafted
+967618,Fused Wild Roast,food,968388,1303720,Cured Savage Meat,1,1,1,crafted
+967618,Fused Wild Roast,food,968388,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967621,Fused Winter Roast,food,968391,1303723,Shadowcharred Animated Meat,1,1,1,crafted
+967621,Fused Winter Roast,food,968391,1303720,Cured Savage Meat,1,1,1,crafted
+967621,Fused Winter Roast,food,968391,12037,Mystery Meat,2,0,0,"vendor, drop, container"
+967576,Fused Wizard Soup,food,968346,1303723,Shadowcharred Animated Meat,1,1,1,crafted
+967576,Fused Wizard Soup,food,968346,1303720,Cured Savage Meat,1,1,1,crafted
+967576,Fused Wizard Soup,food,968346,12207,Giant Egg,2,0,0,"drop, container, quest objective"
+967573,Fused Wizard Wontons,food,968343,1303722,Salted Naga Tail,1,1,1,crafted
+967573,Fused Wizard Wontons,food,968343,1303720,Cured Savage Meat,1,1,1,crafted
+967573,Fused Wizard Wontons,food,968343,3712,Turtle Meat,2,0,0,"drop, container, quest objective"
+1303742,Ancient Tear,material,1979710,1303765,Spectral Teardrops,4,1,0,drop
+1303736,Animated Bone,material,1979694,1303760,Animated Knuckle Bones,4,1,0,drop
+1303709,Animated Bone Dust,material,1979732,1303736,Animated Bone,1,1,1,"drop, container, crafted"
+1303739,Arkkoran Chum,material,1979729,1303762,Arkoran Guts,4,1,0,drop
+1303711,Blightroot Extract,material,1979755,1303738,Blightroot,1,1,0,"container, gathering"
+1303720,Cured Savage Meat,material,1979757,1303747,Raw Savage Flesh,1,1,0,"drop, container"
+1303710,Essence of Twilight,material,1979743,1303737,Void Idol,1,1,1,"drop, container, crafted"
+1303740,Fatty Blubber,material,1979722,1303763,Stringy Blubber,4,1,0,drop
+1303713,Fiery Frond,material,1979747,1303740,Fatty Blubber,1,1,1,"drop, container, crafted"
+1303708,Hell Dust,material,1979746,1303735,Hell Effigy,1,1,1,"drop, container, crafted"
+1303735,Hell Effigy,material,1979720,1303759,Hellish Trinket,4,1,0,drop
+1303714,Plague Blossom,material,1979749,1303741,Scarlet Human Flesh,1,1,1,"drop, container, crafted"
+1303707,Profane Shard,material,1979754,1303734,Echoes of Blood,4,1,0,"container, disenchanting"
+1303750,Raw Animated Meat,material,1979699,1303773,Animated Meat Chunks,4,1,0,drop
+1303749,Raw Naga Tail,material,1979702,1303772,Naga Tail Chunks,4,1,0,drop
+1303748,Raw Savage Chimaera Meat,material,1979704,1303771,Savage Chimaera Chunks,4,1,0,drop
+1303751,Raw Silithid Meat,material,1979708,1303774,Silithid Meat Chunks,4,1,0,drop
+1303722,Salted Naga Tail,material,1979737,1303749,Raw Naga Tail,1,1,1,"drop, container, crafted"
+1303741,Scarlet Human Flesh,material,1979726,1303764,Scarlet Human Scraps,4,1,0,drop
+1303724,Scorched Silithid Meat,material,1979739,1303751,Raw Silithid Meat,1,1,1,"drop, container, crafted"
+1303721,Seared Savage Chimaera Meat,material,1979738,1303748,Raw Savage Chimaera Meat,1,1,1,"drop, container, crafted"
+1303723,Shadowcharred Animated Meat,material,1979736,1303750,Raw Animated Meat,1,1,1,"drop, container, crafted"
+1303715,Spectral Rose,material,1979740,1303742,Ancient Tear,1,1,1,"drop, container, crafted"
+1303712,Storm Brine,material,1979750,1303739,Arkkoran Chum,1,1,1,"drop, container, crafted"
+1303737,Void Idol,material,1979716,1303761,Void Trinket,4,1,0,drop

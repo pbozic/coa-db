@@ -1,0 +1,17 @@
+# --- local caches and environments (regenerable, large) ---
+cache/
+__pycache__/
+.venv/
+web/node_modules/
+logs/
+
+# --- build output: Vercel regenerates this from web/ on every deploy ---
+output/site/
+
+# --- local-only price working files ---
+# price_db.json is rebuilt from TSM data on this machine and is 2.6 MB.
+# The site only needs web/public/prices.json, which is ~12 KB.
+output/market/price_db.json
+output/market/.last_published
+output/market/prices.csv
+output/market/prices_test.csv

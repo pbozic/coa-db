@@ -1,0 +1,516 @@
+{
+  "CoA`High Risk`Buy`Custom": [
+    {
+      "item_id": 1303707,
+      "name": "Profane Shard"
+    },
+    {
+      "item_id": 1303708,
+      "name": "Hell Dust"
+    },
+    {
+      "item_id": 1303709,
+      "name": "Animated Bone Dust"
+    },
+    {
+      "item_id": 1303710,
+      "name": "Essence of Twilight"
+    },
+    {
+      "item_id": 1303711,
+      "name": "Blightroot Extract"
+    },
+    {
+      "item_id": 1303712,
+      "name": "Storm Brine"
+    },
+    {
+      "item_id": 1303713,
+      "name": "Fiery Frond"
+    },
+    {
+      "item_id": 1303714,
+      "name": "Plague Blossom"
+    },
+    {
+      "item_id": 1303715,
+      "name": "Spectral Rose"
+    },
+    {
+      "item_id": 1303720,
+      "name": "Cured Savage Meat"
+    },
+    {
+      "item_id": 1303721,
+      "name": "Seared Savage Chimaera Meat"
+    },
+    {
+      "item_id": 1303722,
+      "name": "Salted Naga Tail"
+    },
+    {
+      "item_id": 1303723,
+      "name": "Shadowcharred Animated Meat"
+    },
+    {
+      "item_id": 1303724,
+      "name": "Scorched Silithid Meat"
+    },
+    {
+      "item_id": 1303734,
+      "name": "Echoes of Blood"
+    }
+  ],
+  "CoA`High Risk`Buy`Vanilla": [
+    {
+      "item_id": 3712,
+      "name": "Turtle Meat"
+    },
+    {
+      "item_id": 7076,
+      "name": "Essence of Earth"
+    },
+    {
+      "item_id": 7078,
+      "name": "Essence of Fire"
+    },
+    {
+      "item_id": 7080,
+      "name": "Essence of Water"
+    },
+    {
+      "item_id": 7082,
+      "name": "Essence of Air"
+    },
+    {
+      "item_id": 8836,
+      "name": "Arthas' Tears"
+    },
+    {
+      "item_id": 8838,
+      "name": "Sungrass"
+    },
+    {
+      "item_id": 12037,
+      "name": "Mystery Meat"
+    },
+    {
+      "item_id": 12184,
+      "name": "Raptor Flesh"
+    },
+    {
+      "item_id": 12207,
+      "name": "Giant Egg"
+    },
+    {
+      "item_id": 12208,
+      "name": "Tender Wolf Meat"
+    },
+    {
+      "item_id": 12803,
+      "name": "Living Essence"
+    },
+    {
+      "item_id": 12808,
+      "name": "Essence of Undeath"
+    },
+    {
+      "item_id": 13463,
+      "name": "Dreamfoil"
+    },
+    {
+      "item_id": 13464,
+      "name": "Golden Sansam"
+    },
+    {
+      "item_id": 13465,
+      "name": "Mountain Silversage"
+    },
+    {
+      "item_id": 13466,
+      "name": "Plaguebloom"
+    },
+    {
+      "item_id": 13467,
+      "name": "Icecap"
+    },
+    {
+      "item_id": 13759,
+      "name": "Raw Nightfin Snapper"
+    },
+    {
+      "item_id": 14344,
+      "name": "Large Brilliant Shard"
+    },
+    {
+      "item_id": 16203,
+      "name": "Greater Eternal Essence"
+    },
+    {
+      "item_id": 16204,
+      "name": "Illusion Dust"
+    },
+    {
+      "item_id": 20424,
+      "name": "Sandworm Meat"
+    },
+    {
+      "item_id": 21024,
+      "name": "Chimaerok Tenderloin"
+    }
+  ],
+  "CoA`High Risk`Convert": [
+    {
+      "item_id": 1303735,
+      "name": "Hell Effigy"
+    },
+    {
+      "item_id": 1303736,
+      "name": "Animated Bone"
+    },
+    {
+      "item_id": 1303737,
+      "name": "Void Idol"
+    },
+    {
+      "item_id": 1303738,
+      "name": "Blightroot"
+    },
+    {
+      "item_id": 1303739,
+      "name": "Arkkoran Chum"
+    },
+    {
+      "item_id": 1303740,
+      "name": "Fatty Blubber"
+    },
+    {
+      "item_id": 1303741,
+      "name": "Scarlet Human Flesh"
+    },
+    {
+      "item_id": 1303742,
+      "name": "Ancient Tear"
+    },
+    {
+      "item_id": 1303747,
+      "name": "Raw Savage Flesh"
+    },
+    {
+      "item_id": 1303748,
+      "name": "Raw Savage Chimaera Meat"
+    },
+    {
+      "item_id": 1303749,
+      "name": "Raw Naga Tail"
+    },
+    {
+      "item_id": 1303750,
+      "name": "Raw Animated Meat"
+    },
+    {
+      "item_id": 1303751,
+      "name": "Raw Silithid Meat"
+    }
+  ],
+  "CoA`High Risk`Farm": [
+    {
+      "item_id": 1303759,
+      "name": "Hellish Trinket"
+    },
+    {
+      "item_id": 1303760,
+      "name": "Animated Knuckle Bones"
+    },
+    {
+      "item_id": 1303761,
+      "name": "Void Trinket"
+    },
+    {
+      "item_id": 1303762,
+      "name": "Arkoran Guts"
+    },
+    {
+      "item_id": 1303763,
+      "name": "Stringy Blubber"
+    },
+    {
+      "item_id": 1303764,
+      "name": "Scarlet Human Scraps"
+    },
+    {
+      "item_id": 1303765,
+      "name": "Spectral Teardrops"
+    },
+    {
+      "item_id": 1303771,
+      "name": "Savage Chimaera Chunks"
+    },
+    {
+      "item_id": 1303772,
+      "name": "Naga Tail Chunks"
+    },
+    {
+      "item_id": 1303773,
+      "name": "Animated Meat Chunks"
+    },
+    {
+      "item_id": 1303774,
+      "name": "Silithid Meat Chunks"
+    }
+  ],
+  "CoA`High Risk`Sell`Enchants": [
+    {
+      "item_id": 967731,
+      "name": "Item 967731"
+    },
+    {
+      "item_id": 967734,
+      "name": "Item 967734"
+    },
+    {
+      "item_id": 967737,
+      "name": "Item 967737"
+    },
+    {
+      "item_id": 967740,
+      "name": "Item 967740"
+    },
+    {
+      "item_id": 967743,
+      "name": "Item 967743"
+    },
+    {
+      "item_id": 967746,
+      "name": "Item 967746"
+    },
+    {
+      "item_id": 967749,
+      "name": "Item 967749"
+    },
+    {
+      "item_id": 967752,
+      "name": "Item 967752"
+    },
+    {
+      "item_id": 967755,
+      "name": "Item 967755"
+    },
+    {
+      "item_id": 967789,
+      "name": "Item 967789"
+    }
+  ],
+  "CoA`High Risk`Sell`Flasks": [
+    {
+      "item_id": 967444,
+      "name": "Distilled Flask of Manifesting Power"
+    },
+    {
+      "item_id": 967447,
+      "name": "Distilled Flask of the Warsong"
+    },
+    {
+      "item_id": 967450,
+      "name": "Distilled Flask of the Kirin Tor"
+    },
+    {
+      "item_id": 967453,
+      "name": "Distilled Flask of Butchery"
+    },
+    {
+      "item_id": 967456,
+      "name": "Distilled Flask of the Unyielding"
+    },
+    {
+      "item_id": 967459,
+      "name": "Distilled Flask of Unrelenting Power"
+    },
+    {
+      "item_id": 967462,
+      "name": "Distilled Flask of Savage Assault"
+    },
+    {
+      "item_id": 967465,
+      "name": "Distilled Flask of Shattering Thunder"
+    },
+    {
+      "item_id": 967468,
+      "name": "Distilled Flask of the Executioner"
+    },
+    {
+      "item_id": 967471,
+      "name": "Distilled Flask of Deep Meditation"
+    },
+    {
+      "item_id": 967474,
+      "name": "Distilled Flask of Adept Striking"
+    }
+  ],
+  "CoA`High Risk`Sell`Food": [
+    {
+      "item_id": 967510,
+      "name": "Fused Living Soup"
+    },
+    {
+      "item_id": 967513,
+      "name": "Fused Charred Steak"
+    },
+    {
+      "item_id": 967516,
+      "name": "Fused Steamed Wontons"
+    },
+    {
+      "item_id": 967519,
+      "name": "Fused Air Fried Chops"
+    },
+    {
+      "item_id": 967522,
+      "name": "Fused Rock's Stew"
+    },
+    {
+      "item_id": 967525,
+      "name": "Fused Clear-Cut Chops"
+    },
+    {
+      "item_id": 967528,
+      "name": "Fused Clear-Cut Wontons"
+    },
+    {
+      "item_id": 967531,
+      "name": "Fused Clear-Cut Steak"
+    },
+    {
+      "item_id": 967534,
+      "name": "Fused Piercing Chops"
+    },
+    {
+      "item_id": 967537,
+      "name": "Fused Piercing Steak"
+    },
+    {
+      "item_id": 967540,
+      "name": "Fused Seared Wontons"
+    },
+    {
+      "item_id": 967543,
+      "name": "Fused Seared Chops"
+    },
+    {
+      "item_id": 967546,
+      "name": "Fused Savory Stew"
+    },
+    {
+      "item_id": 967549,
+      "name": "Fused Savory Chops"
+    },
+    {
+      "item_id": 967552,
+      "name": "Fused Savory Steak"
+    },
+    {
+      "item_id": 967555,
+      "name": "Fused Savory Wontons"
+    },
+    {
+      "item_id": 967558,
+      "name": "Fused Red-Hot Stew"
+    },
+    {
+      "item_id": 967561,
+      "name": "Fused Blazing Stew"
+    },
+    {
+      "item_id": 967564,
+      "name": "Fused Duck Stew"
+    },
+    {
+      "item_id": 967567,
+      "name": "Fused Chunky Stew"
+    },
+    {
+      "item_id": 967570,
+      "name": "Fused Simmered Stew"
+    },
+    {
+      "item_id": 967573,
+      "name": "Fused Wizard Wontons"
+    },
+    {
+      "item_id": 967576,
+      "name": "Fused Wizard Soup"
+    },
+    {
+      "item_id": 967579,
+      "name": "Fused Heightened Wontons"
+    },
+    {
+      "item_id": 967582,
+      "name": "Fused Hearty Living Soup"
+    },
+    {
+      "item_id": 967585,
+      "name": "Fused Hearty Air Fried Chops"
+    },
+    {
+      "item_id": 967588,
+      "name": "Fused Hearty Charred Steak"
+    },
+    {
+      "item_id": 967591,
+      "name": "Fused Hearty Steamed Wontons"
+    },
+    {
+      "item_id": 967594,
+      "name": "Fused Vibrant Chops"
+    },
+    {
+      "item_id": 967597,
+      "name": "Fused Subtle Chops"
+    },
+    {
+      "item_id": 967600,
+      "name": "Fused Subtle Steak"
+    },
+    {
+      "item_id": 967603,
+      "name": "Fused Subtle Wontons"
+    },
+    {
+      "item_id": 967606,
+      "name": "Fused Subtle Soup"
+    },
+    {
+      "item_id": 967609,
+      "name": "Fused Bold Stew"
+    },
+    {
+      "item_id": 967612,
+      "name": "Fused Mana Imbued Roast"
+    },
+    {
+      "item_id": 967615,
+      "name": "Fused Sizzling Roast"
+    },
+    {
+      "item_id": 967618,
+      "name": "Fused Wild Roast"
+    },
+    {
+      "item_id": 967621,
+      "name": "Fused Winter Roast"
+    },
+    {
+      "item_id": 967624,
+      "name": "Fused Blackened Roast"
+    },
+    {
+      "item_id": 967627,
+      "name": "Fused Bold Simmered Stew"
+    },
+    {
+      "item_id": 967630,
+      "name": "Fused Bold Duck Stew"
+    }
+  ]
+}

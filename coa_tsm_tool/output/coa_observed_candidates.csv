@@ -1,0 +1,96 @@
+name,item,category,high_risk_pvp,custom_id_likely,craftable,source
+Crusted Bandages,item:9332,Bandages,False,False,unknown,AccountingDB observed item
+Heavy Linen Bandage,item:2581,Bandages,False,False,unknown,AccountingDB observed item
+Heavy Wool Bandage,item:3531,Bandages,False,False,unknown,AccountingDB observed item
+Linen Bandage,item:1251,Bandages,False,False,unknown,AccountingDB observed item
+Wool Bandage,item:3530,Bandages,False,False,unknown,AccountingDB observed item
+Arcane Elixir,item:9155,Elixirs,False,False,unknown,AccountingDB observed item
+Catseye Elixir,item:10592,Elixirs,False,False,unknown,AccountingDB observed item
+Elixir of Agility,item:8949,Elixirs,False,False,unknown,AccountingDB observed item
+Elixir of Brute Force,item:13453,Elixirs,False,False,unknown,AccountingDB observed item
+Elixir of Fortitude,item:3825,Elixirs,False,False,unknown,AccountingDB observed item
+Elixir of Greater Agility,item:9187,Elixirs,False,False,unknown,AccountingDB observed item
+Elixir of Minor Agility,item:2457,Elixirs,False,False,unknown,AccountingDB observed item
+Elixir of Superior Defense,item:13445,Elixirs,False,False,unknown,AccountingDB observed item
+Elixir of the Mongoose,item:13452,Elixirs,False,False,unknown,AccountingDB observed item
+Elixir of the Sages,item:13447,Elixirs,False,False,unknown,AccountingDB observed item
+Greater Arcane Elixir,item:13454,Elixirs,False,False,unknown,AccountingDB observed item
+Noggenfogger Elixir,item:8529,Elixirs,False,False,unknown,AccountingDB observed item
+Recipe: Elixir of Minor Agility,item:2553,Elixirs,False,False,unknown,AccountingDB observed item
+Recipe: Elixir of Ogre's Strength,item:6211,Elixirs,False,False,unknown,AccountingDB observed item
+Dynamite Casing,item:489,Engineering/PvP,True,False,unknown,AccountingDB observed item
+Red Fireworks Rocket,item:5740,Engineering/PvP,True,False,unknown,AccountingDB observed item
+Rough Copper Bomb,item:4360,Engineering/PvP,True,False,unknown,AccountingDB observed item
+Schematic: Small Seaforium Charge,item:4409,Engineering/PvP,True,False,unknown,AccountingDB observed item
+Distilled Flask of Deep Meditation,item:967471,Flasks,False,True,unknown,AccountingDB observed item
+Distilled Flask of the Executioner,item:967468,Flasks,False,True,unknown,AccountingDB observed item
+Distilled Flask of the Kirin Tor,item:967450,Flasks,False,True,unknown,AccountingDB observed item
+Flask of Mojo,item:8151,Flasks,False,False,unknown,AccountingDB observed item
+Flask of Oil,item:814,Flasks,True,False,unknown,AccountingDB observed item
+A Crumpled Up Note,item:11446,Food & Drink,False,False,unknown,AccountingDB observed item
+Arthas' Tears,item:8836,Food & Drink,False,False,unknown,AccountingDB observed item
+Cured Ham Steak,item:4599,Food & Drink,False,False,unknown,AccountingDB observed item
+Curiously Tasty Omelet,item:3665,Food & Drink,False,False,unknown,AccountingDB observed item
+Fresh Cocktail,item:230501,Food & Drink,False,True,unknown,AccountingDB observed item
+Fused Hearty Steamed Wontons,item:967591,Food & Drink,False,True,unknown,AccountingDB observed item
+Fused Seared Chops,item:967543,Food & Drink,False,True,unknown,AccountingDB observed item
+Fused Steamed Wontons,item:967516,Food & Drink,False,True,unknown,AccountingDB observed item
+Green Tea Leaf,item:1401,Food & Drink,False,False,unknown,AccountingDB observed item
+Moist Cornbread,item:4542,Food & Drink,False,False,unknown,AccountingDB observed item
+Murloc Fin Soup,item:3663,Food & Drink,False,False,unknown,AccountingDB observed item
+Primal Loa Cocktail,item:230506,Food & Drink,False,True,unknown,AccountingDB observed item
+Recipe: Big Bear Steak,item:3734,Food & Drink,False,False,unknown,AccountingDB observed item
+Recipe: Crocolisk Steak,item:3678,Food & Drink,False,False,unknown,AccountingDB observed item
+Recipe: Curiously Tasty Omelet,item:3682,Food & Drink,False,False,unknown,AccountingDB observed item
+Recipe: Fused Duck Stew,item:967375,Food & Drink,False,True,unknown,AccountingDB observed item
+Recipe: Fused Living Soup,item:967321,Food & Drink,False,True,unknown,AccountingDB observed item
+Recipe: Fused Piercing Chops,item:967345,Food & Drink,False,True,unknown,AccountingDB observed item
+Recipe: Hearty Stegodon Stew,item:100616,Food & Drink,False,True,unknown,AccountingDB observed item
+Recipe: Hot Lion Chops,item:3735,Food & Drink,False,False,unknown,AccountingDB observed item
+Recipe: Murloc Fin Soup,item:3680,Food & Drink,False,False,unknown,AccountingDB observed item
+Recipe: Westfall Stew,item:728,Food & Drink,False,False,unknown,AccountingDB observed item
+Soulstealer Mantle,item:220697,Food & Drink,False,True,unknown,AccountingDB observed item
+Squiddic's Aquatic Cleaver,item:2075984,Food & Drink,False,True,unknown,AccountingDB observed item
+Sunscale Gauntlets,item:14846,Food & Drink,False,False,unknown,AccountingDB observed item
+Sunscale Shield,item:14852,Food & Drink,False,False,unknown,AccountingDB observed item
+Tear of Grief,item:5611,Food & Drink,False,False,unknown,AccountingDB observed item
+Wastewander Water Pouch,item:8483,Food & Drink,False,False,unknown,AccountingDB observed item
+Westfall Stew,item:733,Food & Drink,False,False,unknown,AccountingDB observed item
+Discolored Healing Potion,item:4596,Potions/Healing,True,False,unknown,AccountingDB observed item
+Major Healing Potion,item:13446,Potions/Healing,True,False,unknown,AccountingDB observed item
+Recipe: Discolored Healing Potion,item:4597,Potions/Healing,True,False,unknown,AccountingDB observed item
+Superior Healing Potion,item:3928,Potions/Healing,True,False,unknown,AccountingDB observed item
+Greater Mana Potion,item:6149,Potions/Mana,True,False,unknown,AccountingDB observed item
+Major Mana Potion,item:13444,Potions/Mana,True,False,unknown,AccountingDB observed item
+Superior Mana Potion,item:13443,Potions/Mana,True,False,unknown,AccountingDB observed item
+Potion of Experience,item:818046,Potions/Other,False,True,unknown,AccountingDB observed item
+Potion of Reputation,item:818047,Potions/Other,False,True,unknown,AccountingDB observed item
+Minor Magic Resistance Potion,item:3384,Potions/Protection,False,False,unknown,AccountingDB observed item
+Recipe: Magic Resistance Potion,item:9293,Potions/Protection,False,False,unknown,AccountingDB observed item
+Recipe: Minor Magic Resistance Potion,item:3393,Potions/Protection,False,False,unknown,AccountingDB observed item
+Purification Potion,item:13462,Potions/PvP Utility,True,False,unknown,AccountingDB observed item
+Recipe: Free Action Potion,item:5642,Potions/PvP Utility,True,False,unknown,AccountingDB observed item
+Recipe: Purification Potion,item:13492,Potions/PvP Utility,True,False,unknown,AccountingDB observed item
+Recipe: Swiftness Potion,item:2555,Potions/PvP Utility,True,False,unknown,AccountingDB observed item
+Scroll of Agility,item:3012,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Agility II,item:1477,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Agility III,item:4425,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Agility IV,item:10309,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Intellect II,item:2290,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Intellect III,item:4419,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Intellect IV,item:10308,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Protection,item:3013,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Protection II,item:1478,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Protection III,item:4421,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Protection IV,item:10305,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Spirit,item:1181,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Spirit II,item:1712,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Spirit III,item:4424,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Spirit IV,item:10306,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Stamina,item:1180,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Stamina II,item:1711,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Stamina IV,item:10307,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Strength,item:954,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Strength II,item:2289,Scrolls,False,False,unknown,AccountingDB observed item
+Scroll of Strength IV,item:10310,Scrolls,False,False,unknown,AccountingDB observed item
+Wizard Oil,item:20750,Weapon Buffs/Oils,True,False,unknown,AccountingDB observed item

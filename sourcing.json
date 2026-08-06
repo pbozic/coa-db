@@ -1,0 +1,533 @@
+{
+ "_comment": [
+  "Per-material sourcing for the 'plan' scenario.",
+  "mode 'gather' costs nothing but your time; mode 'buy' uses the",
+  "scanned auction price, and leaves the recipe unpriced if none exists.",
+  "The 'buy' and 'gather' scenarios ignore this file entirely."
+ ],
+ "default": "buy",
+ "items": {
+  "1303709": {
+   "name": "Animated Bone Dust",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": [
+    "crafted"
+   ]
+  },
+  "1303760": {
+   "name": "Animated Knuckle Bones",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop"
+   ]
+  },
+  "1303773": {
+   "name": "Animated Meat Chunks",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop"
+   ]
+  },
+  "1303762": {
+   "name": "Arkoran Guts",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop"
+   ]
+  },
+  "8836": {
+   "name": "Arthas' Tears",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "drop",
+    "container",
+    "quest objective",
+    "gathering"
+   ]
+  },
+  "1303738": {
+   "name": "Blightroot",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "container",
+    "gathering"
+   ]
+  },
+  "1303711": {
+   "name": "Blightroot Extract",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": [
+    "crafted"
+   ]
+  },
+  "21024": {
+   "name": "Chimaerok Tenderloin",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "drop",
+    "quest objective"
+   ]
+  },
+  "1303720": {
+   "name": "Cured Savage Meat",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": [
+    "crafted"
+   ]
+  },
+  "13463": {
+   "name": "Dreamfoil",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "vendor",
+    "drop",
+    "container",
+    "object",
+    "quest objective",
+    "gathering"
+   ]
+  },
+  "1303734": {
+   "name": "Echoes of Blood",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "container",
+    "disenchanting"
+   ]
+  },
+  "7082": {
+   "name": "Essence of Air",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "drop",
+    "container",
+    "quest objective",
+    "crafted"
+   ]
+  },
+  "7076": {
+   "name": "Essence of Earth",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "drop",
+    "container",
+    "crafted"
+   ]
+  },
+  "7078": {
+   "name": "Essence of Fire",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "drop",
+    "container",
+    "quest objective",
+    "crafted"
+   ]
+  },
+  "1303710": {
+   "name": "Essence of Twilight",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": [
+    "crafted"
+   ]
+  },
+  "12808": {
+   "name": "Essence of Undeath",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "drop",
+    "crafted"
+   ]
+  },
+  "7080": {
+   "name": "Essence of Water",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "drop",
+    "container",
+    "quest objective",
+    "crafted"
+   ]
+  },
+  "1303713": {
+   "name": "Fiery Frond",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "object",
+    "crafted"
+   ]
+  },
+  "12207": {
+   "name": "Giant Egg",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop",
+    "container",
+    "quest objective"
+   ]
+  },
+  "13464": {
+   "name": "Golden Sansam",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "vendor",
+    "drop",
+    "container",
+    "object",
+    "quest objective",
+    "gathering"
+   ]
+  },
+  "16203": {
+   "name": "Greater Eternal Essence",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "container",
+    "quest objective",
+    "crafted",
+    "disenchanting"
+   ]
+  },
+  "1303708": {
+   "name": "Hell Dust",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": [
+    "crafted"
+   ]
+  },
+  "1303759": {
+   "name": "Hellish Trinket",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop"
+   ]
+  },
+  "13467": {
+   "name": "Icecap",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "vendor",
+    "drop",
+    "container",
+    "quest objective",
+    "gathering"
+   ]
+  },
+  "16204": {
+   "name": "Illusion Dust",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "container",
+    "quest objective",
+    "disenchanting"
+   ]
+  },
+  "1303149": {
+   "name": "Item 1303149",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": []
+  },
+  "1303160": {
+   "name": "Item 1303160",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": []
+  },
+  "1303164": {
+   "name": "Item 1303164",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": []
+  },
+  "1303470": {
+   "name": "Item 1303470",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": []
+  },
+  "1303472": {
+   "name": "Item 1303472",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": []
+  },
+  "1303476": {
+   "name": "Item 1303476",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": []
+  },
+  "14344": {
+   "name": "Large Brilliant Shard",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "container",
+    "quest objective",
+    "crafted",
+    "disenchanting"
+   ]
+  },
+  "12803": {
+   "name": "Living Essence",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "drop",
+    "quest objective",
+    "crafted"
+   ]
+  },
+  "13465": {
+   "name": "Mountain Silversage",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "vendor",
+    "drop",
+    "container",
+    "object",
+    "quest objective",
+    "gathering"
+   ]
+  },
+  "12037": {
+   "name": "Mystery Meat",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "vendor",
+    "drop",
+    "container"
+   ]
+  },
+  "1303772": {
+   "name": "Naga Tail Chunks",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop"
+   ]
+  },
+  "1303714": {
+   "name": "Plague Blossom",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "object",
+    "crafted"
+   ]
+  },
+  "13466": {
+   "name": "Plaguebloom",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "drop",
+    "container",
+    "quest objective",
+    "gathering"
+   ]
+  },
+  "1303707": {
+   "name": "Profane Shard",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "crafted",
+    "disenchanting"
+   ]
+  },
+  "12184": {
+   "name": "Raptor Flesh",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop",
+    "container"
+   ]
+  },
+  "13759": {
+   "name": "Raw Nightfin Snapper",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "container",
+    "quest objective"
+   ]
+  },
+  "1303747": {
+   "name": "Raw Savage Flesh",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop",
+    "container"
+   ]
+  },
+  "1303722": {
+   "name": "Salted Naga Tail",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": [
+    "crafted"
+   ]
+  },
+  "20424": {
+   "name": "Sandworm Meat",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop",
+    "quest objective"
+   ]
+  },
+  "1303771": {
+   "name": "Savage Chimaera Chunks",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop"
+   ]
+  },
+  "1303764": {
+   "name": "Scarlet Human Scraps",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop"
+   ]
+  },
+  "1303724": {
+   "name": "Scorched Silithid Meat",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": [
+    "crafted"
+   ]
+  },
+  "1303721": {
+   "name": "Seared Savage Chimaera Meat",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": [
+    "crafted"
+   ]
+  },
+  "1303723": {
+   "name": "Shadowcharred Animated Meat",
+   "mode": "buy",
+   "listed_on_ah": false,
+   "sources": [
+    "crafted"
+   ]
+  },
+  "1303774": {
+   "name": "Silithid Meat Chunks",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop"
+   ]
+  },
+  "1303715": {
+   "name": "Spectral Rose",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "object",
+    "crafted"
+   ]
+  },
+  "1303765": {
+   "name": "Spectral Teardrops",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop"
+   ]
+  },
+  "1303712": {
+   "name": "Storm Brine",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "object",
+    "crafted"
+   ]
+  },
+  "1303763": {
+   "name": "Stringy Blubber",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop"
+   ]
+  },
+  "8838": {
+   "name": "Sungrass",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "drop",
+    "container",
+    "object",
+    "quest objective",
+    "gathering"
+   ]
+  },
+  "12208": {
+   "name": "Tender Wolf Meat",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop",
+    "container"
+   ]
+  },
+  "3712": {
+   "name": "Turtle Meat",
+   "mode": "buy",
+   "listed_on_ah": true,
+   "sources": [
+    "drop",
+    "container",
+    "quest objective"
+   ]
+  },
+  "1303761": {
+   "name": "Void Trinket",
+   "mode": "gather",
+   "listed_on_ah": false,
+   "sources": [
+    "drop"
+   ]
+  }
+ }
+}

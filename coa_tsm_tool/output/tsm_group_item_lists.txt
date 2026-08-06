@@ -1,0 +1,63 @@
+# Each section is a TSM group path followed by a comma-separated item import list.
+# Import the item list into the matching group. Observed Items are candidates, not verified recipes.
+
+[CoA`Known Crafts`Elixirs]
+item:2454,item:2458,item:3382,item:3383,item:3388,item:3389,item:5996,item:5997,item:6373,item:45621
+
+[CoA`Known Crafts`High Risk PvP]
+item:118,item:858,item:929,item:1710,item:2455,item:2456,item:2459,item:3385,item:3823,item:3827,item:6370,item:6371
+
+[CoA`Known Crafts`Potions`Healing]
+item:118,item:858,item:929,item:1710,item:2456
+
+[CoA`Known Crafts`Potions`Mana]
+item:2455,item:3385,item:3827
+
+[CoA`Known Crafts`Potions`Other]
+item:6372
+
+[CoA`Known Crafts`Potions`PvP Utility]
+item:2459,item:3823
+
+[CoA`Known Crafts`Weapon Buffs`Oils]
+item:6370,item:6371
+
+[CoA`Observed Items`Bandages]
+item:1251,item:2581,item:3530,item:3531,item:9332
+
+[CoA`Observed Items`Elixirs]
+item:2457,item:2553,item:3825,item:6211,item:8529,item:8949,item:9155,item:9187,item:10592,item:13445,item:13447,item:13452,item:13453,item:13454
+
+[CoA`Observed Items`Engineering`PvP]
+item:489,item:4360,item:4409,item:5740
+
+[CoA`Observed Items`Flasks]
+item:814,item:8151,item:967450,item:967468,item:967471
+
+[CoA`Observed Items`Food & Drink]
+item:728,item:733,item:1401,item:3663,item:3665,item:3678,item:3680,item:3682,item:3734,item:3735,item:4542,item:4599,item:5611,item:8483,item:8836,item:11446,item:14846,item:14852,item:100616,item:220697,item:230501,item:230506,item:967321,item:967345,item:967375,item:967516,item:967543,item:967591,item:2075984
+
+[CoA`Observed Items`High Risk PvP]
+item:489,item:814,item:2555,item:3928,item:4360,item:4409,item:4596,item:4597,item:5642,item:5740,item:6149,item:13443,item:13444,item:13446,item:13462,item:13492,item:20750
+
+[CoA`Observed Items`Potions`Healing]
+item:3928,item:4596,item:4597,item:13446
+
+[CoA`Observed Items`Potions`Mana]
+item:6149,item:13443,item:13444
+
+[CoA`Observed Items`Potions`Other]
+item:818046,item:818047
+
+[CoA`Observed Items`Potions`Protection]
+item:3384,item:3393,item:9293
+
+[CoA`Observed Items`Potions`PvP Utility]
+item:2555,item:5642,item:13462,item:13492
+
+[CoA`Observed Items`Scrolls]
+item:954,item:1180,item:1181,item:1477,item:1478,item:1711,item:1712,item:2289,item:2290,item:3012,item:3013,item:4419,item:4421,item:4424,item:4425,item:10305,item:10306,item:10307,item:10308,item:10309,item:10310
+
+[CoA`Observed Items`Weapon Buffs`Oils]
+item:20750
+

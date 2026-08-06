@@ -1,0 +1,23 @@
+# TSM group item lists (tsm3 item syntax)
+# Create the group in TSM, then paste the matching line into Groups > Import.
+
+[CoA`High Risk`Buy`Custom]  (15 items)
+item:1303707,item:1303708,item:1303709,item:1303710,item:1303711,item:1303712,item:1303713,item:1303714,item:1303715,item:1303720,item:1303721,item:1303722,item:1303723,item:1303724,item:1303734
+
+[CoA`High Risk`Buy`Vanilla]  (24 items)
+item:3712,item:7076,item:7078,item:7080,item:7082,item:8836,item:8838,item:12037,item:12184,item:12207,item:12208,item:12803,item:12808,item:13463,item:13464,item:13465,item:13466,item:13467,item:13759,item:14344,item:16203,item:16204,item:20424,item:21024
+
+[CoA`High Risk`Convert]  (13 items)
+item:1303735,item:1303736,item:1303737,item:1303738,item:1303739,item:1303740,item:1303741,item:1303742,item:1303747,item:1303748,item:1303749,item:1303750,item:1303751
+
+[CoA`High Risk`Farm]  (11 items)
+item:1303759,item:1303760,item:1303761,item:1303762,item:1303763,item:1303764,item:1303765,item:1303771,item:1303772,item:1303773,item:1303774
+
+[CoA`High Risk`Sell`Enchants]  (10 items)
+item:967731,item:967734,item:967737,item:967740,item:967743,item:967746,item:967749,item:967752,item:967755,item:967789
+
+[CoA`High Risk`Sell`Flasks]  (11 items)
+item:967444,item:967447,item:967450,item:967453,item:967456,item:967459,item:967462,item:967465,item:967468,item:967471,item:967474
+
+[CoA`High Risk`Sell`Food]  (41 items)
+item:967510,item:967513,item:967516,item:967519,item:967522,item:967525,item:967528,item:967531,item:967534,item:967537,item:967540,item:967543,item:967546,item:967549,item:967552,item:967555,item:967558,item:967561,item:967564,item:967567,item:967570,item:967573,item:967576,item:967579,item:967582,item:967585,item:967588,item:967591,item:967594,item:967597,item:967600,item:967603,item:967606,item:967609,item:967612,item:967615,item:967618,item:967621,item:967624,item:967627,item:967630

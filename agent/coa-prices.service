@@ -1,0 +1,17 @@
+# systemd unit for a Linux box that runs the sharing app and publishes prices.
+# Copy to /etc/systemd/system/, then:
+#   sudo systemctl enable --now coa-prices
+[Unit]
+Description=CoA High Risk price publisher
+After=network-online.target
+
+[Service]
+Type=simple
+User=coa
+WorkingDirectory=/opt/coa-db
+ExecStart=/opt/coa-db/.venv/bin/python watch_prices.py --interval 300
+Restart=always
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target

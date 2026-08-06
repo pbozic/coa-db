@@ -1,0 +1,22 @@
+{
+  "_comment": [
+    "db.ascension.gg reports a wrong 'creates' count for the custom High Risk recipes.",
+    "Verified in game: Fused foods produce 1, while the database claims 10.",
+    "The same field claims 3 for Distilled flasks, which is unverified and assumed",
+    "to be wrong in the same way. Yield multiplies revenue directly, so the",
+    "conservative value (1) is used until confirmed in game.",
+    "",
+    "Sanity check against known-good data: vanilla recipes (Major Healing Potion,",
+    "Flask of the Titans, Smoked Desert Dumplings) all report creates=[id,1,1],",
+    "so the field is read correctly and is simply wrong for this custom content.",
+    "",
+    "To correct one: add \"<item_id>\": <count> under by_item. by_item wins over",
+    "by_family. Remove a family entry to fall back to whatever the database says."
+  ],
+  "by_family": {
+    "flask": 1,
+    "food": 1,
+    "enchant": 1
+  },
+  "by_item": {}
+}

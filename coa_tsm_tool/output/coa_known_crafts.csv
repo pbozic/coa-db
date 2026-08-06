@@ -1,0 +1,24 @@
+recipe_spell_id,name,profession,item,num_result,category,high_risk_pvp,custom_id_likely,materials_json,source
+3177,Elixir of Defense,Alchemy,item:3389,1,Elixirs,False,False,"{""item:3355"": 1, ""item:3372"": 1, ""item:3820"": 1}",CraftingDB learned recipe
+7845,Elixir of Firepower,Alchemy,item:6373,1,Elixirs,False,False,"{""item:3356"": 1, ""item:3372"": 1, ""item:6371"": 2}",CraftingDB learned recipe
+2329,Elixir of Lion's Strength,Alchemy,item:2454,1,Elixirs,False,False,"{""item:2449"": 1, ""item:3371"": 1, ""item:765"": 1}",CraftingDB learned recipe
+63732,Elixir of Minor Accuracy,Alchemy,item:45621,1,Elixirs,False,False,"{""item:2453"": 1, ""item:3371"": 1, ""item:6371"": 1}",CraftingDB learned recipe
+7183,Elixir of Minor Defense,Alchemy,item:5997,1,Elixirs,False,False,"{""item:3371"": 1, ""item:765"": 2}",CraftingDB learned recipe
+2334,Elixir of Minor Fortitude,Alchemy,item:2458,1,Elixirs,False,False,"{""item:2447"": 1, ""item:2449"": 2, ""item:3371"": 1}",CraftingDB learned recipe
+7179,Elixir of Water Breathing,Alchemy,item:5996,1,Elixirs,False,False,"{""item:3371"": 1, ""item:3820"": 1, ""item:6370"": 2}",CraftingDB learned recipe
+3171,Elixir of Wisdom,Alchemy,item:3383,1,Elixirs,False,False,"{""item:2450"": 2, ""item:3371"": 1, ""item:785"": 1}",CraftingDB learned recipe
+3176,Strong Troll's Blood Elixir,Alchemy,item:3388,1,Elixirs,False,False,"{""item:2450"": 2, ""item:2453"": 2, ""item:3372"": 1}",CraftingDB learned recipe
+3170,Weak Troll's Blood Elixir,Alchemy,item:3382,1,Elixirs,False,False,"{""item:2447"": 1, ""item:2449"": 2, ""item:3371"": 1}",CraftingDB learned recipe
+7181,Greater Healing Potion,Alchemy,item:1710,1,Potions/Healing,True,False,"{""item:3356"": 1, ""item:3357"": 1, ""item:3372"": 1}",CraftingDB learned recipe
+3447,Healing Potion,Alchemy,item:929,1,Potions/Healing,True,False,"{""item:2450"": 1, ""item:2453"": 1, ""item:3372"": 1}",CraftingDB learned recipe
+2337,Lesser Healing Potion,Alchemy,item:858,1,Potions/Healing,True,False,"{""item:118"": 1, ""item:2450"": 1}",CraftingDB learned recipe
+2330,Minor Healing Potion,Alchemy,item:118,1,Potions/Healing,True,False,"{""item:2447"": 1, ""item:3371"": 1, ""item:765"": 1}",CraftingDB learned recipe
+2332,Minor Rejuvenation Potion,Alchemy,item:2456,1,Potions/Healing,True,False,"{""item:2447"": 1, ""item:3371"": 1, ""item:785"": 2}",CraftingDB learned recipe
+3173,Lesser Mana Potion,Alchemy,item:3385,1,Potions/Mana,True,False,"{""item:3371"": 1, ""item:3820"": 1, ""item:785"": 1}",CraftingDB learned recipe
+3452,Mana Potion,Alchemy,item:3827,1,Potions/Mana,True,False,"{""item:3356"": 1, ""item:3372"": 1, ""item:3820"": 1}",CraftingDB learned recipe
+2331,Minor Mana Potion,Alchemy,item:2455,1,Potions/Mana,True,False,"{""item:3371"": 1, ""item:765"": 1, ""item:785"": 1}",CraftingDB learned recipe
+7841,Swim Speed Potion,Alchemy,item:6372,1,Potions/Other,False,False,"{""item:2452"": 1, ""item:3371"": 1, ""item:6370"": 1}",CraftingDB learned recipe
+3448,Lesser Invisibility Potion,Alchemy,item:3823,1,Potions/PvP Utility,True,False,"{""item:3355"": 1, ""item:3372"": 1, ""item:3818"": 1}",CraftingDB learned recipe
+2335,Swiftness Potion,Alchemy,item:2459,1,Potions/PvP Utility,True,False,"{""item:2450"": 1, ""item:2452"": 1, ""item:3371"": 1}",CraftingDB learned recipe
+7836,Blackmouth Oil,Alchemy,item:6370,1,Weapon Buffs/Oils,True,False,"{""item:6358"": 2}",CraftingDB learned recipe
+7837,Fire Oil,Alchemy,item:6371,1,Weapon Buffs/Oils,True,False,"{""item:6359"": 2}",CraftingDB learned recipe

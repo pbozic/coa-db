@@ -1,0 +1,50 @@
+# ---------------------------------------------------------------------------
+# TSM operations for the CoA`High Risk groups
+# ---------------------------------------------------------------------------
+# Create these under TSM > Operations, then assign them to the group shown.
+#
+# IMPORTANT: TSM only knows a recipe's cost after you open the profession
+# window with the recipe learned. Until then `crafting` evaluates to nothing and
+# any price string relying on it silently falls back. The profit model in
+# profit.py does not depend on TSM knowing the recipe.
+
+[Auctioning: "CoA High Risk - Consumables"]   -> CoA`High Risk`Sell`Flasks
+                                              -> CoA`High Risk`Sell`Food
+  Minimum price      max(110% crafting, 90% dbmarket, 150% vendorsell)
+  Normal price       max(130% crafting, dbmarket)
+  Maximum price      max(400% crafting, 250% dbmarket)
+  Undercut           1c
+  Post cap           5
+  Keep quantity      0
+  Duration           12h
+
+[Auctioning: "CoA High Risk - Enchants"]      -> CoA`High Risk`Sell`Enchants
+  Minimum price      max(110% crafting, 90% dbmarket)
+  Normal price       max(140% crafting, dbmarket)
+  Maximum price      max(500% crafting, 300% dbmarket)
+  Undercut           1c
+  Post cap           2
+  Duration           12h
+
+[Shopping: "CoA High Risk - Restock Mats"]    -> CoA`High Risk`Buy`Vanilla
+                                              -> CoA`High Risk`Buy`Custom
+  Maximum price      90% dbmarket
+  Restock quantity   200
+
+[Crafting: "CoA High Risk"]                   -> CoA`High Risk`Sell`*
+  Minimum profit     max(50g, 25% crafting)
+  Minimum restock    1
+  Maximum restock    10
+
+[Sniper / Dealfinding]                        -> CoA`High Risk`Buy`Custom
+  Maximum price      70% dbmarket
+  # Custom mats are thin markets. A 30% discount is a real deal, not noise.
+
+# ---------------------------------------------------------------------------
+# Groups that intentionally get NO auctioning operation
+# ---------------------------------------------------------------------------
+# CoA`High Risk`Convert  -- these are inputs to a station click, not products.
+#                           Track them so you can price the conversion chain,
+#                           but posting them competes with your own crafting.
+# CoA`High Risk`Farm     -- drop-only. dbmarket is unreliable when supply is
+#                           sporadic; use the profit model's manual price entry.

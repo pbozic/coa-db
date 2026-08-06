@@ -1,0 +1,63 @@
+rank,family,product,product_id,profession,yield,unit_sale_price,buy_cost,buy_profit,buy_roi,gather_cost,gather_profit,gather_roi,plan_cost,plan_profit,plan_roi,gathered_materials,missing_prices
+1,enchant,Enchant Weapon - Unstoppable Assault,968677,Enchanting,1,1804998,857540,857208,100.0,857540,857208,100.0,857540,857208,100.0,Large Brilliant Shard; Greater Eternal Essence; Illusion Dust; Profane Shard; Echoes of Blood; Hellish Trinket,
+2,enchant,Enchant Weapon - Grovewarden's Blessing,968689,Enchanting,1,1387500,715120,603005,84.3,715120,603005,84.3,715120,603005,84.3,Large Brilliant Shard; Greater Eternal Essence; Illusion Dust; Profane Shard; Echoes of Blood; Void Trinket,
+3,enchant,Enchant Weapon - Ninja's Focus,968686,Enchanting,1,1379999,715120,595879,83.3,715120,595879,83.3,715120,595879,83.3,Large Brilliant Shard; Greater Eternal Essence; Illusion Dust; Profane Shard; Echoes of Blood; Void Trinket,
+4,enchant,Enchant Weapon - Brutal Crusader,968770,Enchanting,1,1320000,720012,533988,74.2,720012,533988,74.2,720012,533988,74.2,Large Brilliant Shard; Greater Eternal Essence; Illusion Dust; Profane Shard; Echoes of Blood; Animated Knuckle Bones,
+5,enchant,Enchant Weapon - Arcane Artillery,968698,Enchanting,1,1315000,857540,391710,45.7,857540,391710,45.7,857540,391710,45.7,Large Brilliant Shard; Greater Eternal Essence; Illusion Dust; Profane Shard; Echoes of Blood; Hellish Trinket,
+6,enchant,Enchant Weapon - Spellbinder's Rage,968683,Enchanting,1,959500,720012,191513,26.6,720012,191513,26.6,720012,191513,26.6,Large Brilliant Shard; Greater Eternal Essence; Illusion Dust; Profane Shard; Echoes of Blood; Animated Knuckle Bones,
+7,flask,Distilled Flask of Unrelenting Power,967459,Alchemy,1,114000,66468,41832,62.9,66468,41832,62.9,66468,41832,62.9,Essence of Undeath; Golden Sansam; Fiery Frond; Blightroot; Stringy Blubber,
+8,food,Fused Subtle Soup,967606,Cooking,1,62000,20462,38438,187.9,20462,38438,187.9,20462,38438,187.9,Mystery Meat; Raw Savage Flesh; Silithid Meat Chunks,
+9,flask,Distilled Flask of Adept Striking,967474,Alchemy,1,127998,83908,37690,44.9,83908,37690,44.9,83908,37690,44.9,Essence of Undeath; Dreamfoil; Plague Blossom; Blightroot; Scarlet Human Scraps,
+10,food,Fused Seared Chops,967543,Cooking,1,51498,27608,21315,77.2,27608,21315,77.2,27608,21315,77.2,Giant Egg; Raw Savage Flesh; Silithid Meat Chunks,
+11,food,Fused Subtle Chops,967597,Cooking,1,78500,54662,19913,36.4,54662,19913,36.4,54662,19913,36.4,Mystery Meat; Raw Savage Flesh; Savage Chimaera Chunks,
+12,food,Fused Subtle Steak,967600,Cooking,1,39400,20462,16968,82.9,20462,16968,82.9,20462,16968,82.9,Mystery Meat; Raw Savage Flesh; Silithid Meat Chunks,
+13,food,Fused Blackened Roast,967624,Cooking,1,73498,54662,15161,27.7,54662,15161,27.7,54662,15161,27.7,Mystery Meat; Raw Savage Flesh; Savage Chimaera Chunks,
+14,food,Fused Subtle Wontons,967603,Cooking,1,34794,24494,8560,34.9,24494,8560,34.9,24494,8560,34.9,Mystery Meat; Raw Savage Flesh; Naga Tail Chunks,
+15,food,Fused Clear-Cut Chops,967525,Cooking,1,32600,23994,6976,29.1,23994,6976,29.1,23994,6976,29.1,Raptor Flesh; Raw Savage Flesh; Naga Tail Chunks,
+16,food,Fused Hearty Living Soup,967582,Cooking,1,69500,61808,4217,6.8,61808,4217,6.8,61808,4217,6.8,Giant Egg; Raw Savage Flesh; Savage Chimaera Chunks,
+17,food,Fused Wizard Wontons,967573,Cooking,1,26398,25064,14,0.1,25064,14,0.1,25064,14,0.1,Turtle Meat; Raw Savage Flesh; Naga Tail Chunks,
+18,food,Fused Bold Duck Stew,967630,Cooking,1,27300,26192,-257,-1.0,26192,-257,-1.0,26192,-257,-1.0,Turtle Meat; Raw Savage Flesh; Animated Meat Chunks,
+19,food,Fused Hearty Charred Steak,967588,Cooking,1,27200,26302,-462,-1.8,26302,-462,-1.8,26302,-462,-1.8,Raw Nightfin Snapper; Raw Savage Flesh; Naga Tail Chunks,
+20,food,Fused Duck Stew,967564,Cooking,1,25000,24494,-744,-3.0,24494,-744,-3.0,24494,-744,-3.0,Mystery Meat; Raw Savage Flesh; Naga Tail Chunks,
+21,food,Fused Hearty Air Fried Chops,967585,Cooking,1,19800,20400,-1590,-7.8,20400,-1590,-7.8,20400,-1590,-7.8,Tender Wolf Meat; Raw Savage Flesh; Silithid Meat Chunks,
+22,food,Fused Air Fried Chops,967519,Cooking,1,19400,20462,-2032,-9.9,20462,-2032,-9.9,20462,-2032,-9.9,Mystery Meat; Raw Savage Flesh; Silithid Meat Chunks,
+23,food,Fused Mana Imbued Roast,967612,Cooking,1,19973,24494,-5520,-22.5,24494,-5520,-22.5,24494,-5520,-22.5,Mystery Meat; Raw Savage Flesh; Naga Tail Chunks,
+24,food,Fused Bold Stew,967609,Cooking,1,71000,73400,-5950,-8.1,73400,-5950,-8.1,73400,-5950,-8.1,Sandworm Meat; Raw Savage Flesh; Savage Chimaera Chunks,
+25,food,Fused Chunky Stew,967567,Cooking,1,14659,19962,-6036,-30.2,19962,-6036,-30.2,19962,-6036,-30.2,Raptor Flesh; Raw Savage Flesh; Silithid Meat Chunks,
+26,food,Fused Living Soup,967510,Cooking,1,18400,25622,-8142,-31.8,25622,-8142,-31.8,25622,-8142,-31.8,Mystery Meat; Raw Savage Flesh; Animated Meat Chunks,
+27,food,Fused Simmered Stew,967570,Cooking,1,17600,25560,-8840,-34.6,25560,-8840,-34.6,25560,-8840,-34.6,Tender Wolf Meat; Raw Savage Flesh; Animated Meat Chunks,
+28,food,Fused Bold Simmered Stew,967627,Cooking,1,12031,20400,-8971,-44.0,20400,-8971,-44.0,20400,-8971,-44.0,Tender Wolf Meat; Raw Savage Flesh; Silithid Meat Chunks,
+29,food,Fused Wizard Soup,967576,Cooking,1,24200,32768,-9778,-29.8,32768,-9778,-29.8,32768,-9778,-29.8,Giant Egg; Raw Savage Flesh; Animated Meat Chunks,
+30,food,Fused Steamed Wontons,967516,Cooking,1,14598,24494,-10626,-43.4,24494,-10626,-43.4,24494,-10626,-43.4,Mystery Meat; Raw Savage Flesh; Naga Tail Chunks,
+31,food,Fused Clear-Cut Steak,967531,Cooking,1,21100,32768,-12723,-38.8,32768,-12723,-38.8,32768,-12723,-38.8,Giant Egg; Raw Savage Flesh; Animated Meat Chunks,
+32,food,Fused Sizzling Roast,967615,Cooking,1,13511,25622,-12787,-49.9,25622,-12787,-49.9,25622,-12787,-49.9,Mystery Meat; Raw Savage Flesh; Animated Meat Chunks,
+33,food,Fused Rock's Stew,967522,Cooking,1,13200,25622,-13082,-51.1,25622,-13082,-51.1,25622,-13082,-51.1,Mystery Meat; Raw Savage Flesh; Animated Meat Chunks,
+34,food,Fused Seared Wontons,967540,Cooking,1,66500,76922,-13747,-17.9,76922,-13747,-17.9,76922,-13747,-17.9,Chimaerok Tenderloin; Raw Savage Flesh; Silithid Meat Chunks,
+35,food,Fused Hearty Steamed Wontons,967591,Cooking,1,12998,26192,-13844,-52.9,26192,-13844,-52.9,26192,-13844,-52.9,Turtle Meat; Raw Savage Flesh; Animated Meat Chunks,
+36,food,Fused Winter Roast,967621,Cooking,1,11251,25622,-14934,-58.3,25622,-14934,-58.3,25622,-14934,-58.3,Mystery Meat; Raw Savage Flesh; Animated Meat Chunks,
+37,food,Fused Wild Roast,967618,Cooking,1,41399,54662,-15333,-28.1,54662,-15333,-28.1,54662,-15333,-28.1,Mystery Meat; Raw Savage Flesh; Savage Chimaera Chunks,
+38,food,Fused Charred Steak,967513,Cooking,1,38400,54662,-18182,-33.3,54662,-18182,-33.3,54662,-18182,-33.3,Mystery Meat; Raw Savage Flesh; Savage Chimaera Chunks,
+39,food,Fused Clear-Cut Wontons,967528,Cooking,1,38800,56470,-19610,-34.7,56470,-19610,-34.7,56470,-19610,-34.7,Raw Nightfin Snapper; Raw Savage Flesh; Savage Chimaera Chunks,
+40,flask,Distilled Flask of Manifesting Power,967444,Alchemy,1,146999,161950,-22301,-13.8,161950,-22301,-13.8,161950,-22301,-13.8,Living Essence; Mountain Silversage; Spectral Rose; Blightroot; Spectral Teardrops,
+41,food,Fused Piercing Chops,967534,Cooking,1,90452,111122,-25193,-22.7,111122,-25193,-22.7,111122,-25193,-22.7,Chimaerok Tenderloin; Raw Savage Flesh; Savage Chimaera Chunks,
+42,food,Fused Red-Hot Stew,967558,Cooking,1,47800,73400,-27990,-38.1,73400,-27990,-38.1,73400,-27990,-38.1,Sandworm Meat; Raw Savage Flesh; Savage Chimaera Chunks,
+43,food,Fused Piercing Steak,967537,Cooking,1,14399,43232,-29553,-68.4,43232,-29553,-68.4,43232,-29553,-68.4,Sandworm Meat; Raw Savage Flesh; Naga Tail Chunks,
+44,flask,Distilled Flask of Savage Assault,967462,Alchemy,1,383000,551130,-187280,-34.0,551130,-187280,-34.0,551130,-187280,-34.0,Essence of Air; Sungrass; Storm Brine; Blightroot; Arkoran Guts,
+45,flask,Distilled Flask of Shattering Thunder,967465,Alchemy,1,347900,551130,-220625,-40.0,551130,-220625,-40.0,551130,-220625,-40.0,Essence of Air; Sungrass; Storm Brine; Blightroot; Arkoran Guts,
+46,flask,Distilled Flask of the Executioner,967468,Alchemy,1,386000,608810,-242110,-39.8,608810,-242110,-39.8,608810,-242110,-39.8,Essence of Fire; Plaguebloom; Spectral Rose; Blightroot; Spectral Teardrops,
+47,flask,Distilled Flask of the Warsong,967447,Alchemy,1,244000,531760,-299960,-56.4,531760,-299960,-56.4,531760,-299960,-56.4,Essence of Fire; Icecap; Plague Blossom; Blightroot; Scarlet Human Scraps,
+48,flask,Distilled Flask of Deep Meditation,967471,Alchemy,1,332999,655758,-339409,-51.8,655758,-339409,-51.8,655758,-339409,-51.8,Essence of Water; Icecap; Plague Blossom; Blightroot; Scarlet Human Scraps,
+49,flask,Distilled Flask of Butchery,967453,Alchemy,1,356000,780810,-442610,-56.7,780810,-442610,-56.7,780810,-442610,-56.7,Essence of Earth; Plaguebloom; Fiery Frond; Blightroot; Stringy Blubber,
+50,flask,Distilled Flask of the Unyielding,967456,Alchemy,1,348000,785550,-454950,-57.9,785550,-454950,-57.9,785550,-454950,-57.9,Essence of Earth; Mountain Silversage; Fiery Frond; Blightroot; Stringy Blubber,
+51,flask,Distilled Flask of the Kirin Tor,967450,Alchemy,1,251000,713048,-474598,-66.6,713048,-474598,-66.6,713048,-474598,-66.6,Essence of Water; Arthas' Tears; Spectral Rose; Blightroot; Spectral Teardrops,
+52,enchant,Enchant Weapon - Arcane Dexterity,968695,Enchanting,1,,,,,,,,,,,Large Brilliant Shard; Greater Eternal Essence; Illusion Dust,Item 1303149; Item 1303164
+53,enchant,Enchant Weapon - Arcane Precision,968701,Enchanting,1,,,,,,,,,,,Large Brilliant Shard; Greater Eternal Essence; Illusion Dust,Item 1303149; Item 1303160
+54,enchant,Enchant Weapon - Lucid Assault,968680,Enchanting,1,,,,,,,,,,,Large Brilliant Shard; Greater Eternal Essence; Illusion Dust,Item 1303149; Item 1303164
+55,enchant,Enchant Weapon - Viscious Assault,968692,Enchanting,1,,,,,,,,,,,Large Brilliant Shard; Greater Eternal Essence; Illusion Dust,Item 1303149; Item 1303164
+56,food,Fused Blazing Stew,967561,Cooking,1,,,,,,,,,,,Essence of Fire; Raptor Flesh,Item 1303470; Item 1303476
+57,food,Fused Heightened Wontons,967579,Cooking,1,,,,,,,,,,,Turtle Meat; Essence of Water,Item 1303470; Item 1303472
+58,food,Fused Savory Chops,967549,Cooking,1,,,,,,,,,,,Essence of Undeath; Chimaerok Tenderloin,Item 1303470; Item 1303476
+59,food,Fused Savory Steak,967552,Cooking,1,,,,,,,,,,,Essence of Undeath; Chimaerok Tenderloin,Item 1303470; Item 1303476
+60,food,Fused Savory Stew,967546,Cooking,1,,,,,,,,,,,Mystery Meat; Essence of Undeath,Item 1303470; Item 1303476
+61,food,Fused Savory Wontons,967555,Cooking,1,,,,,,,,,,,Turtle Meat; Essence of Water,Item 1303470; Item 1303476
+62,food,Fused Vibrant Chops,967594,Cooking,1,,,,,,,,,,,Essence of Air; Raw Nightfin Snapper,Item 1303470; Item 1303476

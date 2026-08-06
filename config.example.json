@@ -1,0 +1,9 @@
+{
+  "delay": 1.5,
+  "timeout": 30,
+  "user_agent": "AscensionRecipeResearch/1.0 (+personal market analysis)",
+  "seed_urls": [
+    "https://db.ascension.gg/?spells=11.171",
+    "https://db.ascension.gg/?items=9.6"
+  ]
+}

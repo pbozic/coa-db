@@ -1,0 +1,387 @@
+[
+  {
+    "recipe_spell_id": 3177,
+    "name": "Elixir of Defense",
+    "profession": "Alchemy",
+    "item": "item:3389",
+    "num_result": 1,
+    "queued": -3,
+    "materials": {
+      "item:3355": 1,
+      "item:3820": 1,
+      "item:3372": 1
+    },
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 7845,
+    "name": "Elixir of Firepower",
+    "profession": "Alchemy",
+    "item": "item:6373",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3356": 1,
+      "item:3372": 1,
+      "item:6371": 2
+    },
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 2329,
+    "name": "Elixir of Lion's Strength",
+    "profession": "Alchemy",
+    "item": "item:2454",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3371": 1,
+      "item:765": 1,
+      "item:2449": 1
+    },
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 63732,
+    "name": "Elixir of Minor Accuracy",
+    "profession": "Alchemy",
+    "item": "item:45621",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3371": 1,
+      "item:2453": 1,
+      "item:6371": 1
+    },
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 7183,
+    "name": "Elixir of Minor Defense",
+    "profession": "Alchemy",
+    "item": "item:5997",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:765": 2,
+      "item:3371": 1
+    },
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 2334,
+    "name": "Elixir of Minor Fortitude",
+    "profession": "Alchemy",
+    "item": "item:2458",
+    "num_result": 1,
+    "queued": -7,
+    "materials": {
+      "item:3371": 1,
+      "item:2447": 1,
+      "item:2449": 2
+    },
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 7179,
+    "name": "Elixir of Water Breathing",
+    "profession": "Alchemy",
+    "item": "item:5996",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:6370": 2,
+      "item:3820": 1,
+      "item:3371": 1
+    },
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 3171,
+    "name": "Elixir of Wisdom",
+    "profession": "Alchemy",
+    "item": "item:3383",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3371": 1,
+      "item:2450": 2,
+      "item:785": 1
+    },
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 3176,
+    "name": "Strong Troll's Blood Elixir",
+    "profession": "Alchemy",
+    "item": "item:3388",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3372": 1,
+      "item:2453": 2,
+      "item:2450": 2
+    },
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 3170,
+    "name": "Weak Troll's Blood Elixir",
+    "profession": "Alchemy",
+    "item": "item:3382",
+    "num_result": 1,
+    "queued": -3,
+    "materials": {
+      "item:3371": 1,
+      "item:2447": 1,
+      "item:2449": 2
+    },
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 7181,
+    "name": "Greater Healing Potion",
+    "profession": "Alchemy",
+    "item": "item:1710",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3356": 1,
+      "item:3357": 1,
+      "item:3372": 1
+    },
+    "category": "Potions/Healing",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 3447,
+    "name": "Healing Potion",
+    "profession": "Alchemy",
+    "item": "item:929",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3372": 1,
+      "item:2453": 1,
+      "item:2450": 1
+    },
+    "category": "Potions/Healing",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 2337,
+    "name": "Lesser Healing Potion",
+    "profession": "Alchemy",
+    "item": "item:858",
+    "num_result": 1,
+    "queued": -6,
+    "materials": {
+      "item:2450": 1,
+      "item:118": 1
+    },
+    "category": "Potions/Healing",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 2330,
+    "name": "Minor Healing Potion",
+    "profession": "Alchemy",
+    "item": "item:118",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3371": 1,
+      "item:2447": 1,
+      "item:765": 1
+    },
+    "category": "Potions/Healing",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 2332,
+    "name": "Minor Rejuvenation Potion",
+    "profession": "Alchemy",
+    "item": "item:2456",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3371": 1,
+      "item:2447": 1,
+      "item:785": 2
+    },
+    "category": "Potions/Healing",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 3173,
+    "name": "Lesser Mana Potion",
+    "profession": "Alchemy",
+    "item": "item:3385",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3371": 1,
+      "item:3820": 1,
+      "item:785": 1
+    },
+    "category": "Potions/Mana",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 3452,
+    "name": "Mana Potion",
+    "profession": "Alchemy",
+    "item": "item:3827",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3356": 1,
+      "item:3820": 1,
+      "item:3372": 1
+    },
+    "category": "Potions/Mana",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 2331,
+    "name": "Minor Mana Potion",
+    "profession": "Alchemy",
+    "item": "item:2455",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3371": 1,
+      "item:765": 1,
+      "item:785": 1
+    },
+    "category": "Potions/Mana",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 7841,
+    "name": "Swim Speed Potion",
+    "profession": "Alchemy",
+    "item": "item:6372",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:6370": 1,
+      "item:2452": 1,
+      "item:3371": 1
+    },
+    "category": "Potions/Other",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 3448,
+    "name": "Lesser Invisibility Potion",
+    "profession": "Alchemy",
+    "item": "item:3823",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3818": 1,
+      "item:3355": 1,
+      "item:3372": 1
+    },
+    "category": "Potions/PvP Utility",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 2335,
+    "name": "Swiftness Potion",
+    "profession": "Alchemy",
+    "item": "item:2459",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:3371": 1,
+      "item:2452": 1,
+      "item:2450": 1
+    },
+    "category": "Potions/PvP Utility",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 7836,
+    "name": "Blackmouth Oil",
+    "profession": "Alchemy",
+    "item": "item:6370",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:6358": 2
+    },
+    "category": "Weapon Buffs/Oils",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  },
+  {
+    "recipe_spell_id": 7837,
+    "name": "Fire Oil",
+    "profession": "Alchemy",
+    "item": "item:6371",
+    "num_result": 1,
+    "queued": 0,
+    "materials": {
+      "item:6359": 2
+    },
+    "category": "Weapon Buffs/Oils",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "source": "CraftingDB learned recipe"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "known_crafts_total": 23,
+  "known_relevant_crafts": 23,
+  "observed_relevant_candidates": 95,
+  "groups": {
+    "CoA`Known Crafts`Elixirs": 10,
+    "CoA`Known Crafts`High Risk PvP": 12,
+    "CoA`Known Crafts`Potions`Healing": 5,
+    "CoA`Known Crafts`Potions`Mana": 3,
+    "CoA`Known Crafts`Potions`Other": 1,
+    "CoA`Known Crafts`Potions`PvP Utility": 2,
+    "CoA`Known Crafts`Weapon Buffs`Oils": 2,
+    "CoA`Observed Items`Bandages": 5,
+    "CoA`Observed Items`Elixirs": 14,
+    "CoA`Observed Items`Engineering`PvP": 4,
+    "CoA`Observed Items`Flasks": 5,
+    "CoA`Observed Items`Food & Drink": 29,
+    "CoA`Observed Items`High Risk PvP": 17,
+    "CoA`Observed Items`Potions`Healing": 4,
+    "CoA`Observed Items`Potions`Mana": 3,
+    "CoA`Observed Items`Potions`Other": 2,
+    "CoA`Observed Items`Potions`Protection": 3,
+    "CoA`Observed Items`Potions`PvP Utility": 4,
+    "CoA`Observed Items`Scrolls": 21,
+    "CoA`Observed Items`Weapon Buffs`Oils": 1
+  }
+}

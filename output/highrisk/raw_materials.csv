@@ -1,0 +1,225 @@
+family,product_id,product_name,yield_per_craft,material_id,material_name,quantity_per_craft,material_is_custom,material_sources
+flask,967444,Distilled Flask of Manifesting Power,3,13465,Mountain Silversage,10,0,"vendor, drop, container, object, quest objective, gathering"
+flask,967444,Distilled Flask of Manifesting Power,3,1303765,Spectral Teardrops,4,1,drop
+flask,967444,Distilled Flask of Manifesting Power,3,12803,Living Essence,2,0,"drop, quest objective, crafted"
+flask,967444,Distilled Flask of Manifesting Power,3,1303738,Blightroot,1,1,"container, gathering"
+flask,967447,Distilled Flask of the Warsong,3,13467,Icecap,10,0,"vendor, drop, container, quest objective, gathering"
+flask,967447,Distilled Flask of the Warsong,3,1303764,Scarlet Human Scraps,4,1,drop
+flask,967447,Distilled Flask of the Warsong,3,7078,Essence of Fire,2,0,"drop, container, quest objective, crafted"
+flask,967447,Distilled Flask of the Warsong,3,1303738,Blightroot,1,1,"container, gathering"
+flask,967450,Distilled Flask of the Kirin Tor,3,8836,Arthas' Tears,10,0,"drop, container, quest objective, gathering"
+flask,967450,Distilled Flask of the Kirin Tor,3,1303765,Spectral Teardrops,4,1,drop
+flask,967450,Distilled Flask of the Kirin Tor,3,7080,Essence of Water,2,0,"drop, container, quest objective, crafted"
+flask,967450,Distilled Flask of the Kirin Tor,3,1303738,Blightroot,1,1,"container, gathering"
+flask,967453,Distilled Flask of Butchery,3,13466,Plaguebloom,10,0,"drop, container, quest objective, gathering"
+flask,967453,Distilled Flask of Butchery,3,1303763,Stringy Blubber,4,1,drop
+flask,967453,Distilled Flask of Butchery,3,7076,Essence of Earth,2,0,"drop, container, crafted"
+flask,967453,Distilled Flask of Butchery,3,1303738,Blightroot,1,1,"container, gathering"
+flask,967456,Distilled Flask of the Unyielding,3,13465,Mountain Silversage,10,0,"vendor, drop, container, object, quest objective, gathering"
+flask,967456,Distilled Flask of the Unyielding,3,1303763,Stringy Blubber,4,1,drop
+flask,967456,Distilled Flask of the Unyielding,3,7076,Essence of Earth,2,0,"drop, container, crafted"
+flask,967456,Distilled Flask of the Unyielding,3,1303738,Blightroot,1,1,"container, gathering"
+flask,967459,Distilled Flask of Unrelenting Power,3,13464,Golden Sansam,10,0,"vendor, drop, container, object, quest objective, gathering"
+flask,967459,Distilled Flask of Unrelenting Power,3,1303763,Stringy Blubber,4,1,drop
+flask,967459,Distilled Flask of Unrelenting Power,3,12808,Essence of Undeath,2,0,"drop, crafted"
+flask,967459,Distilled Flask of Unrelenting Power,3,1303738,Blightroot,1,1,"container, gathering"
+flask,967462,Distilled Flask of Savage Assault,3,8838,Sungrass,10,0,"drop, container, object, quest objective, gathering"
+flask,967462,Distilled Flask of Savage Assault,3,1303762,Arkoran Guts,4,1,drop
+flask,967462,Distilled Flask of Savage Assault,3,7082,Essence of Air,2,0,"drop, container, quest objective, crafted"
+flask,967462,Distilled Flask of Savage Assault,3,1303738,Blightroot,1,1,"container, gathering"
+flask,967465,Distilled Flask of Shattering Thunder,3,8838,Sungrass,10,0,"drop, container, object, quest objective, gathering"
+flask,967465,Distilled Flask of Shattering Thunder,3,1303762,Arkoran Guts,4,1,drop
+flask,967465,Distilled Flask of Shattering Thunder,3,7082,Essence of Air,2,0,"drop, container, quest objective, crafted"
+flask,967465,Distilled Flask of Shattering Thunder,3,1303738,Blightroot,1,1,"container, gathering"
+flask,967468,Distilled Flask of the Executioner,3,13466,Plaguebloom,10,0,"drop, container, quest objective, gathering"
+flask,967468,Distilled Flask of the Executioner,3,1303765,Spectral Teardrops,4,1,drop
+flask,967468,Distilled Flask of the Executioner,3,7078,Essence of Fire,2,0,"drop, container, quest objective, crafted"
+flask,967468,Distilled Flask of the Executioner,3,1303738,Blightroot,1,1,"container, gathering"
+flask,967471,Distilled Flask of Deep Meditation,3,13467,Icecap,10,0,"vendor, drop, container, quest objective, gathering"
+flask,967471,Distilled Flask of Deep Meditation,3,1303764,Scarlet Human Scraps,4,1,drop
+flask,967471,Distilled Flask of Deep Meditation,3,7080,Essence of Water,2,0,"drop, container, quest objective, crafted"
+flask,967471,Distilled Flask of Deep Meditation,3,1303738,Blightroot,1,1,"container, gathering"
+flask,967474,Distilled Flask of Adept Striking,3,13463,Dreamfoil,10,0,"vendor, drop, container, object, quest objective, gathering"
+flask,967474,Distilled Flask of Adept Striking,3,1303764,Scarlet Human Scraps,4,1,drop
+flask,967474,Distilled Flask of Adept Striking,3,12808,Essence of Undeath,2,0,"drop, crafted"
+flask,967474,Distilled Flask of Adept Striking,3,1303738,Blightroot,1,1,"container, gathering"
+food,967510,Fused Living Soup,10,1303773,Animated Meat Chunks,4,1,drop
+food,967510,Fused Living Soup,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967510,Fused Living Soup,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967513,Fused Charred Steak,10,1303771,Savage Chimaera Chunks,4,1,drop
+food,967513,Fused Charred Steak,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967513,Fused Charred Steak,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967516,Fused Steamed Wontons,10,1303772,Naga Tail Chunks,4,1,drop
+food,967516,Fused Steamed Wontons,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967516,Fused Steamed Wontons,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967519,Fused Air Fried Chops,10,1303774,Silithid Meat Chunks,4,1,drop
+food,967519,Fused Air Fried Chops,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967519,Fused Air Fried Chops,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967522,Fused Rock's Stew,10,1303773,Animated Meat Chunks,4,1,drop
+food,967522,Fused Rock's Stew,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967522,Fused Rock's Stew,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967525,Fused Clear-Cut Chops,10,1303772,Naga Tail Chunks,4,1,drop
+food,967525,Fused Clear-Cut Chops,10,12184,Raptor Flesh,2,0,"drop, container"
+food,967525,Fused Clear-Cut Chops,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967528,Fused Clear-Cut Wontons,10,1303771,Savage Chimaera Chunks,4,1,drop
+food,967528,Fused Clear-Cut Wontons,10,13759,Raw Nightfin Snapper,2,0,"container, quest objective"
+food,967528,Fused Clear-Cut Wontons,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967531,Fused Clear-Cut Steak,10,1303773,Animated Meat Chunks,4,1,drop
+food,967531,Fused Clear-Cut Steak,10,12207,Giant Egg,2,0,"drop, container, quest objective"
+food,967531,Fused Clear-Cut Steak,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967534,Fused Piercing Chops,10,1303771,Savage Chimaera Chunks,4,1,drop
+food,967534,Fused Piercing Chops,10,21024,Chimaerok Tenderloin,2,0,"drop, quest objective"
+food,967534,Fused Piercing Chops,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967537,Fused Piercing Steak,10,1303772,Naga Tail Chunks,4,1,drop
+food,967537,Fused Piercing Steak,10,20424,Sandworm Meat,2,0,"drop, quest objective"
+food,967537,Fused Piercing Steak,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967540,Fused Seared Wontons,10,1303774,Silithid Meat Chunks,4,1,drop
+food,967540,Fused Seared Wontons,10,21024,Chimaerok Tenderloin,2,0,"drop, quest objective"
+food,967540,Fused Seared Wontons,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967543,Fused Seared Chops,10,1303774,Silithid Meat Chunks,4,1,drop
+food,967543,Fused Seared Chops,10,12207,Giant Egg,2,0,"drop, container, quest objective"
+food,967543,Fused Seared Chops,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967546,Fused Savory Stew,10,12037,Mystery Meat,3,0,"vendor, drop, container"
+food,967546,Fused Savory Stew,10,12808,Essence of Undeath,2,0,"drop, crafted"
+food,967546,Fused Savory Stew,10,1303476,Item 1303476,1,1,
+food,967546,Fused Savory Stew,10,1303470,Item 1303470,1,1,
+food,967549,Fused Savory Chops,10,21024,Chimaerok Tenderloin,3,0,"drop, quest objective"
+food,967549,Fused Savory Chops,10,12808,Essence of Undeath,2,0,"drop, crafted"
+food,967549,Fused Savory Chops,10,1303476,Item 1303476,1,1,
+food,967549,Fused Savory Chops,10,1303470,Item 1303470,1,1,
+food,967552,Fused Savory Steak,10,21024,Chimaerok Tenderloin,3,0,"drop, quest objective"
+food,967552,Fused Savory Steak,10,12808,Essence of Undeath,2,0,"drop, crafted"
+food,967552,Fused Savory Steak,10,1303476,Item 1303476,1,1,
+food,967552,Fused Savory Steak,10,1303470,Item 1303470,1,1,
+food,967555,Fused Savory Wontons,10,3712,Turtle Meat,3,0,"drop, container, quest objective"
+food,967555,Fused Savory Wontons,10,1303476,Item 1303476,1,1,
+food,967555,Fused Savory Wontons,10,1303470,Item 1303470,1,1,
+food,967555,Fused Savory Wontons,10,7080,Essence of Water,1,0,"drop, container, quest objective, crafted"
+food,967558,Fused Red-Hot Stew,10,1303771,Savage Chimaera Chunks,4,1,drop
+food,967558,Fused Red-Hot Stew,10,20424,Sandworm Meat,2,0,"drop, quest objective"
+food,967558,Fused Red-Hot Stew,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967561,Fused Blazing Stew,10,12184,Raptor Flesh,3,0,"drop, container"
+food,967561,Fused Blazing Stew,10,1303476,Item 1303476,1,1,
+food,967561,Fused Blazing Stew,10,1303470,Item 1303470,1,1,
+food,967561,Fused Blazing Stew,10,7078,Essence of Fire,1,0,"drop, container, quest objective, crafted"
+food,967564,Fused Duck Stew,10,1303772,Naga Tail Chunks,4,1,drop
+food,967564,Fused Duck Stew,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967564,Fused Duck Stew,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967567,Fused Chunky Stew,10,1303774,Silithid Meat Chunks,4,1,drop
+food,967567,Fused Chunky Stew,10,12184,Raptor Flesh,2,0,"drop, container"
+food,967567,Fused Chunky Stew,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967570,Fused Simmered Stew,10,1303773,Animated Meat Chunks,4,1,drop
+food,967570,Fused Simmered Stew,10,12208,Tender Wolf Meat,2,0,"drop, container"
+food,967570,Fused Simmered Stew,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967573,Fused Wizard Wontons,10,1303772,Naga Tail Chunks,4,1,drop
+food,967573,Fused Wizard Wontons,10,3712,Turtle Meat,2,0,"drop, container, quest objective"
+food,967573,Fused Wizard Wontons,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967576,Fused Wizard Soup,10,1303773,Animated Meat Chunks,4,1,drop
+food,967576,Fused Wizard Soup,10,12207,Giant Egg,2,0,"drop, container, quest objective"
+food,967576,Fused Wizard Soup,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967579,Fused Heightened Wontons,10,3712,Turtle Meat,3,0,"drop, container, quest objective"
+food,967579,Fused Heightened Wontons,10,1303472,Item 1303472,1,1,
+food,967579,Fused Heightened Wontons,10,1303470,Item 1303470,1,1,
+food,967579,Fused Heightened Wontons,10,7080,Essence of Water,1,0,"drop, container, quest objective, crafted"
+food,967582,Fused Hearty Living Soup,10,1303771,Savage Chimaera Chunks,4,1,drop
+food,967582,Fused Hearty Living Soup,10,12207,Giant Egg,2,0,"drop, container, quest objective"
+food,967582,Fused Hearty Living Soup,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967585,Fused Hearty Air Fried Chops,10,1303774,Silithid Meat Chunks,4,1,drop
+food,967585,Fused Hearty Air Fried Chops,10,12208,Tender Wolf Meat,2,0,"drop, container"
+food,967585,Fused Hearty Air Fried Chops,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967588,Fused Hearty Charred Steak,10,1303772,Naga Tail Chunks,4,1,drop
+food,967588,Fused Hearty Charred Steak,10,13759,Raw Nightfin Snapper,2,0,"container, quest objective"
+food,967588,Fused Hearty Charred Steak,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967591,Fused Hearty Steamed Wontons,10,1303773,Animated Meat Chunks,4,1,drop
+food,967591,Fused Hearty Steamed Wontons,10,3712,Turtle Meat,2,0,"drop, container, quest objective"
+food,967591,Fused Hearty Steamed Wontons,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967594,Fused Vibrant Chops,10,13759,Raw Nightfin Snapper,3,0,"container, quest objective"
+food,967594,Fused Vibrant Chops,10,1303476,Item 1303476,1,1,
+food,967594,Fused Vibrant Chops,10,1303470,Item 1303470,1,1,
+food,967594,Fused Vibrant Chops,10,7082,Essence of Air,1,0,"drop, container, quest objective, crafted"
+food,967597,Fused Subtle Chops,10,1303771,Savage Chimaera Chunks,4,1,drop
+food,967597,Fused Subtle Chops,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967597,Fused Subtle Chops,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967600,Fused Subtle Steak,10,1303774,Silithid Meat Chunks,4,1,drop
+food,967600,Fused Subtle Steak,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967600,Fused Subtle Steak,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967603,Fused Subtle Wontons,10,1303772,Naga Tail Chunks,4,1,drop
+food,967603,Fused Subtle Wontons,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967603,Fused Subtle Wontons,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967606,Fused Subtle Soup,10,1303774,Silithid Meat Chunks,4,1,drop
+food,967606,Fused Subtle Soup,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967606,Fused Subtle Soup,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967609,Fused Bold Stew,10,1303771,Savage Chimaera Chunks,4,1,drop
+food,967609,Fused Bold Stew,10,20424,Sandworm Meat,2,0,"drop, quest objective"
+food,967609,Fused Bold Stew,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967612,Fused Mana Imbued Roast,10,1303772,Naga Tail Chunks,4,1,drop
+food,967612,Fused Mana Imbued Roast,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967612,Fused Mana Imbued Roast,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967615,Fused Sizzling Roast,10,1303773,Animated Meat Chunks,4,1,drop
+food,967615,Fused Sizzling Roast,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967615,Fused Sizzling Roast,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967618,Fused Wild Roast,10,1303771,Savage Chimaera Chunks,4,1,drop
+food,967618,Fused Wild Roast,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967618,Fused Wild Roast,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967621,Fused Winter Roast,10,1303773,Animated Meat Chunks,4,1,drop
+food,967621,Fused Winter Roast,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967621,Fused Winter Roast,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967624,Fused Blackened Roast,10,1303771,Savage Chimaera Chunks,4,1,drop
+food,967624,Fused Blackened Roast,10,12037,Mystery Meat,2,0,"vendor, drop, container"
+food,967624,Fused Blackened Roast,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967627,Fused Bold Simmered Stew,10,1303774,Silithid Meat Chunks,4,1,drop
+food,967627,Fused Bold Simmered Stew,10,12208,Tender Wolf Meat,2,0,"drop, container"
+food,967627,Fused Bold Simmered Stew,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+food,967630,Fused Bold Duck Stew,10,1303773,Animated Meat Chunks,4,1,drop
+food,967630,Fused Bold Duck Stew,10,3712,Turtle Meat,2,0,"drop, container, quest objective"
+food,967630,Fused Bold Duck Stew,10,1303747,Raw Savage Flesh,1,1,"drop, container"
+enchant,968677,Enchant Weapon - Unstoppable Assault,1,16204,Illusion Dust,20,0,"container, quest objective, disenchanting"
+enchant,968677,Enchant Weapon - Unstoppable Assault,1,16203,Greater Eternal Essence,15,0,"container, quest objective, crafted, disenchanting"
+enchant,968677,Enchant Weapon - Unstoppable Assault,1,14344,Large Brilliant Shard,5,0,"container, quest objective, crafted, disenchanting"
+enchant,968677,Enchant Weapon - Unstoppable Assault,1,1303759,Hellish Trinket,4,1,drop
+enchant,968677,Enchant Weapon - Unstoppable Assault,1,1303734,Echoes of Blood,4,1,"container, disenchanting"
+enchant,968680,Enchant Weapon - Lucid Assault,1,16204,Illusion Dust,10,0,"container, quest objective, disenchanting"
+enchant,968680,Enchant Weapon - Lucid Assault,1,16203,Greater Eternal Essence,5,0,"container, quest objective, crafted, disenchanting"
+enchant,968680,Enchant Weapon - Lucid Assault,1,1303164,Item 1303164,1,1,
+enchant,968680,Enchant Weapon - Lucid Assault,1,1303149,Item 1303149,1,1,
+enchant,968680,Enchant Weapon - Lucid Assault,1,14344,Large Brilliant Shard,1,0,"container, quest objective, crafted, disenchanting"
+enchant,968683,Enchant Weapon - Spellbinder's Rage,1,16204,Illusion Dust,20,0,"container, quest objective, disenchanting"
+enchant,968683,Enchant Weapon - Spellbinder's Rage,1,16203,Greater Eternal Essence,15,0,"container, quest objective, crafted, disenchanting"
+enchant,968683,Enchant Weapon - Spellbinder's Rage,1,14344,Large Brilliant Shard,5,0,"container, quest objective, crafted, disenchanting"
+enchant,968683,Enchant Weapon - Spellbinder's Rage,1,1303760,Animated Knuckle Bones,4,1,drop
+enchant,968683,Enchant Weapon - Spellbinder's Rage,1,1303734,Echoes of Blood,4,1,"container, disenchanting"
+enchant,968686,Enchant Weapon - Ninja's Focus,1,16204,Illusion Dust,20,0,"container, quest objective, disenchanting"
+enchant,968686,Enchant Weapon - Ninja's Focus,1,16203,Greater Eternal Essence,15,0,"container, quest objective, crafted, disenchanting"
+enchant,968686,Enchant Weapon - Ninja's Focus,1,14344,Large Brilliant Shard,5,0,"container, quest objective, crafted, disenchanting"
+enchant,968686,Enchant Weapon - Ninja's Focus,1,1303761,Void Trinket,4,1,drop
+enchant,968686,Enchant Weapon - Ninja's Focus,1,1303734,Echoes of Blood,4,1,"container, disenchanting"
+enchant,968689,Enchant Weapon - Grovewarden's Blessing,1,16204,Illusion Dust,20,0,"container, quest objective, disenchanting"
+enchant,968689,Enchant Weapon - Grovewarden's Blessing,1,16203,Greater Eternal Essence,15,0,"container, quest objective, crafted, disenchanting"
+enchant,968689,Enchant Weapon - Grovewarden's Blessing,1,14344,Large Brilliant Shard,5,0,"container, quest objective, crafted, disenchanting"
+enchant,968689,Enchant Weapon - Grovewarden's Blessing,1,1303761,Void Trinket,4,1,drop
+enchant,968689,Enchant Weapon - Grovewarden's Blessing,1,1303734,Echoes of Blood,4,1,"container, disenchanting"
+enchant,968692,Enchant Weapon - Viscious Assault,1,16204,Illusion Dust,10,0,"container, quest objective, disenchanting"
+enchant,968692,Enchant Weapon - Viscious Assault,1,16203,Greater Eternal Essence,5,0,"container, quest objective, crafted, disenchanting"
+enchant,968692,Enchant Weapon - Viscious Assault,1,1303164,Item 1303164,1,1,
+enchant,968692,Enchant Weapon - Viscious Assault,1,1303149,Item 1303149,1,1,
+enchant,968692,Enchant Weapon - Viscious Assault,1,14344,Large Brilliant Shard,1,0,"container, quest objective, crafted, disenchanting"
+enchant,968695,Enchant Weapon - Arcane Dexterity,1,16204,Illusion Dust,10,0,"container, quest objective, disenchanting"
+enchant,968695,Enchant Weapon - Arcane Dexterity,1,16203,Greater Eternal Essence,5,0,"container, quest objective, crafted, disenchanting"
+enchant,968695,Enchant Weapon - Arcane Dexterity,1,1303164,Item 1303164,1,1,
+enchant,968695,Enchant Weapon - Arcane Dexterity,1,1303149,Item 1303149,1,1,
+enchant,968695,Enchant Weapon - Arcane Dexterity,1,14344,Large Brilliant Shard,1,0,"container, quest objective, crafted, disenchanting"
+enchant,968698,Enchant Weapon - Arcane Artillery,1,16204,Illusion Dust,20,0,"container, quest objective, disenchanting"
+enchant,968698,Enchant Weapon - Arcane Artillery,1,16203,Greater Eternal Essence,15,0,"container, quest objective, crafted, disenchanting"
+enchant,968698,Enchant Weapon - Arcane Artillery,1,14344,Large Brilliant Shard,5,0,"container, quest objective, crafted, disenchanting"
+enchant,968698,Enchant Weapon - Arcane Artillery,1,1303759,Hellish Trinket,4,1,drop
+enchant,968698,Enchant Weapon - Arcane Artillery,1,1303734,Echoes of Blood,4,1,"container, disenchanting"
+enchant,968701,Enchant Weapon - Arcane Precision,1,16204,Illusion Dust,10,0,"container, quest objective, disenchanting"
+enchant,968701,Enchant Weapon - Arcane Precision,1,16203,Greater Eternal Essence,5,0,"container, quest objective, crafted, disenchanting"
+enchant,968701,Enchant Weapon - Arcane Precision,1,1303160,Item 1303160,1,1,
+enchant,968701,Enchant Weapon - Arcane Precision,1,1303149,Item 1303149,1,1,
+enchant,968701,Enchant Weapon - Arcane Precision,1,14344,Large Brilliant Shard,1,0,"container, quest objective, crafted, disenchanting"
+enchant,968770,Enchant Weapon - Brutal Crusader,1,16204,Illusion Dust,20,0,"container, quest objective, disenchanting"
+enchant,968770,Enchant Weapon - Brutal Crusader,1,16203,Greater Eternal Essence,15,0,"container, quest objective, crafted, disenchanting"
+enchant,968770,Enchant Weapon - Brutal Crusader,1,14344,Large Brilliant Shard,5,0,"container, quest objective, crafted, disenchanting"
+enchant,968770,Enchant Weapon - Brutal Crusader,1,1303760,Animated Knuckle Bones,4,1,drop
+enchant,968770,Enchant Weapon - Brutal Crusader,1,1303734,Echoes of Blood,4,1,"container, disenchanting"

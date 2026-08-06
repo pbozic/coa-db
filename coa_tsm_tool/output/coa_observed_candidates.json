@@ -1,0 +1,857 @@
+[
+  {
+    "name": "Crusted Bandages",
+    "item": "item:9332",
+    "category": "Bandages",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Heavy Linen Bandage",
+    "item": "item:2581",
+    "category": "Bandages",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Heavy Wool Bandage",
+    "item": "item:3531",
+    "category": "Bandages",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Linen Bandage",
+    "item": "item:1251",
+    "category": "Bandages",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Wool Bandage",
+    "item": "item:3530",
+    "category": "Bandages",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Arcane Elixir",
+    "item": "item:9155",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Catseye Elixir",
+    "item": "item:10592",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Elixir of Agility",
+    "item": "item:8949",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Elixir of Brute Force",
+    "item": "item:13453",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Elixir of Fortitude",
+    "item": "item:3825",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Elixir of Greater Agility",
+    "item": "item:9187",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Elixir of Minor Agility",
+    "item": "item:2457",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Elixir of Superior Defense",
+    "item": "item:13445",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Elixir of the Mongoose",
+    "item": "item:13452",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Elixir of the Sages",
+    "item": "item:13447",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Greater Arcane Elixir",
+    "item": "item:13454",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Noggenfogger Elixir",
+    "item": "item:8529",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Elixir of Minor Agility",
+    "item": "item:2553",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Elixir of Ogre's Strength",
+    "item": "item:6211",
+    "category": "Elixirs",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Dynamite Casing",
+    "item": "item:489",
+    "category": "Engineering/PvP",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Red Fireworks Rocket",
+    "item": "item:5740",
+    "category": "Engineering/PvP",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Rough Copper Bomb",
+    "item": "item:4360",
+    "category": "Engineering/PvP",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Schematic: Small Seaforium Charge",
+    "item": "item:4409",
+    "category": "Engineering/PvP",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Distilled Flask of Deep Meditation",
+    "item": "item:967471",
+    "category": "Flasks",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Distilled Flask of the Executioner",
+    "item": "item:967468",
+    "category": "Flasks",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Distilled Flask of the Kirin Tor",
+    "item": "item:967450",
+    "category": "Flasks",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Flask of Mojo",
+    "item": "item:8151",
+    "category": "Flasks",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Flask of Oil",
+    "item": "item:814",
+    "category": "Flasks",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "A Crumpled Up Note",
+    "item": "item:11446",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Arthas' Tears",
+    "item": "item:8836",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Cured Ham Steak",
+    "item": "item:4599",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Curiously Tasty Omelet",
+    "item": "item:3665",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Fresh Cocktail",
+    "item": "item:230501",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Fused Hearty Steamed Wontons",
+    "item": "item:967591",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Fused Seared Chops",
+    "item": "item:967543",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Fused Steamed Wontons",
+    "item": "item:967516",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Green Tea Leaf",
+    "item": "item:1401",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Moist Cornbread",
+    "item": "item:4542",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Murloc Fin Soup",
+    "item": "item:3663",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Primal Loa Cocktail",
+    "item": "item:230506",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Big Bear Steak",
+    "item": "item:3734",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Crocolisk Steak",
+    "item": "item:3678",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Curiously Tasty Omelet",
+    "item": "item:3682",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Fused Duck Stew",
+    "item": "item:967375",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Fused Living Soup",
+    "item": "item:967321",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Fused Piercing Chops",
+    "item": "item:967345",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Hearty Stegodon Stew",
+    "item": "item:100616",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Hot Lion Chops",
+    "item": "item:3735",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Murloc Fin Soup",
+    "item": "item:3680",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Westfall Stew",
+    "item": "item:728",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Soulstealer Mantle",
+    "item": "item:220697",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Squiddic's Aquatic Cleaver",
+    "item": "item:2075984",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Sunscale Gauntlets",
+    "item": "item:14846",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Sunscale Shield",
+    "item": "item:14852",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Tear of Grief",
+    "item": "item:5611",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Wastewander Water Pouch",
+    "item": "item:8483",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Westfall Stew",
+    "item": "item:733",
+    "category": "Food & Drink",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Discolored Healing Potion",
+    "item": "item:4596",
+    "category": "Potions/Healing",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Major Healing Potion",
+    "item": "item:13446",
+    "category": "Potions/Healing",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Discolored Healing Potion",
+    "item": "item:4597",
+    "category": "Potions/Healing",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Superior Healing Potion",
+    "item": "item:3928",
+    "category": "Potions/Healing",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Greater Mana Potion",
+    "item": "item:6149",
+    "category": "Potions/Mana",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Major Mana Potion",
+    "item": "item:13444",
+    "category": "Potions/Mana",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Superior Mana Potion",
+    "item": "item:13443",
+    "category": "Potions/Mana",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Potion of Experience",
+    "item": "item:818046",
+    "category": "Potions/Other",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Potion of Reputation",
+    "item": "item:818047",
+    "category": "Potions/Other",
+    "high_risk_pvp": false,
+    "custom_id_likely": true,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Minor Magic Resistance Potion",
+    "item": "item:3384",
+    "category": "Potions/Protection",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Magic Resistance Potion",
+    "item": "item:9293",
+    "category": "Potions/Protection",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Minor Magic Resistance Potion",
+    "item": "item:3393",
+    "category": "Potions/Protection",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Purification Potion",
+    "item": "item:13462",
+    "category": "Potions/PvP Utility",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Free Action Potion",
+    "item": "item:5642",
+    "category": "Potions/PvP Utility",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Purification Potion",
+    "item": "item:13492",
+    "category": "Potions/PvP Utility",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Recipe: Swiftness Potion",
+    "item": "item:2555",
+    "category": "Potions/PvP Utility",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Agility",
+    "item": "item:3012",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Agility II",
+    "item": "item:1477",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Agility III",
+    "item": "item:4425",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Agility IV",
+    "item": "item:10309",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Intellect II",
+    "item": "item:2290",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Intellect III",
+    "item": "item:4419",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Intellect IV",
+    "item": "item:10308",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Protection",
+    "item": "item:3013",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Protection II",
+    "item": "item:1478",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Protection III",
+    "item": "item:4421",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Protection IV",
+    "item": "item:10305",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Spirit",
+    "item": "item:1181",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Spirit II",
+    "item": "item:1712",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Spirit III",
+    "item": "item:4424",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Spirit IV",
+    "item": "item:10306",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Stamina",
+    "item": "item:1180",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Stamina II",
+    "item": "item:1711",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Stamina IV",
+    "item": "item:10307",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Strength",
+    "item": "item:954",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Strength II",
+    "item": "item:2289",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Scroll of Strength IV",
+    "item": "item:10310",
+    "category": "Scrolls",
+    "high_risk_pvp": false,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  },
+  {
+    "name": "Wizard Oil",
+    "item": "item:20750",
+    "category": "Weapon Buffs/Oils",
+    "high_risk_pvp": true,
+    "custom_id_likely": false,
+    "craftable": "unknown",
+    "source": "AccountingDB observed item"
+  }
+]
