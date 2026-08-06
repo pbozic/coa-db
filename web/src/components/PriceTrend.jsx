@@ -102,8 +102,14 @@ export default function PriceTrend({ points, turnover, name }) {
     setHover(best)
   }
 
-  // A reading only counts towards demand once it carries a listing depth.
-  const depthReadings = (points || []).filter((p) => p.length > 3 && p[3] != null).length
+  // A reading only counts towards demand once it carries a listing depth. Scans
+  // arrive a few times a day, so what matters is how far apart they are, not how
+  // many land in any one hour.
+  const depths = (points || []).filter((p) => p.length > 3 && p[3] != null)
+  const depthReadings = depths.length
+  const depthHours = depthReadings > 1
+    ? (depths[depthReadings - 1][0] - depths[0][0]) / 3600
+    : 0
   const ticks = view ? niceTicks(view.lo, view.hi) : []
   const fmtTick = tickFormatter(ticks.length ? ticks : [0])
   const first = view?.rows[0]
@@ -181,17 +187,22 @@ export default function PriceTrend({ points, turnover, name }) {
             Stock leaving the AH
             <InfoTip label="Why there is no figure yet">
               This is measured by watching how many units are listed and counting the
-              falls. That needs at least three readings spanning an hour, and a reading
-              only lands when a fresh auction scan reaches the shared database — roughly
-              a few times a day, not once per publish.
+              falls, so it needs <strong>three readings at least an hour apart</strong> —
+              not three within an hour.
               <br /><br />
-              {depthReadings} recorded so far. Scanning the auction house yourself and
-              reloading adds one immediately.
+              A reading only lands when a fresh auction scan reaches the shared database,
+              which happens a few times a day rather than once per publish. So this
+              usually fills in after about a day of normal play.
+              <br /><br />
+              {depthReadings} reading{depthReadings === 1 ? '' : 's'} so far
+              {depthHours > 0 && `, spanning ${depthHours.toFixed(1)}h`}. Scanning the
+              auction house yourself and reloading adds one straight away.
             </InfoTip>
           </span>
           <strong className="muted">collecting</strong>
           <span className="muted">
-            {depthReadings} depth reading{depthReadings === 1 ? '' : 's'} so far · needs 3 over an hour
+            {depthReadings} of 3 readings{depthHours > 0 && ` · ${depthHours.toFixed(1)}h apart so far`}
+            {' '}· scans land a few times a day
           </span>
         </div>
       )}
