@@ -2,26 +2,21 @@
   "_comment": [
     "Corrects recipe yields where db.ascension.gg disagrees with the game.",
     "",
-    "Verified in game:",
-    "  Fused foods    -- the database claims 10, the game makes 1.  Overridden.",
-    "  Distilled flasks -- the database claims 3, and the game makes 3.  NOT",
-    "    overridden: an earlier guess that flasks were wrong the same way foods",
-    "    were turned out to be false, and it understated flask revenue threefold.",
-    "  Enchants       -- one application per cast.",
+    "Nothing is currently overridden: every yield the database reports has been",
+    "confirmed in game.",
+    "  Distilled flasks -- 3 per craft.",
+    "  Fused foods      -- 10 per craft.",
+    "  Enchants         -- one application per cast.",
     "",
-    "The field is read correctly; it is simply wrong for the Fused foods. Vanilla",
-    "recipes (Major Healing Potion, Flask of the Titans, Smoked Desert Dumplings)",
-    "all report creates=[id,1,1], which is how the parsing was checked.",
+    "This file exists because yield multiplies revenue directly, so a wrong value",
+    "silently scales every profit figure. Both families were overridden to 1 at",
+    "one point on a mistaken report, which understated flasks threefold and foods",
+    "tenfold. Only add an entry here after checking the recipe in game -- never by",
+    "inferring from a sibling recipe.",
     "",
-    "Yield multiplies revenue directly, so anything added here should be confirmed",
-    "in game rather than inferred from a sibling recipe.",
-    "",
-    "To correct one: add \"<item_id>\": <count> under by_item. by_item wins over",
-    "by_family. Remove a family entry to accept whatever the database reports."
+    "To correct one: add \"<item_id>\": <count> under by_item, or a family under",
+    "by_family. by_item wins over by_family."
   ],
-  "by_family": {
-    "food": 1,
-    "enchant": 1
-  },
+  "by_family": {},
   "by_item": {}
 }
