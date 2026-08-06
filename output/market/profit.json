@@ -24,7 +24,7 @@
   "scan": {
     "realm": "Rexxar - Conquest of Azeroth",
     "scanned_at": "2026-08-06 23:08",
-    "age_days": 0.008721413612365723,
+    "age_days": 0.01750741875006093,
     "items": 0
   },
   "prices": {
@@ -588,19 +588,19 @@
       "quantity": 55,
       "scenarios": {
         "buy": {
-          "unit_cost": 133560.0,
+          "unit_cost": 44520.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 133560.0,
+          "unit_cost": 44520.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 133560.0,
+          "unit_cost": 44520.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 133560.0,
+      "unit_cost": 44520.0,
       "source": "scanned"
     },
     "967447": {
@@ -611,19 +611,19 @@
       "quantity": 52,
       "scenarios": {
         "buy": {
-          "unit_cost": 244000.0,
+          "unit_cost": 143565.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 244000.0,
+          "unit_cost": 143565.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 244000.0,
+          "unit_cost": 143565.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 244000.0,
+      "unit_cost": 143565.0,
       "source": "scanned"
     },
     "967450": {
@@ -634,19 +634,19 @@
       "quantity": 89,
       "scenarios": {
         "buy": {
-          "unit_cost": 240000.0,
+          "unit_cost": 140569.33333333334,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 240000.0,
+          "unit_cost": 140569.33333333334,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 240000.0,
+          "unit_cost": 140569.33333333334,
           "source": "scanned"
         }
       },
-      "unit_cost": 240000.0,
+      "unit_cost": 140569.33333333334,
       "source": "scanned"
     },
     "967453": {
@@ -657,19 +657,19 @@
       "quantity": 21,
       "scenarios": {
         "buy": {
-          "unit_cost": 356000.0,
+          "unit_cost": 230378.33333333334,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 356000.0,
+          "unit_cost": 230378.33333333334,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 356000.0,
+          "unit_cost": 230378.33333333334,
           "source": "scanned"
         }
       },
-      "unit_cost": 356000.0,
+      "unit_cost": 230378.33333333334,
       "source": "scanned"
     },
     "967456": {
@@ -680,19 +680,19 @@
       "quantity": 36,
       "scenarios": {
         "buy": {
-          "unit_cost": 327000.0,
+          "unit_cost": 231975.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 327000.0,
+          "unit_cost": 231975.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 327000.0,
+          "unit_cost": 231975.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 327000.0,
+      "unit_cost": 231975.0,
       "source": "scanned"
     },
     "967459": {
@@ -703,19 +703,19 @@
       "quantity": 78,
       "scenarios": {
         "buy": {
-          "unit_cost": 66179.0,
+          "unit_cost": 22059.666666666668,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 66179.0,
+          "unit_cost": 22059.666666666668,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 66179.0,
+          "unit_cost": 22059.666666666668,
           "source": "scanned"
         }
       },
-      "unit_cost": 66179.0,
+      "unit_cost": 22059.666666666668,
       "source": "scanned"
     },
     "967462": {
@@ -726,19 +726,19 @@
       "quantity": 83,
       "scenarios": {
         "buy": {
-          "unit_cost": 377999.0,
+          "unit_cost": 184258.33333333334,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 377999.0,
+          "unit_cost": 184258.33333333334,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 377999.0,
+          "unit_cost": 184258.33333333334,
           "source": "scanned"
         }
       },
-      "unit_cost": 377999.0,
+      "unit_cost": 184258.33333333334,
       "source": "scanned"
     },
     "967465": {
@@ -749,19 +749,19 @@
       "quantity": 48,
       "scenarios": {
         "buy": {
-          "unit_cost": 346000.0,
+          "unit_cost": 184258.33333333334,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 346000.0,
+          "unit_cost": 184258.33333333334,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 346000.0,
+          "unit_cost": 184258.33333333334,
           "source": "scanned"
         }
       },
-      "unit_cost": 346000.0,
+      "unit_cost": 184258.33333333334,
       "source": "scanned"
     },
     "967468": {
@@ -772,19 +772,19 @@
       "quantity": 80,
       "scenarios": {
         "buy": {
-          "unit_cost": 353000.0,
+          "unit_cost": 159456.66666666666,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 353000.0,
+          "unit_cost": 159456.66666666666,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 353000.0,
+          "unit_cost": 159456.66666666666,
           "source": "scanned"
         }
       },
-      "unit_cost": 353000.0,
+      "unit_cost": 159456.66666666666,
       "source": "scanned"
     },
     "967471": {
@@ -795,19 +795,19 @@
       "quantity": 89,
       "scenarios": {
         "buy": {
-          "unit_cost": 326996.0,
+          "unit_cost": 131564.33333333334,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 326996.0,
+          "unit_cost": 131564.33333333334,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 326996.0,
+          "unit_cost": 131564.33333333334,
           "source": "scanned"
         }
       },
-      "unit_cost": 326996.0,
+      "unit_cost": 131564.33333333334,
       "source": "scanned"
     },
     "967474": {
@@ -818,19 +818,19 @@
       "quantity": 36,
       "scenarios": {
         "buy": {
-          "unit_cost": 84465.0,
+          "unit_cost": 28155.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 84465.0,
+          "unit_cost": 28155.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 84465.0,
+          "unit_cost": 28155.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 84465.0,
+      "unit_cost": 28155.0,
       "source": "scanned"
     },
     "967510": {
@@ -3311,6 +3311,326 @@
       ]
     },
     {
+      "family": "flask",
+      "product": "Distilled Flask of Deep Meditation",
+      "product_id": 967471,
+      "kind": "item",
+      "sale_item_id": 967471,
+      "profession": "Alchemy",
+      "yield": 3,
+      "unit_sale_price": 326996,
+      "scenarios": {
+        "buy": {
+          "cost": 394693.0,
+          "profit": 537245.6,
+          "profit_per_unit": 179081.86666666667,
+          "roi": 136.11733676553675,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 394693.0,
+          "profit": 537245.6,
+          "profit_per_unit": 179081.86666666667,
+          "roi": 136.11733676553675,
+          "gathered": [
+            "Essence of Water",
+            "Icecap",
+            "Plague Blossom",
+            "Blightroot",
+            "Scarlet Human Scraps"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 394693.0,
+          "profit": 537245.6,
+          "profit_per_unit": 179081.86666666667,
+          "roi": 136.11733676553675,
+          "gathered": [
+            "Plague Blossom",
+            "Blightroot",
+            "Scarlet Human Scraps"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303714,
+          "name": "Plague Blossom",
+          "quantity": 1,
+          "unit_cost": 6475.0,
+          "line_cost": 6475.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 13467,
+          "name": "Icecap",
+          "quantity": 10,
+          "unit_cost": 562.0,
+          "line_cost": 5620.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 7080,
+          "name": "Essence of Water",
+          "quantity": 2,
+          "unit_cost": 168999.0,
+          "line_cost": 337998.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "flask",
+      "product": "Distilled Flask of the Executioner",
+      "product_id": 967468,
+      "kind": "item",
+      "sale_item_id": 967468,
+      "profession": "Alchemy",
+      "yield": 3,
+      "unit_sale_price": 353000,
+      "scenarios": {
+        "buy": {
+          "cost": 478370.0,
+          "profit": 527680.0,
+          "profit_per_unit": 175893.33333333334,
+          "roi": 110.30792064719776,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 478370.0,
+          "profit": 527680.0,
+          "profit_per_unit": 175893.33333333334,
+          "roi": 110.30792064719776,
+          "gathered": [
+            "Essence of Fire",
+            "Plaguebloom",
+            "Spectral Rose",
+            "Blightroot",
+            "Spectral Teardrops"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 478370.0,
+          "profit": 527680.0,
+          "profit_per_unit": 175893.33333333334,
+          "roi": 110.30792064719776,
+          "gathered": [
+            "Spectral Rose",
+            "Blightroot",
+            "Spectral Teardrops"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303715,
+          "name": "Spectral Rose",
+          "quantity": 1,
+          "unit_cost": 29600.0,
+          "line_cost": 29600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 10,
+          "unit_cost": 3017.0,
+          "line_cost": 30170.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 7078,
+          "name": "Essence of Fire",
+          "quantity": 2,
+          "unit_cost": 187000.0,
+          "line_cost": 374000.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "flask",
+      "product": "Distilled Flask of Savage Assault",
+      "product_id": 967462,
+      "kind": "item",
+      "sale_item_id": 967462,
+      "profession": "Alchemy",
+      "yield": 3,
+      "unit_sale_price": 377999,
+      "scenarios": {
+        "buy": {
+          "cost": 552775.0,
+          "profit": 524522.1499999999,
+          "profit_per_unit": 174840.71666666665,
+          "roi": 94.88890597440187,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 552775.0,
+          "profit": 524522.1499999999,
+          "profit_per_unit": 174840.71666666665,
+          "roi": 94.88890597440187,
+          "gathered": [
+            "Essence of Air",
+            "Sungrass",
+            "Storm Brine",
+            "Blightroot",
+            "Arkoran Guts"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 552775.0,
+          "profit": 524522.1499999999,
+          "profit_per_unit": 174840.71666666665,
+          "roi": 94.88890597440187,
+          "gathered": [
+            "Storm Brine",
+            "Blightroot",
+            "Arkoran Guts"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303712,
+          "name": "Storm Brine",
+          "quantity": 1,
+          "unit_cost": 8625.0,
+          "line_cost": 8625.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 10,
+          "unit_cost": 1555.0,
+          "line_cost": 15550.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 7082,
+          "name": "Essence of Air",
+          "quantity": 2,
+          "unit_cost": 242000.0,
+          "line_cost": 484000.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "flask",
+      "product": "Distilled Flask of Shattering Thunder",
+      "product_id": 967465,
+      "kind": "item",
+      "sale_item_id": 967465,
+      "profession": "Alchemy",
+      "yield": 3,
+      "unit_sale_price": 346000,
+      "scenarios": {
+        "buy": {
+          "cost": 552775.0,
+          "profit": 433325.0,
+          "profit_per_unit": 144441.66666666666,
+          "roi": 78.3908461851567,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 552775.0,
+          "profit": 433325.0,
+          "profit_per_unit": 144441.66666666666,
+          "roi": 78.3908461851567,
+          "gathered": [
+            "Essence of Air",
+            "Sungrass",
+            "Storm Brine",
+            "Blightroot",
+            "Arkoran Guts"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 552775.0,
+          "profit": 433325.0,
+          "profit_per_unit": 144441.66666666666,
+          "roi": 78.3908461851567,
+          "gathered": [
+            "Storm Brine",
+            "Blightroot",
+            "Arkoran Guts"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303712,
+          "name": "Storm Brine",
+          "quantity": 1,
+          "unit_cost": 8625.0,
+          "line_cost": 8625.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 8838,
+          "name": "Sungrass",
+          "quantity": 10,
+          "unit_cost": 1555.0,
+          "line_cost": 15550.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 7082,
+          "name": "Essence of Air",
+          "quantity": 2,
+          "unit_cost": 242000.0,
+          "line_cost": 484000.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
       "family": "enchant",
       "product": "Enchant Weapon - Brutal Crusader",
       "product_id": 968770,
@@ -3489,6 +3809,566 @@
       ]
     },
     {
+      "family": "flask",
+      "product": "Distilled Flask of Butchery",
+      "product_id": 967453,
+      "kind": "item",
+      "sale_item_id": 967453,
+      "profession": "Alchemy",
+      "yield": 3,
+      "unit_sale_price": 356000,
+      "scenarios": {
+        "buy": {
+          "cost": 691135.0,
+          "profit": 323465.0,
+          "profit_per_unit": 107821.66666666667,
+          "roi": 46.80199960933826,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 691135.0,
+          "profit": 323465.0,
+          "profit_per_unit": 107821.66666666667,
+          "roi": 46.80199960933826,
+          "gathered": [
+            "Essence of Earth",
+            "Plaguebloom",
+            "Fiery Frond",
+            "Blightroot",
+            "Stringy Blubber"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 691135.0,
+          "profit": 323465.0,
+          "profit_per_unit": 107821.66666666667,
+          "roi": 46.80199960933826,
+          "gathered": [
+            "Fiery Frond",
+            "Blightroot",
+            "Stringy Blubber"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303713,
+          "name": "Fiery Frond",
+          "quantity": 1,
+          "unit_cost": 9699.0,
+          "line_cost": 9699.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 13466,
+          "name": "Plaguebloom",
+          "quantity": 10,
+          "unit_cost": 3017.0,
+          "line_cost": 30170.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 7076,
+          "name": "Essence of Earth",
+          "quantity": 2,
+          "unit_cost": 303333.0,
+          "line_cost": 606666.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "flask",
+      "product": "Distilled Flask of Manifesting Power",
+      "product_id": 967444,
+      "kind": "item",
+      "sale_item_id": 967444,
+      "profession": "Alchemy",
+      "yield": 3,
+      "unit_sale_price": 145993,
+      "scenarios": {
+        "buy": {
+          "cost": 133560.0,
+          "profit": 282520.05,
+          "profit_per_unit": 94173.34999999999,
+          "roi": 211.53043575920933,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 133560.0,
+          "profit": 282520.05,
+          "profit_per_unit": 94173.34999999999,
+          "roi": 211.53043575920933,
+          "gathered": [
+            "Living Essence",
+            "Mountain Silversage",
+            "Spectral Rose",
+            "Blightroot",
+            "Spectral Teardrops"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 133560.0,
+          "profit": 282520.05,
+          "profit_per_unit": 94173.34999999999,
+          "roi": 211.53043575920933,
+          "gathered": [
+            "Spectral Rose",
+            "Blightroot",
+            "Spectral Teardrops"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303715,
+          "name": "Spectral Rose",
+          "quantity": 1,
+          "unit_cost": 29600.0,
+          "line_cost": 29600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 10,
+          "unit_cost": 3496.0,
+          "line_cost": 34960.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 12803,
+          "name": "Living Essence",
+          "quantity": 2,
+          "unit_cost": 12200.0,
+          "line_cost": 24400.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "flask",
+      "product": "Distilled Flask of Adept Striking",
+      "product_id": 967474,
+      "kind": "item",
+      "sale_item_id": 967474,
+      "profession": "Alchemy",
+      "yield": 3,
+      "unit_sale_price": 127500,
+      "scenarios": {
+        "buy": {
+          "cost": 84465.0,
+          "profit": 278910.0,
+          "profit_per_unit": 92970.0,
+          "roi": 330.20777836973895,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 84465.0,
+          "profit": 278910.0,
+          "profit_per_unit": 92970.0,
+          "roi": 330.20777836973895,
+          "gathered": [
+            "Essence of Undeath",
+            "Dreamfoil",
+            "Plague Blossom",
+            "Blightroot",
+            "Scarlet Human Scraps"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 84465.0,
+          "profit": 278910.0,
+          "profit_per_unit": 92970.0,
+          "roi": 330.20777836973895,
+          "gathered": [
+            "Plague Blossom",
+            "Blightroot",
+            "Scarlet Human Scraps"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303714,
+          "name": "Plague Blossom",
+          "quantity": 1,
+          "unit_cost": 6475.0,
+          "line_cost": 6475.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 10,
+          "unit_cost": 2788.0,
+          "line_cost": 27880.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 12808,
+          "name": "Essence of Undeath",
+          "quantity": 2,
+          "unit_cost": 2755.0,
+          "line_cost": 5510.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "flask",
+      "product": "Distilled Flask of the Warsong",
+      "product_id": 967447,
+      "kind": "item",
+      "sale_item_id": 967447,
+      "profession": "Alchemy",
+      "yield": 3,
+      "unit_sale_price": 244000,
+      "scenarios": {
+        "buy": {
+          "cost": 430695.0,
+          "profit": 264705.0,
+          "profit_per_unit": 88235.0,
+          "roi": 61.45996586911851,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 430695.0,
+          "profit": 264705.0,
+          "profit_per_unit": 88235.0,
+          "roi": 61.45996586911851,
+          "gathered": [
+            "Essence of Fire",
+            "Icecap",
+            "Plague Blossom",
+            "Blightroot",
+            "Scarlet Human Scraps"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 430695.0,
+          "profit": 264705.0,
+          "profit_per_unit": 88235.0,
+          "roi": 61.45996586911851,
+          "gathered": [
+            "Plague Blossom",
+            "Blightroot",
+            "Scarlet Human Scraps"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303714,
+          "name": "Plague Blossom",
+          "quantity": 1,
+          "unit_cost": 6475.0,
+          "line_cost": 6475.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 13467,
+          "name": "Icecap",
+          "quantity": 10,
+          "unit_cost": 562.0,
+          "line_cost": 5620.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 7078,
+          "name": "Essence of Fire",
+          "quantity": 2,
+          "unit_cost": 187000.0,
+          "line_cost": 374000.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "flask",
+      "product": "Distilled Flask of the Kirin Tor",
+      "product_id": 967450,
+      "kind": "item",
+      "sale_item_id": 967450,
+      "profession": "Alchemy",
+      "yield": 3,
+      "unit_sale_price": 240000,
+      "scenarios": {
+        "buy": {
+          "cost": 421708.0,
+          "profit": 262292.0,
+          "profit_per_unit": 87430.66666666667,
+          "roi": 62.19753952972199,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 421708.0,
+          "profit": 262292.0,
+          "profit_per_unit": 87430.66666666667,
+          "roi": 62.19753952972199,
+          "gathered": [
+            "Essence of Water",
+            "Arthas' Tears",
+            "Spectral Rose",
+            "Blightroot",
+            "Spectral Teardrops"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 421708.0,
+          "profit": 262292.0,
+          "profit_per_unit": 87430.66666666667,
+          "roi": 62.19753952972199,
+          "gathered": [
+            "Spectral Rose",
+            "Blightroot",
+            "Spectral Teardrops"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303715,
+          "name": "Spectral Rose",
+          "quantity": 1,
+          "unit_cost": 29600.0,
+          "line_cost": 29600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 8836,
+          "name": "Arthas' Tears",
+          "quantity": 10,
+          "unit_cost": 951.0,
+          "line_cost": 9510.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 7080,
+          "name": "Essence of Water",
+          "quantity": 2,
+          "unit_cost": 168999.0,
+          "line_cost": 337998.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "flask",
+      "product": "Distilled Flask of Unrelenting Power",
+      "product_id": 967459,
+      "kind": "item",
+      "sale_item_id": 967459,
+      "profession": "Alchemy",
+      "yield": 3,
+      "unit_sale_price": 112999,
+      "scenarios": {
+        "buy": {
+          "cost": 66179.0,
+          "profit": 255868.14999999997,
+          "profit_per_unit": 85289.38333333332,
+          "roi": 386.63042657036215,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 66179.0,
+          "profit": 255868.14999999997,
+          "profit_per_unit": 85289.38333333332,
+          "roi": 386.63042657036215,
+          "gathered": [
+            "Essence of Undeath",
+            "Golden Sansam",
+            "Fiery Frond",
+            "Blightroot",
+            "Stringy Blubber"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 66179.0,
+          "profit": 255868.14999999997,
+          "profit_per_unit": 85289.38333333332,
+          "roi": 386.63042657036215,
+          "gathered": [
+            "Fiery Frond",
+            "Blightroot",
+            "Stringy Blubber"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303713,
+          "name": "Fiery Frond",
+          "quantity": 1,
+          "unit_cost": 9699.0,
+          "line_cost": 9699.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 13464,
+          "name": "Golden Sansam",
+          "quantity": 10,
+          "unit_cost": 637.0,
+          "line_cost": 6370.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 12808,
+          "name": "Essence of Undeath",
+          "quantity": 2,
+          "unit_cost": 2755.0,
+          "line_cost": 5510.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "flask",
+      "product": "Distilled Flask of the Unyielding",
+      "product_id": 967456,
+      "kind": "item",
+      "sale_item_id": 967456,
+      "profession": "Alchemy",
+      "yield": 3,
+      "unit_sale_price": 327000,
+      "scenarios": {
+        "buy": {
+          "cost": 695925.0,
+          "profit": 236025.0,
+          "profit_per_unit": 78675.0,
+          "roi": 33.91529259618493,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 695925.0,
+          "profit": 236025.0,
+          "profit_per_unit": 78675.0,
+          "roi": 33.91529259618493,
+          "gathered": [
+            "Essence of Earth",
+            "Mountain Silversage",
+            "Fiery Frond",
+            "Blightroot",
+            "Stringy Blubber"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 695925.0,
+          "profit": 236025.0,
+          "profit_per_unit": 78675.0,
+          "roi": 33.91529259618493,
+          "gathered": [
+            "Fiery Frond",
+            "Blightroot",
+            "Stringy Blubber"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303713,
+          "name": "Fiery Frond",
+          "quantity": 1,
+          "unit_cost": 9699.0,
+          "line_cost": 9699.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 13465,
+          "name": "Mountain Silversage",
+          "quantity": 10,
+          "unit_cost": 3496.0,
+          "line_cost": 34960.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 7076,
+          "name": "Essence of Earth",
+          "quantity": 2,
+          "unit_cost": 303333.0,
+          "line_cost": 606666.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
       "family": "enchant",
       "product": "Enchant Weapon - Spellbinder's Rage",
       "product_id": 968683,
@@ -3578,86 +4458,6 @@
       ]
     },
     {
-      "family": "flask",
-      "product": "Distilled Flask of Unrelenting Power",
-      "product_id": 967459,
-      "kind": "item",
-      "sale_item_id": 967459,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 112999,
-      "scenarios": {
-        "buy": {
-          "cost": 66179.0,
-          "profit": 41170.04999999999,
-          "profit_per_unit": 41170.04999999999,
-          "roi": 62.21014219012072,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 66179.0,
-          "profit": 41170.04999999999,
-          "profit_per_unit": 41170.04999999999,
-          "roi": 62.21014219012072,
-          "gathered": [
-            "Essence of Undeath",
-            "Golden Sansam",
-            "Fiery Frond",
-            "Blightroot",
-            "Stringy Blubber"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 66179.0,
-          "profit": 41170.04999999999,
-          "profit_per_unit": 41170.04999999999,
-          "roi": 62.21014219012072,
-          "gathered": [
-            "Fiery Frond",
-            "Blightroot",
-            "Stringy Blubber"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303713,
-          "name": "Fiery Frond",
-          "quantity": 1,
-          "unit_cost": 9699.0,
-          "line_cost": 9699.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 13464,
-          "name": "Golden Sansam",
-          "quantity": 10,
-          "unit_cost": 637.0,
-          "line_cost": 6370.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 12808,
-          "name": "Essence of Undeath",
-          "quantity": 2,
-          "unit_cost": 2755.0,
-          "line_cost": 5510.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
       "family": "food",
       "product": "Fused Subtle Soup",
       "product_id": 967606,
@@ -3722,86 +4522,6 @@
           "quantity": 2,
           "unit_cost": 331.0,
           "line_cost": 662.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "flask",
-      "product": "Distilled Flask of Adept Striking",
-      "product_id": 967474,
-      "kind": "item",
-      "sale_item_id": 967474,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 127500,
-      "scenarios": {
-        "buy": {
-          "cost": 84465.0,
-          "profit": 36660.0,
-          "profit_per_unit": 36660.0,
-          "roi": 43.40259278991298,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 84465.0,
-          "profit": 36660.0,
-          "profit_per_unit": 36660.0,
-          "roi": 43.40259278991298,
-          "gathered": [
-            "Essence of Undeath",
-            "Dreamfoil",
-            "Plague Blossom",
-            "Blightroot",
-            "Scarlet Human Scraps"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 84465.0,
-          "profit": 36660.0,
-          "profit_per_unit": 36660.0,
-          "roi": 43.40259278991298,
-          "gathered": [
-            "Plague Blossom",
-            "Blightroot",
-            "Scarlet Human Scraps"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303714,
-          "name": "Plague Blossom",
-          "quantity": 1,
-          "unit_cost": 6475.0,
-          "line_cost": 6475.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 13463,
-          "name": "Dreamfoil",
-          "quantity": 10,
-          "unit_cost": 2788.0,
-          "line_cost": 27880.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 12808,
-          "name": "Essence of Undeath",
-          "quantity": 2,
-          "unit_cost": 2755.0,
-          "line_cost": 5510.0,
           "sourced": "bought"
         }
       ]
@@ -4218,86 +4938,6 @@
           "quantity": 2,
           "unit_cost": 73.0,
           "line_cost": 146.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "flask",
-      "product": "Distilled Flask of Manifesting Power",
-      "product_id": 967444,
-      "kind": "item",
-      "sale_item_id": 967444,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 145993,
-      "scenarios": {
-        "buy": {
-          "cost": 133560.0,
-          "profit": 5133.350000000006,
-          "profit_per_unit": 5133.350000000006,
-          "roi": 3.843478586403119,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 133560.0,
-          "profit": 5133.350000000006,
-          "profit_per_unit": 5133.350000000006,
-          "roi": 3.843478586403119,
-          "gathered": [
-            "Living Essence",
-            "Mountain Silversage",
-            "Spectral Rose",
-            "Blightroot",
-            "Spectral Teardrops"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 133560.0,
-          "profit": 5133.350000000006,
-          "profit_per_unit": 5133.350000000006,
-          "roi": 3.843478586403119,
-          "gathered": [
-            "Spectral Rose",
-            "Blightroot",
-            "Spectral Teardrops"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303715,
-          "name": "Spectral Rose",
-          "quantity": 1,
-          "unit_cost": 29600.0,
-          "line_cost": 29600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 13465,
-          "name": "Mountain Silversage",
-          "quantity": 10,
-          "unit_cost": 3496.0,
-          "line_cost": 34960.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 12803,
-          "name": "Living Essence",
-          "quantity": 2,
-          "unit_cost": 12200.0,
-          "line_cost": 24400.0,
           "sourced": "bought"
         }
       ]
@@ -6171,646 +6811,6 @@
           "quantity": 2,
           "unit_cost": 9200.0,
           "line_cost": 18400.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "flask",
-      "product": "Distilled Flask of Deep Meditation",
-      "product_id": 967471,
-      "kind": "item",
-      "sale_item_id": 967471,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 326996,
-      "scenarios": {
-        "buy": {
-          "cost": 394693.0,
-          "profit": -84046.79999999999,
-          "profit_per_unit": -84046.79999999999,
-          "roi": -21.29422107815441,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 394693.0,
-          "profit": -84046.79999999999,
-          "profit_per_unit": -84046.79999999999,
-          "roi": -21.29422107815441,
-          "gathered": [
-            "Essence of Water",
-            "Icecap",
-            "Plague Blossom",
-            "Blightroot",
-            "Scarlet Human Scraps"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 394693.0,
-          "profit": -84046.79999999999,
-          "profit_per_unit": -84046.79999999999,
-          "roi": -21.29422107815441,
-          "gathered": [
-            "Plague Blossom",
-            "Blightroot",
-            "Scarlet Human Scraps"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303714,
-          "name": "Plague Blossom",
-          "quantity": 1,
-          "unit_cost": 6475.0,
-          "line_cost": 6475.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 13467,
-          "name": "Icecap",
-          "quantity": 10,
-          "unit_cost": 562.0,
-          "line_cost": 5620.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 7080,
-          "name": "Essence of Water",
-          "quantity": 2,
-          "unit_cost": 168999.0,
-          "line_cost": 337998.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "flask",
-      "product": "Distilled Flask of the Executioner",
-      "product_id": 967468,
-      "kind": "item",
-      "sale_item_id": 967468,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 353000,
-      "scenarios": {
-        "buy": {
-          "cost": 478370.0,
-          "profit": -143020.0,
-          "profit_per_unit": -143020.0,
-          "roi": -29.897359784267408,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 478370.0,
-          "profit": -143020.0,
-          "profit_per_unit": -143020.0,
-          "roi": -29.897359784267408,
-          "gathered": [
-            "Essence of Fire",
-            "Plaguebloom",
-            "Spectral Rose",
-            "Blightroot",
-            "Spectral Teardrops"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 478370.0,
-          "profit": -143020.0,
-          "profit_per_unit": -143020.0,
-          "roi": -29.897359784267408,
-          "gathered": [
-            "Spectral Rose",
-            "Blightroot",
-            "Spectral Teardrops"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303715,
-          "name": "Spectral Rose",
-          "quantity": 1,
-          "unit_cost": 29600.0,
-          "line_cost": 29600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 13466,
-          "name": "Plaguebloom",
-          "quantity": 10,
-          "unit_cost": 3017.0,
-          "line_cost": 30170.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 7078,
-          "name": "Essence of Fire",
-          "quantity": 2,
-          "unit_cost": 187000.0,
-          "line_cost": 374000.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "flask",
-      "product": "Distilled Flask of Savage Assault",
-      "product_id": 967462,
-      "kind": "item",
-      "sale_item_id": 967462,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 377999,
-      "scenarios": {
-        "buy": {
-          "cost": 552775.0,
-          "profit": -193675.95,
-          "profit_per_unit": -193675.95,
-          "roi": -35.03703134186604,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 552775.0,
-          "profit": -193675.95,
-          "profit_per_unit": -193675.95,
-          "roi": -35.03703134186604,
-          "gathered": [
-            "Essence of Air",
-            "Sungrass",
-            "Storm Brine",
-            "Blightroot",
-            "Arkoran Guts"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 552775.0,
-          "profit": -193675.95,
-          "profit_per_unit": -193675.95,
-          "roi": -35.03703134186604,
-          "gathered": [
-            "Storm Brine",
-            "Blightroot",
-            "Arkoran Guts"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303712,
-          "name": "Storm Brine",
-          "quantity": 1,
-          "unit_cost": 8625.0,
-          "line_cost": 8625.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 8838,
-          "name": "Sungrass",
-          "quantity": 10,
-          "unit_cost": 1555.0,
-          "line_cost": 15550.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 7082,
-          "name": "Essence of Air",
-          "quantity": 2,
-          "unit_cost": 242000.0,
-          "line_cost": 484000.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "flask",
-      "product": "Distilled Flask of the Kirin Tor",
-      "product_id": 967450,
-      "kind": "item",
-      "sale_item_id": 967450,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 240000,
-      "scenarios": {
-        "buy": {
-          "cost": 421708.0,
-          "profit": -193708.0,
-          "profit_per_unit": -193708.0,
-          "roi": -45.93415349009267,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 421708.0,
-          "profit": -193708.0,
-          "profit_per_unit": -193708.0,
-          "roi": -45.93415349009267,
-          "gathered": [
-            "Essence of Water",
-            "Arthas' Tears",
-            "Spectral Rose",
-            "Blightroot",
-            "Spectral Teardrops"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 421708.0,
-          "profit": -193708.0,
-          "profit_per_unit": -193708.0,
-          "roi": -45.93415349009267,
-          "gathered": [
-            "Spectral Rose",
-            "Blightroot",
-            "Spectral Teardrops"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303715,
-          "name": "Spectral Rose",
-          "quantity": 1,
-          "unit_cost": 29600.0,
-          "line_cost": 29600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 8836,
-          "name": "Arthas' Tears",
-          "quantity": 10,
-          "unit_cost": 951.0,
-          "line_cost": 9510.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 7080,
-          "name": "Essence of Water",
-          "quantity": 2,
-          "unit_cost": 168999.0,
-          "line_cost": 337998.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "flask",
-      "product": "Distilled Flask of the Warsong",
-      "product_id": 967447,
-      "kind": "item",
-      "sale_item_id": 967447,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 244000,
-      "scenarios": {
-        "buy": {
-          "cost": 430695.0,
-          "profit": -198895.0,
-          "profit_per_unit": -198895.0,
-          "roi": -46.18001137696049,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 430695.0,
-          "profit": -198895.0,
-          "profit_per_unit": -198895.0,
-          "roi": -46.18001137696049,
-          "gathered": [
-            "Essence of Fire",
-            "Icecap",
-            "Plague Blossom",
-            "Blightroot",
-            "Scarlet Human Scraps"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 430695.0,
-          "profit": -198895.0,
-          "profit_per_unit": -198895.0,
-          "roi": -46.18001137696049,
-          "gathered": [
-            "Plague Blossom",
-            "Blightroot",
-            "Scarlet Human Scraps"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303714,
-          "name": "Plague Blossom",
-          "quantity": 1,
-          "unit_cost": 6475.0,
-          "line_cost": 6475.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 13467,
-          "name": "Icecap",
-          "quantity": 10,
-          "unit_cost": 562.0,
-          "line_cost": 5620.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 7078,
-          "name": "Essence of Fire",
-          "quantity": 2,
-          "unit_cost": 187000.0,
-          "line_cost": 374000.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "flask",
-      "product": "Distilled Flask of Shattering Thunder",
-      "product_id": 967465,
-      "kind": "item",
-      "sale_item_id": 967465,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 346000,
-      "scenarios": {
-        "buy": {
-          "cost": 552775.0,
-          "profit": -224075.0,
-          "profit_per_unit": -224075.0,
-          "roi": -40.53638460494776,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 552775.0,
-          "profit": -224075.0,
-          "profit_per_unit": -224075.0,
-          "roi": -40.53638460494776,
-          "gathered": [
-            "Essence of Air",
-            "Sungrass",
-            "Storm Brine",
-            "Blightroot",
-            "Arkoran Guts"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 552775.0,
-          "profit": -224075.0,
-          "profit_per_unit": -224075.0,
-          "roi": -40.53638460494776,
-          "gathered": [
-            "Storm Brine",
-            "Blightroot",
-            "Arkoran Guts"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303712,
-          "name": "Storm Brine",
-          "quantity": 1,
-          "unit_cost": 8625.0,
-          "line_cost": 8625.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 8838,
-          "name": "Sungrass",
-          "quantity": 10,
-          "unit_cost": 1555.0,
-          "line_cost": 15550.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 7082,
-          "name": "Essence of Air",
-          "quantity": 2,
-          "unit_cost": 242000.0,
-          "line_cost": 484000.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "flask",
-      "product": "Distilled Flask of Butchery",
-      "product_id": 967453,
-      "kind": "item",
-      "sale_item_id": 967453,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 356000,
-      "scenarios": {
-        "buy": {
-          "cost": 691135.0,
-          "profit": -352935.0,
-          "profit_per_unit": -352935.0,
-          "roi": -51.06600013022058,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 691135.0,
-          "profit": -352935.0,
-          "profit_per_unit": -352935.0,
-          "roi": -51.06600013022058,
-          "gathered": [
-            "Essence of Earth",
-            "Plaguebloom",
-            "Fiery Frond",
-            "Blightroot",
-            "Stringy Blubber"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 691135.0,
-          "profit": -352935.0,
-          "profit_per_unit": -352935.0,
-          "roi": -51.06600013022058,
-          "gathered": [
-            "Fiery Frond",
-            "Blightroot",
-            "Stringy Blubber"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303713,
-          "name": "Fiery Frond",
-          "quantity": 1,
-          "unit_cost": 9699.0,
-          "line_cost": 9699.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 13466,
-          "name": "Plaguebloom",
-          "quantity": 10,
-          "unit_cost": 3017.0,
-          "line_cost": 30170.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 7076,
-          "name": "Essence of Earth",
-          "quantity": 2,
-          "unit_cost": 303333.0,
-          "line_cost": 606666.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "flask",
-      "product": "Distilled Flask of the Unyielding",
-      "product_id": 967456,
-      "kind": "item",
-      "sale_item_id": 967456,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 327000,
-      "scenarios": {
-        "buy": {
-          "cost": 695925.0,
-          "profit": -385275.0,
-          "profit_per_unit": -385275.0,
-          "roi": -55.36156913460503,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 695925.0,
-          "profit": -385275.0,
-          "profit_per_unit": -385275.0,
-          "roi": -55.36156913460503,
-          "gathered": [
-            "Essence of Earth",
-            "Mountain Silversage",
-            "Fiery Frond",
-            "Blightroot",
-            "Stringy Blubber"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 695925.0,
-          "profit": -385275.0,
-          "profit_per_unit": -385275.0,
-          "roi": -55.36156913460503,
-          "gathered": [
-            "Fiery Frond",
-            "Blightroot",
-            "Stringy Blubber"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303713,
-          "name": "Fiery Frond",
-          "quantity": 1,
-          "unit_cost": 9699.0,
-          "line_cost": 9699.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 13465,
-          "name": "Mountain Silversage",
-          "quantity": 10,
-          "unit_cost": 3496.0,
-          "line_cost": 34960.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 7076,
-          "name": "Essence of Earth",
-          "quantity": 2,
-          "unit_cost": 303333.0,
-          "line_cost": 606666.0,
           "sourced": "bought"
         }
       ]

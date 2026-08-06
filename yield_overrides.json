@@ -1,20 +1,25 @@
 {
   "_comment": [
-    "db.ascension.gg reports a wrong 'creates' count for the custom High Risk recipes.",
-    "Verified in game: Fused foods produce 1, while the database claims 10.",
-    "The same field claims 3 for Distilled flasks, which is unverified and assumed",
-    "to be wrong in the same way. Yield multiplies revenue directly, so the",
-    "conservative value (1) is used until confirmed in game.",
+    "Corrects recipe yields where db.ascension.gg disagrees with the game.",
     "",
-    "Sanity check against known-good data: vanilla recipes (Major Healing Potion,",
-    "Flask of the Titans, Smoked Desert Dumplings) all report creates=[id,1,1],",
-    "so the field is read correctly and is simply wrong for this custom content.",
+    "Verified in game:",
+    "  Fused foods    -- the database claims 10, the game makes 1.  Overridden.",
+    "  Distilled flasks -- the database claims 3, and the game makes 3.  NOT",
+    "    overridden: an earlier guess that flasks were wrong the same way foods",
+    "    were turned out to be false, and it understated flask revenue threefold.",
+    "  Enchants       -- one application per cast.",
+    "",
+    "The field is read correctly; it is simply wrong for the Fused foods. Vanilla",
+    "recipes (Major Healing Potion, Flask of the Titans, Smoked Desert Dumplings)",
+    "all report creates=[id,1,1], which is how the parsing was checked.",
+    "",
+    "Yield multiplies revenue directly, so anything added here should be confirmed",
+    "in game rather than inferred from a sibling recipe.",
     "",
     "To correct one: add \"<item_id>\": <count> under by_item. by_item wins over",
-    "by_family. Remove a family entry to fall back to whatever the database says."
+    "by_family. Remove a family entry to accept whatever the database reports."
   ],
   "by_family": {
-    "flask": 1,
     "food": 1,
     "enchant": 1
   },
