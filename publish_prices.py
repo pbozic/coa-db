@@ -34,9 +34,15 @@ PRICES = Path("web/public/prices.json")
 DATA_BRANCH = "data"
 
 
+# Run children without a console window: this is called from a scheduled task,
+# and a window flashing up every fifteen minutes steals keyboard focus.
+NO_WINDOW = {"creationflags": subprocess.CREATE_NO_WINDOW} if hasattr(
+    subprocess, "CREATE_NO_WINDOW") else {}
+
+
 def run(command: list[str], **kwargs) -> subprocess.CompletedProcess:
     resolved = shutil.which(command[0]) or command[0]
-    return subprocess.run([resolved, *command[1:]], text=True, **kwargs)
+    return subprocess.run([resolved, *command[1:]], text=True, **NO_WINDOW, **kwargs)
 
 
 def git(*args: str, check: bool = True, capture: bool = False) -> str:

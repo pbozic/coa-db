@@ -95,11 +95,22 @@ def stamp_text(value: int) -> str:
     return dt.datetime.fromtimestamp(value).strftime("%Y-%m-%d %H:%M") if value else "never"
 
 
+# Child processes would each flash a console window when this runs from a
+# scheduled task, which is worse than useless -- it steals focus every time.
+NO_WINDOW = {"creationflags": subprocess.CREATE_NO_WINDOW} if hasattr(
+    subprocess, "CREATE_NO_WINDOW") else {}
+
+
+def has_git_remote() -> bool:
+    result = subprocess.run(["git", "remote"], capture_output=True, text=True, **NO_WINDOW)
+    return result.returncode == 0 and bool(result.stdout.strip())
+
+
 def publish(realm: str, target: str, sharing_cache: Path | None) -> bool:
     command = [sys.executable, "publish_prices.py", "--realm", realm, "--target", target]
     if sharing_cache:
         command += ["--sharing-cache", str(sharing_cache)]
-    return subprocess.run(command).returncode == 0
+    return subprocess.run(command, **NO_WINDOW).returncode == 0
 
 
 def check(realm: str, target: str, force: bool, sharing_cache: Path | None = None) -> bool:
@@ -114,6 +125,13 @@ def check(realm: str, target: str, force: bool, sharing_cache: Path | None = Non
     if newest <= published and not force:
         age = (time.time() - newest) / 3600
         say(f"[{now}] no new scan (newest {stamp_text(newest)}, {age:.1f}h old)")
+        return False
+
+    # Publishing to a branch cannot work without a remote, and retrying it every
+    # poll would run the whole pipeline for nothing.
+    if target == "branch" and not has_git_remote():
+        say(f"[{now}] new scan {stamp_text(newest)}, but no git remote is "
+            f"configured - skipping. Add one, or use --target local.")
         return False
 
     say(f"[{now}] new scan from {origin}: {stamp_text(newest)} "
