@@ -12,7 +12,7 @@ materials are expanded to their own source.
 - Distilled Flask of Manifesting Power  _(Alchemy 300, makes 3)_
     - 1x Spectral Rose  _(Water an Ancient Elven Grave to cultivate a Spectral Rose. Requires High-Risk.)_
         - 1x Ancient Tear  _(recipe)_
-            - 4x Spectral Teardrops  _(drop)_
+            - 5x Spectral Teardrops  _(drop)_
     - 1x Blightroot Extract  _(Refined into Blightroot Exract at the Sanguine Workbench)_
         - 1x Blightroot  _(container, gathering)_
     - 10x Mountain Silversage  _(vendor, drop, container, object, quest objective, gathering)_
@@ -23,7 +23,7 @@ materials are expanded to their own source.
 - Distilled Flask of the Warsong  _(Alchemy 300, makes 3)_
     - 1x Plague Blossom  _(Feed to a Ravenous Scourgethorn to collect a Plague Blossom. Requires High-Risk.)_
         - 1x Scarlet Human Flesh  _(recipe)_
-            - 4x Scarlet Human Scraps  _(drop)_
+            - 5x Scarlet Human Scraps  _(drop)_
     - 1x Blightroot Extract  _(Refined into Blightroot Exract at the Sanguine Workbench)_
         - 1x Blightroot  _(container, gathering)_
     - 10x Icecap  _(vendor, drop, container, quest objective, gathering)_
@@ -34,7 +34,7 @@ materials are expanded to their own source.
 - Distilled Flask of the Kirin Tor  _(Alchemy 300, makes 3)_
     - 1x Spectral Rose  _(Water an Ancient Elven Grave to cultivate a Spectral Rose. Requires High-Risk.)_
         - 1x Ancient Tear  _(recipe)_
-            - 4x Spectral Teardrops  _(drop)_
+            - 5x Spectral Teardrops  _(drop)_
     - 1x Blightroot Extract  _(Refined into Blightroot Exract at the Sanguine Workbench)_
         - 1x Blightroot  _(container, gathering)_
     - 10x Arthas' Tears  _(drop, container, quest objective, gathering)_
@@ -45,7 +45,7 @@ materials are expanded to their own source.
 - Distilled Flask of Butchery  _(Alchemy 300, makes 3)_
     - 1x Fiery Frond  _(Fertilize a Lava Bloom to collect its Fiery Frond. Requires High-Risk.)_
         - 1x Fatty Blubber  _(recipe)_
-            - 4x Stringy Blubber  _(drop)_
+            - 5x Stringy Blubber  _(drop)_
     - 1x Blightroot Extract  _(Refined into Blightroot Exract at the Sanguine Workbench)_
         - 1x Blightroot  _(container, gathering)_
     - 10x Plaguebloom  _(drop, container, quest objective, gathering)_
@@ -56,7 +56,7 @@ materials are expanded to their own source.
 - Distilled Flask of the Unyielding  _(Alchemy 300, makes 3)_
     - 1x Fiery Frond  _(Fertilize a Lava Bloom to collect its Fiery Frond. Requires High-Risk.)_
         - 1x Fatty Blubber  _(recipe)_
-            - 4x Stringy Blubber  _(drop)_
+            - 5x Stringy Blubber  _(drop)_
     - 1x Blightroot Extract  _(Refined into Blightroot Exract at the Sanguine Workbench)_
         - 1x Blightroot  _(container, gathering)_
     - 10x Mountain Silversage  _(vendor, drop, container, object, quest objective, gathering)_
@@ -67,7 +67,7 @@ materials are expanded to their own source.
 - Distilled Flask of Unrelenting Power  _(Alchemy 300, makes 3)_
     - 1x Fiery Frond  _(Fertilize a Lava Bloom to collect its Fiery Frond. Requires High-Risk.)_
         - 1x Fatty Blubber  _(recipe)_
-            - 4x Stringy Blubber  _(drop)_
+            - 5x Stringy Blubber  _(drop)_
     - 1x Blightroot Extract  _(Refined into Blightroot Exract at the Sanguine Workbench)_
         - 1x Blightroot  _(container, gathering)_
     - 10x Golden Sansam  _(vendor, drop, container, object, quest objective, gathering)_
@@ -78,7 +78,7 @@ materials are expanded to their own source.
 - Distilled Flask of Savage Assault  _(Alchemy 300, makes 3)_
     - 1x Storm Brine  _(Feed to a Carnivorous Clam to collect its Storm Brine. Requires High-Risk.)_
         - 1x Arkkoran Chum  _(recipe)_
-            - 4x Arkoran Guts  _(drop)_
+            - 5x Arkoran Guts  _(drop)_
     - 1x Blightroot Extract  _(Refined into Blightroot Exract at the Sanguine Workbench)_
         - 1x Blightroot  _(container, gathering)_
     - 10x Sungrass  _(drop, container, object, quest objective, gathering)_
@@ -89,7 +89,7 @@ materials are expanded to their own source.
 - Distilled Flask of Shattering Thunder  _(Alchemy 300, makes 3)_
     - 1x Storm Brine  _(Feed to a Carnivorous Clam to collect its Storm Brine. Requires High-Risk.)_
         - 1x Arkkoran Chum  _(recipe)_
-            - 4x Arkoran Guts  _(drop)_
+            - 5x Arkoran Guts  _(drop)_
     - 1x Blightroot Extract  _(Refined into Blightroot Exract at the Sanguine Workbench)_
         - 1x Blightroot  _(container, gathering)_
     - 10x Sungrass  _(drop, container, object, quest objective, gathering)_
@@ -100,7 +100,7 @@ materials are expanded to their own source.
 - Distilled Flask of the Executioner  _(Alchemy 300, makes 3)_
     - 1x Spectral Rose  _(Water an Ancient Elven Grave to cultivate a Spectral Rose. Requires High-Risk.)_
         - 1x Ancient Tear  _(recipe)_
-            - 4x Spectral Teardrops  _(drop)_
+            - 5x Spectral Teardrops  _(drop)_
     - 1x Blightroot Extract  _(Refined into Blightroot Exract at the Sanguine Workbench)_
         - 1x Blightroot  _(container, gathering)_
     - 10x Plaguebloom  _(drop, container, quest objective, gathering)_
@@ -111,7 +111,7 @@ materials are expanded to their own source.
 - Distilled Flask of Deep Meditation  _(Alchemy 300, makes 3)_
     - 1x Plague Blossom  _(Feed to a Ravenous Scourgethorn to collect a Plague Blossom. Requires High-Risk.)_
         - 1x Scarlet Human Flesh  _(recipe)_
-            - 4x Scarlet Human Scraps  _(drop)_
+            - 5x Scarlet Human Scraps  _(drop)_
     - 1x Blightroot Extract  _(Refined into Blightroot Exract at the Sanguine Workbench)_
         - 1x Blightroot  _(container, gathering)_
     - 10x Icecap  _(vendor, drop, container, quest objective, gathering)_
@@ -122,7 +122,7 @@ materials are expanded to their own source.
 - Distilled Flask of Adept Striking  _(Alchemy 300, makes 3)_
     - 1x Plague Blossom  _(Feed to a Ravenous Scourgethorn to collect a Plague Blossom. Requires High-Risk.)_
         - 1x Scarlet Human Flesh  _(recipe)_
-            - 4x Scarlet Human Scraps  _(drop)_
+            - 5x Scarlet Human Scraps  _(drop)_
     - 1x Blightroot Extract  _(Refined into Blightroot Exract at the Sanguine Workbench)_
         - 1x Blightroot  _(container, gathering)_
     - 10x Dreamfoil  _(vendor, drop, container, object, quest objective, gathering)_
@@ -135,9 +135,9 @@ materials are expanded to their own source.
 - Enchant Weapon - Unstoppable Assault  _(Enchanting 300)_
     - 1x Hell Dust  _(Refined into Hell Dust at the Hellish Altar. Requires High-Risk.)_
         - 1x Hell Effigy  _(recipe)_
-            - 4x Hellish Trinket  _(drop)_
+            - 5x Hellish Trinket  _(drop)_
     - 1x Profane Shard  _(recipe at Sanguine Workbench)_
-        - 4x Echoes of Blood  _(container, disenchanting)_
+        - 5x Echoes of Blood  _(container, disenchanting)_
     - 5x Large Brilliant Shard  _(container, quest objective, crafted, disenchanting)_
     - 15x Greater Eternal Essence  _(container, quest objective, crafted, disenchanting)_
     - 20x Illusion Dust  _(container, quest objective, disenchanting)_
@@ -156,9 +156,9 @@ materials are expanded to their own source.
 - Enchant Weapon - Spellbinder's Rage  _(Enchanting 300)_
     - 1x Animated Bone Dust  _(Refined into Animated Bone Dust at the Altar of Bones. Requires High-Risk.)_
         - 1x Animated Bone  _(recipe)_
-            - 4x Animated Knuckle Bones  _(drop)_
+            - 5x Animated Knuckle Bones  _(drop)_
     - 1x Profane Shard  _(recipe at Sanguine Workbench)_
-        - 4x Echoes of Blood  _(container, disenchanting)_
+        - 5x Echoes of Blood  _(container, disenchanting)_
     - 5x Large Brilliant Shard  _(container, quest objective, crafted, disenchanting)_
     - 15x Greater Eternal Essence  _(container, quest objective, crafted, disenchanting)_
     - 20x Illusion Dust  _(container, quest objective, disenchanting)_
@@ -168,9 +168,9 @@ materials are expanded to their own source.
 - Enchant Weapon - Ninja's Focus  _(Enchanting 300)_
     - 1x Essence of Twilight  _(Refined into Essence of Twilight at the Unearthed Ancient Altar. Requires High-Risk.)_
         - 1x Void Idol  _(recipe)_
-            - 4x Void Trinket  _(drop)_
+            - 5x Void Trinket  _(drop)_
     - 1x Profane Shard  _(recipe at Sanguine Workbench)_
-        - 4x Echoes of Blood  _(container, disenchanting)_
+        - 5x Echoes of Blood  _(container, disenchanting)_
     - 5x Large Brilliant Shard  _(container, quest objective, crafted, disenchanting)_
     - 15x Greater Eternal Essence  _(container, quest objective, crafted, disenchanting)_
     - 20x Illusion Dust  _(container, quest objective, disenchanting)_
@@ -180,9 +180,9 @@ materials are expanded to their own source.
 - Enchant Weapon - Grovewarden's Blessing  _(Enchanting 300)_
     - 1x Essence of Twilight  _(Refined into Essence of Twilight at the Unearthed Ancient Altar. Requires High-Risk.)_
         - 1x Void Idol  _(recipe)_
-            - 4x Void Trinket  _(drop)_
+            - 5x Void Trinket  _(drop)_
     - 1x Profane Shard  _(recipe at Sanguine Workbench)_
-        - 4x Echoes of Blood  _(container, disenchanting)_
+        - 5x Echoes of Blood  _(container, disenchanting)_
     - 5x Large Brilliant Shard  _(container, quest objective, crafted, disenchanting)_
     - 15x Greater Eternal Essence  _(container, quest objective, crafted, disenchanting)_
     - 20x Illusion Dust  _(container, quest objective, disenchanting)_
@@ -210,9 +210,9 @@ materials are expanded to their own source.
 - Enchant Weapon - Arcane Artillery  _(Enchanting 300)_
     - 1x Hell Dust  _(Refined into Hell Dust at the Hellish Altar. Requires High-Risk.)_
         - 1x Hell Effigy  _(recipe)_
-            - 4x Hellish Trinket  _(drop)_
+            - 5x Hellish Trinket  _(drop)_
     - 1x Profane Shard  _(recipe at Sanguine Workbench)_
-        - 4x Echoes of Blood  _(container, disenchanting)_
+        - 5x Echoes of Blood  _(container, disenchanting)_
     - 5x Large Brilliant Shard  _(container, quest objective, crafted, disenchanting)_
     - 15x Greater Eternal Essence  _(container, quest objective, crafted, disenchanting)_
     - 20x Illusion Dust  _(container, quest objective, disenchanting)_
@@ -231,9 +231,9 @@ materials are expanded to their own source.
 - Enchant Weapon - Brutal Crusader  _(Enchanting 300)_
     - 1x Animated Bone Dust  _(Refined into Animated Bone Dust at the Altar of Bones. Requires High-Risk.)_
         - 1x Animated Bone  _(recipe)_
-            - 4x Animated Knuckle Bones  _(drop)_
+            - 5x Animated Knuckle Bones  _(drop)_
     - 1x Profane Shard  _(recipe at Sanguine Workbench)_
-        - 4x Echoes of Blood  _(container, disenchanting)_
+        - 5x Echoes of Blood  _(container, disenchanting)_
     - 5x Large Brilliant Shard  _(container, quest objective, crafted, disenchanting)_
     - 15x Greater Eternal Essence  _(container, quest objective, crafted, disenchanting)_
     - 20x Illusion Dust  _(container, quest objective, disenchanting)_
@@ -245,7 +245,7 @@ materials are expanded to their own source.
 - Fused Living Soup  _(Cooking 300, makes 10)_
     - 1x Shadowcharred Animated Meat  _(Refined into Shadowcharred Animated Meat at the Shadowflame Cookfire. Requires High-Risk.)_
         - 1x Raw Animated Meat  _(recipe)_
-            - 4x Animated Meat Chunks  _(drop)_
+            - 5x Animated Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -255,7 +255,7 @@ materials are expanded to their own source.
 - Fused Charred Steak  _(Cooking 300, makes 10)_
     - 1x Seared Savage Chimaera Meat  _(Refined into Seared Savage Chimaera Meat at the Arcane Firepit. Requires High-Risk.)_
         - 1x Raw Savage Chimaera Meat  _(recipe)_
-            - 4x Savage Chimaera Chunks  _(drop)_
+            - 5x Savage Chimaera Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -265,7 +265,7 @@ materials are expanded to their own source.
 - Fused Steamed Wontons  _(Cooking 300, makes 10)_
     - 1x Salted Naga Tail  _(Refined into Salted Naga Tail at the Altar of the Sea God. Requires High-Risk.)_
         - 1x Raw Naga Tail  _(recipe)_
-            - 4x Naga Tail Chunks  _(drop)_
+            - 5x Naga Tail Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -275,7 +275,7 @@ materials are expanded to their own source.
 - Fused Air Fried Chops  _(Cooking 300, makes 10)_
     - 1x Scorched Silithid Meat  _(Refined into Scorched Silithid Meat at the Elementium Cookfire. Requires High-Risk.)_
         - 1x Raw Silithid Meat  _(recipe)_
-            - 4x Silithid Meat Chunks  _(drop)_
+            - 5x Silithid Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -285,7 +285,7 @@ materials are expanded to their own source.
 - Fused Rock's Stew  _(Cooking 300, makes 10)_
     - 1x Shadowcharred Animated Meat  _(Refined into Shadowcharred Animated Meat at the Shadowflame Cookfire. Requires High-Risk.)_
         - 1x Raw Animated Meat  _(recipe)_
-            - 4x Animated Meat Chunks  _(drop)_
+            - 5x Animated Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -295,7 +295,7 @@ materials are expanded to their own source.
 - Fused Clear-Cut Chops  _(Cooking 300, makes 10)_
     - 1x Salted Naga Tail  _(Refined into Salted Naga Tail at the Altar of the Sea God. Requires High-Risk.)_
         - 1x Raw Naga Tail  _(recipe)_
-            - 4x Naga Tail Chunks  _(drop)_
+            - 5x Naga Tail Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Raptor Flesh  _(drop, container)_
@@ -305,7 +305,7 @@ materials are expanded to their own source.
 - Fused Clear-Cut Wontons  _(Cooking 300, makes 10)_
     - 1x Seared Savage Chimaera Meat  _(Refined into Seared Savage Chimaera Meat at the Arcane Firepit. Requires High-Risk.)_
         - 1x Raw Savage Chimaera Meat  _(recipe)_
-            - 4x Savage Chimaera Chunks  _(drop)_
+            - 5x Savage Chimaera Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Raw Nightfin Snapper  _(container, quest objective)_
@@ -315,7 +315,7 @@ materials are expanded to their own source.
 - Fused Clear-Cut Steak  _(Cooking 300, makes 10)_
     - 1x Shadowcharred Animated Meat  _(Refined into Shadowcharred Animated Meat at the Shadowflame Cookfire. Requires High-Risk.)_
         - 1x Raw Animated Meat  _(recipe)_
-            - 4x Animated Meat Chunks  _(drop)_
+            - 5x Animated Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Giant Egg  _(drop, container, quest objective)_
@@ -325,7 +325,7 @@ materials are expanded to their own source.
 - Fused Piercing Chops  _(Cooking 300, makes 10)_
     - 1x Seared Savage Chimaera Meat  _(Refined into Seared Savage Chimaera Meat at the Arcane Firepit. Requires High-Risk.)_
         - 1x Raw Savage Chimaera Meat  _(recipe)_
-            - 4x Savage Chimaera Chunks  _(drop)_
+            - 5x Savage Chimaera Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Chimaerok Tenderloin  _(drop, quest objective)_
@@ -335,7 +335,7 @@ materials are expanded to their own source.
 - Fused Piercing Steak  _(Cooking 300, makes 10)_
     - 1x Salted Naga Tail  _(Refined into Salted Naga Tail at the Altar of the Sea God. Requires High-Risk.)_
         - 1x Raw Naga Tail  _(recipe)_
-            - 4x Naga Tail Chunks  _(drop)_
+            - 5x Naga Tail Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Sandworm Meat  _(drop, quest objective)_
@@ -345,7 +345,7 @@ materials are expanded to their own source.
 - Fused Seared Wontons  _(Cooking 300, makes 10)_
     - 1x Scorched Silithid Meat  _(Refined into Scorched Silithid Meat at the Elementium Cookfire. Requires High-Risk.)_
         - 1x Raw Silithid Meat  _(recipe)_
-            - 4x Silithid Meat Chunks  _(drop)_
+            - 5x Silithid Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Chimaerok Tenderloin  _(drop, quest objective)_
@@ -355,7 +355,7 @@ materials are expanded to their own source.
 - Fused Seared Chops  _(Cooking 300, makes 10)_
     - 1x Scorched Silithid Meat  _(Refined into Scorched Silithid Meat at the Elementium Cookfire. Requires High-Risk.)_
         - 1x Raw Silithid Meat  _(recipe)_
-            - 4x Silithid Meat Chunks  _(drop)_
+            - 5x Silithid Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Giant Egg  _(drop, container, quest objective)_
@@ -397,7 +397,7 @@ materials are expanded to their own source.
 - Fused Red-Hot Stew  _(Cooking 300, makes 10)_
     - 1x Seared Savage Chimaera Meat  _(Refined into Seared Savage Chimaera Meat at the Arcane Firepit. Requires High-Risk.)_
         - 1x Raw Savage Chimaera Meat  _(recipe)_
-            - 4x Savage Chimaera Chunks  _(drop)_
+            - 5x Savage Chimaera Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Sandworm Meat  _(drop, quest objective)_
@@ -415,7 +415,7 @@ materials are expanded to their own source.
 - Fused Duck Stew  _(Cooking 300, makes 10)_
     - 1x Salted Naga Tail  _(Refined into Salted Naga Tail at the Altar of the Sea God. Requires High-Risk.)_
         - 1x Raw Naga Tail  _(recipe)_
-            - 4x Naga Tail Chunks  _(drop)_
+            - 5x Naga Tail Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -425,7 +425,7 @@ materials are expanded to their own source.
 - Fused Chunky Stew  _(Cooking 300, makes 10)_
     - 1x Scorched Silithid Meat  _(Refined into Scorched Silithid Meat at the Elementium Cookfire. Requires High-Risk.)_
         - 1x Raw Silithid Meat  _(recipe)_
-            - 4x Silithid Meat Chunks  _(drop)_
+            - 5x Silithid Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Raptor Flesh  _(drop, container)_
@@ -435,7 +435,7 @@ materials are expanded to their own source.
 - Fused Simmered Stew  _(Cooking 300, makes 10)_
     - 1x Shadowcharred Animated Meat  _(Refined into Shadowcharred Animated Meat at the Shadowflame Cookfire. Requires High-Risk.)_
         - 1x Raw Animated Meat  _(recipe)_
-            - 4x Animated Meat Chunks  _(drop)_
+            - 5x Animated Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Tender Wolf Meat  _(drop, container)_
@@ -445,7 +445,7 @@ materials are expanded to their own source.
 - Fused Wizard Wontons  _(Cooking 300, makes 10)_
     - 1x Salted Naga Tail  _(Refined into Salted Naga Tail at the Altar of the Sea God. Requires High-Risk.)_
         - 1x Raw Naga Tail  _(recipe)_
-            - 4x Naga Tail Chunks  _(drop)_
+            - 5x Naga Tail Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Turtle Meat  _(drop, container, quest objective)_
@@ -455,7 +455,7 @@ materials are expanded to their own source.
 - Fused Wizard Soup  _(Cooking 300, makes 10)_
     - 1x Shadowcharred Animated Meat  _(Refined into Shadowcharred Animated Meat at the Shadowflame Cookfire. Requires High-Risk.)_
         - 1x Raw Animated Meat  _(recipe)_
-            - 4x Animated Meat Chunks  _(drop)_
+            - 5x Animated Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Giant Egg  _(drop, container, quest objective)_
@@ -473,7 +473,7 @@ materials are expanded to their own source.
 - Fused Hearty Living Soup  _(Cooking 300, makes 10)_
     - 1x Seared Savage Chimaera Meat  _(Refined into Seared Savage Chimaera Meat at the Arcane Firepit. Requires High-Risk.)_
         - 1x Raw Savage Chimaera Meat  _(recipe)_
-            - 4x Savage Chimaera Chunks  _(drop)_
+            - 5x Savage Chimaera Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Giant Egg  _(drop, container, quest objective)_
@@ -483,7 +483,7 @@ materials are expanded to their own source.
 - Fused Hearty Air Fried Chops  _(Cooking 300, makes 10)_
     - 1x Scorched Silithid Meat  _(Refined into Scorched Silithid Meat at the Elementium Cookfire. Requires High-Risk.)_
         - 1x Raw Silithid Meat  _(recipe)_
-            - 4x Silithid Meat Chunks  _(drop)_
+            - 5x Silithid Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Tender Wolf Meat  _(drop, container)_
@@ -493,7 +493,7 @@ materials are expanded to their own source.
 - Fused Hearty Charred Steak  _(Cooking 300, makes 10)_
     - 1x Salted Naga Tail  _(Refined into Salted Naga Tail at the Altar of the Sea God. Requires High-Risk.)_
         - 1x Raw Naga Tail  _(recipe)_
-            - 4x Naga Tail Chunks  _(drop)_
+            - 5x Naga Tail Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Raw Nightfin Snapper  _(container, quest objective)_
@@ -503,7 +503,7 @@ materials are expanded to their own source.
 - Fused Hearty Steamed Wontons  _(Cooking 300, makes 10)_
     - 1x Shadowcharred Animated Meat  _(Refined into Shadowcharred Animated Meat at the Shadowflame Cookfire. Requires High-Risk.)_
         - 1x Raw Animated Meat  _(recipe)_
-            - 4x Animated Meat Chunks  _(drop)_
+            - 5x Animated Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Turtle Meat  _(drop, container, quest objective)_
@@ -521,7 +521,7 @@ materials are expanded to their own source.
 - Fused Subtle Chops  _(Cooking 300, makes 10)_
     - 1x Seared Savage Chimaera Meat  _(Refined into Seared Savage Chimaera Meat at the Arcane Firepit. Requires High-Risk.)_
         - 1x Raw Savage Chimaera Meat  _(recipe)_
-            - 4x Savage Chimaera Chunks  _(drop)_
+            - 5x Savage Chimaera Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -531,7 +531,7 @@ materials are expanded to their own source.
 - Fused Subtle Steak  _(Cooking 300, makes 10)_
     - 1x Scorched Silithid Meat  _(Refined into Scorched Silithid Meat at the Elementium Cookfire. Requires High-Risk.)_
         - 1x Raw Silithid Meat  _(recipe)_
-            - 4x Silithid Meat Chunks  _(drop)_
+            - 5x Silithid Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -541,7 +541,7 @@ materials are expanded to their own source.
 - Fused Subtle Wontons  _(Cooking 300, makes 10)_
     - 1x Salted Naga Tail  _(Refined into Salted Naga Tail at the Altar of the Sea God. Requires High-Risk.)_
         - 1x Raw Naga Tail  _(recipe)_
-            - 4x Naga Tail Chunks  _(drop)_
+            - 5x Naga Tail Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -551,7 +551,7 @@ materials are expanded to their own source.
 - Fused Subtle Soup  _(Cooking 300, makes 10)_
     - 1x Scorched Silithid Meat  _(Refined into Scorched Silithid Meat at the Elementium Cookfire. Requires High-Risk.)_
         - 1x Raw Silithid Meat  _(recipe)_
-            - 4x Silithid Meat Chunks  _(drop)_
+            - 5x Silithid Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -561,7 +561,7 @@ materials are expanded to their own source.
 - Fused Bold Stew  _(Cooking 300, makes 10)_
     - 1x Seared Savage Chimaera Meat  _(Refined into Seared Savage Chimaera Meat at the Arcane Firepit. Requires High-Risk.)_
         - 1x Raw Savage Chimaera Meat  _(recipe)_
-            - 4x Savage Chimaera Chunks  _(drop)_
+            - 5x Savage Chimaera Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Sandworm Meat  _(drop, quest objective)_
@@ -571,7 +571,7 @@ materials are expanded to their own source.
 - Fused Mana Imbued Roast  _(Cooking 300, makes 10)_
     - 1x Salted Naga Tail  _(Refined into Salted Naga Tail at the Altar of the Sea God. Requires High-Risk.)_
         - 1x Raw Naga Tail  _(recipe)_
-            - 4x Naga Tail Chunks  _(drop)_
+            - 5x Naga Tail Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -581,7 +581,7 @@ materials are expanded to their own source.
 - Fused Sizzling Roast  _(Cooking 300, makes 10)_
     - 1x Shadowcharred Animated Meat  _(Refined into Shadowcharred Animated Meat at the Shadowflame Cookfire. Requires High-Risk.)_
         - 1x Raw Animated Meat  _(recipe)_
-            - 4x Animated Meat Chunks  _(drop)_
+            - 5x Animated Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -591,7 +591,7 @@ materials are expanded to their own source.
 - Fused Wild Roast  _(Cooking 300, makes 10)_
     - 1x Seared Savage Chimaera Meat  _(Refined into Seared Savage Chimaera Meat at the Arcane Firepit. Requires High-Risk.)_
         - 1x Raw Savage Chimaera Meat  _(recipe)_
-            - 4x Savage Chimaera Chunks  _(drop)_
+            - 5x Savage Chimaera Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -601,7 +601,7 @@ materials are expanded to their own source.
 - Fused Winter Roast  _(Cooking 300, makes 10)_
     - 1x Shadowcharred Animated Meat  _(Refined into Shadowcharred Animated Meat at the Shadowflame Cookfire. Requires High-Risk.)_
         - 1x Raw Animated Meat  _(recipe)_
-            - 4x Animated Meat Chunks  _(drop)_
+            - 5x Animated Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -611,7 +611,7 @@ materials are expanded to their own source.
 - Fused Blackened Roast  _(Cooking 300, makes 10)_
     - 1x Seared Savage Chimaera Meat  _(Refined into Seared Savage Chimaera Meat at the Arcane Firepit. Requires High-Risk.)_
         - 1x Raw Savage Chimaera Meat  _(recipe)_
-            - 4x Savage Chimaera Chunks  _(drop)_
+            - 5x Savage Chimaera Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Mystery Meat  _(vendor, drop, container)_
@@ -621,7 +621,7 @@ materials are expanded to their own source.
 - Fused Bold Simmered Stew  _(Cooking 300, makes 10)_
     - 1x Scorched Silithid Meat  _(Refined into Scorched Silithid Meat at the Elementium Cookfire. Requires High-Risk.)_
         - 1x Raw Silithid Meat  _(recipe)_
-            - 4x Silithid Meat Chunks  _(drop)_
+            - 5x Silithid Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Tender Wolf Meat  _(drop, container)_
@@ -631,7 +631,7 @@ materials are expanded to their own source.
 - Fused Bold Duck Stew  _(Cooking 300, makes 10)_
     - 1x Shadowcharred Animated Meat  _(Refined into Shadowcharred Animated Meat at the Shadowflame Cookfire. Requires High-Risk.)_
         - 1x Raw Animated Meat  _(recipe)_
-            - 4x Animated Meat Chunks  _(drop)_
+            - 5x Animated Meat Chunks  _(drop)_
     - 1x Cured Savage Meat  _(Refined into Cured Savage Meat at the Sanguine Workbench)_
         - 1x Raw Savage Flesh  _(drop, container)_
     - 2x Turtle Meat  _(drop, container, quest objective)_

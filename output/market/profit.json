@@ -24,7 +24,7 @@
   "scan": {
     "realm": "Rexxar - Conquest of Azeroth",
     "scanned_at": "2026-08-06 21:23",
-    "age_days": 0.019107380857070286,
+    "age_days": 0.04993027601804998,
     "items": 0
   },
   "prices": {
@@ -818,19 +818,19 @@
       "quantity": 22,
       "scenarios": {
         "buy": {
-          "unit_cost": 83170.0,
+          "unit_cost": 84465.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 83170.0,
+          "unit_cost": 84465.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 83170.0,
+          "unit_cost": 84465.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 83170.0,
+      "unit_cost": 84465.0,
       "source": "scanned"
     },
     "967510": {
@@ -956,19 +956,19 @@
       "quantity": 22,
       "scenarios": {
         "buy": {
-          "unit_cost": 24150.0,
+          "unit_cost": 25651.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 24150.0,
+          "unit_cost": 25651.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 24150.0,
+          "unit_cost": 25651.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 24150.0,
+      "unit_cost": 25651.0,
       "source": "scanned"
     },
     "967528": {
@@ -1255,19 +1255,19 @@
       "quantity": 240,
       "scenarios": {
         "buy": {
-          "unit_cost": 24666.0,
+          "unit_cost": 24798.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 24666.0,
+          "unit_cost": 24798.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 24666.0,
+          "unit_cost": 24798.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 24666.0,
+      "unit_cost": 24798.0,
       "source": "scanned"
     },
     "967567": {
@@ -1439,19 +1439,19 @@
       "quantity": 131,
       "scenarios": {
         "buy": {
-          "unit_cost": 26452.0,
+          "unit_cost": 27198.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 26452.0,
+          "unit_cost": 27198.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 26452.0,
+          "unit_cost": 27198.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 26452.0,
+      "unit_cost": 27198.0,
       "source": "scanned"
     },
     "967591": {
@@ -1508,19 +1508,19 @@
       "quantity": 95,
       "scenarios": {
         "buy": {
-          "unit_cost": 54662.0,
+          "unit_cost": 63662.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 54662.0,
+          "unit_cost": 63662.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 54662.0,
+          "unit_cost": 63662.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 54662.0,
+      "unit_cost": 63662.0,
       "source": "scanned"
     },
     "967600": {
@@ -1554,19 +1554,19 @@
       "quantity": 110,
       "scenarios": {
         "buy": {
-          "unit_cost": 24666.0,
+          "unit_cost": 26167.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 24666.0,
+          "unit_cost": 26167.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 24666.0,
+          "unit_cost": 26167.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 24666.0,
+      "unit_cost": 26167.0,
       "source": "scanned"
     },
     "967606": {
@@ -1715,19 +1715,19 @@
       "quantity": 39,
       "scenarios": {
         "buy": {
-          "unit_cost": 54662.0,
+          "unit_cost": 63662.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 54662.0,
+          "unit_cost": 63662.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 54662.0,
+          "unit_cost": 63662.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 54662.0,
+      "unit_cost": 63662.0,
       "source": "scanned"
     },
     "967627": {
@@ -1761,19 +1761,19 @@
       "quantity": 151,
       "scenarios": {
         "buy": {
-          "unit_cost": 26102.0,
+          "unit_cost": 26797.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 26102.0,
+          "unit_cost": 26797.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 26102.0,
+          "unit_cost": 26797.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 26102.0,
+      "unit_cost": 26797.0,
       "source": "scanned"
     },
     "967761": {
@@ -2198,19 +2198,19 @@
       "quantity": 127,
       "scenarios": {
         "buy": {
-          "unit_cost": 13292.0,
+          "unit_cost": 16615.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 13292.0,
+          "unit_cost": 16615.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 13292.0,
+          "unit_cost": 16615.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 13292.0,
+      "unit_cost": 16615.0,
       "source": "scanned"
     },
     "1303710": {
@@ -2221,19 +2221,19 @@
       "quantity": 142,
       "scenarios": {
         "buy": {
-          "unit_cost": 6060.0,
+          "unit_cost": 7575.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 6060.0,
+          "unit_cost": 7575.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 6060.0,
+          "unit_cost": 7575.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 6060.0,
+      "unit_cost": 7575.0,
       "source": "scanned"
     },
     "1303711": {
@@ -2267,19 +2267,19 @@
       "quantity": 9,
       "scenarios": {
         "buy": {
-          "unit_cost": 6900.0,
+          "unit_cost": 8625.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 6900.0,
+          "unit_cost": 8625.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 6900.0,
+          "unit_cost": 8625.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 6900.0,
+      "unit_cost": 8625.0,
       "source": "scanned"
     },
     "1303713": {
@@ -2313,19 +2313,19 @@
       "quantity": 145,
       "scenarios": {
         "buy": {
-          "unit_cost": 5180.0,
+          "unit_cost": 6475.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 5180.0,
+          "unit_cost": 6475.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 5180.0,
+          "unit_cost": 6475.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 5180.0,
+      "unit_cost": 6475.0,
       "source": "scanned"
     },
     "1303715": {
@@ -2382,19 +2382,19 @@
       "quantity": 34,
       "scenarios": {
         "buy": {
-          "unit_cost": 36000.0,
+          "unit_cost": 45000.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 36000.0,
+          "unit_cost": 45000.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 36000.0,
+          "unit_cost": 45000.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 36000.0,
+      "unit_cost": 45000.0,
       "source": "scanned"
     },
     "1303722": {
@@ -2405,19 +2405,19 @@
       "quantity": 141,
       "scenarios": {
         "buy": {
-          "unit_cost": 6004.0,
+          "unit_cost": 7505.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 6004.0,
+          "unit_cost": 7505.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 6004.0,
+          "unit_cost": 7505.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 6004.0,
+      "unit_cost": 7505.0,
       "source": "scanned"
     },
     "1303723": {
@@ -2428,19 +2428,19 @@
       "quantity": 114,
       "scenarios": {
         "buy": {
-          "unit_cost": 6880.0,
+          "unit_cost": 8600.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 6880.0,
+          "unit_cost": 8600.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 6880.0,
+          "unit_cost": 8600.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 6880.0,
+      "unit_cost": 8600.0,
       "source": "scanned"
     },
     "1303724": {
@@ -2520,19 +2520,19 @@
       "quantity": 114,
       "scenarios": {
         "buy": {
-          "unit_cost": 13292.0,
+          "unit_cost": 16615.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 13292.0,
+          "unit_cost": 16615.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 13292.0,
+          "unit_cost": 16615.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 13292.0,
+      "unit_cost": 16615.0,
       "source": "scanned"
     },
     "1303737": {
@@ -2543,19 +2543,19 @@
       "quantity": 129,
       "scenarios": {
         "buy": {
-          "unit_cost": 6060.0,
+          "unit_cost": 7575.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 6060.0,
+          "unit_cost": 7575.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 6060.0,
+          "unit_cost": 7575.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 6060.0,
+      "unit_cost": 7575.0,
       "source": "scanned"
     },
     "1303738": {
@@ -2589,19 +2589,19 @@
       "quantity": 40,
       "scenarios": {
         "buy": {
-          "unit_cost": 6900.0,
+          "unit_cost": 8625.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 6900.0,
+          "unit_cost": 8625.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 6900.0,
+          "unit_cost": 8625.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 6900.0,
+      "unit_cost": 8625.0,
       "source": "scanned"
     },
     "1303740": {
@@ -2635,19 +2635,19 @@
       "quantity": 500,
       "scenarios": {
         "buy": {
-          "unit_cost": 5180.0,
+          "unit_cost": 6475.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 5180.0,
+          "unit_cost": 6475.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 5180.0,
+          "unit_cost": 6475.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 5180.0,
+      "unit_cost": 6475.0,
       "source": "scanned"
     },
     "1303742": {
@@ -2704,19 +2704,19 @@
       "quantity": 50,
       "scenarios": {
         "buy": {
-          "unit_cost": 36000.0,
+          "unit_cost": 45000.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 36000.0,
+          "unit_cost": 45000.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 36000.0,
+          "unit_cost": 45000.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 36000.0,
+      "unit_cost": 45000.0,
       "source": "scanned"
     },
     "1303749": {
@@ -2727,19 +2727,19 @@
       "quantity": 47,
       "scenarios": {
         "buy": {
-          "unit_cost": 6004.0,
+          "unit_cost": 7505.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 6004.0,
+          "unit_cost": 7505.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 6004.0,
+          "unit_cost": 7505.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 6004.0,
+      "unit_cost": 7505.0,
       "source": "scanned"
     },
     "1303750": {
@@ -2750,19 +2750,19 @@
       "quantity": 291,
       "scenarios": {
         "buy": {
-          "unit_cost": 6880.0,
+          "unit_cost": 8600.0,
           "source": "scanned"
         },
         "gather": {
-          "unit_cost": 6880.0,
+          "unit_cost": 8600.0,
           "source": "scanned"
         },
         "plan": {
-          "unit_cost": 6880.0,
+          "unit_cost": 8600.0,
           "source": "scanned"
         }
       },
-      "unit_cost": 6880.0,
+      "unit_cost": 8600.0,
       "source": "scanned"
     },
     "1303751": {
@@ -3143,18 +3143,18 @@
       "unit_sale_price": 1380000,
       "scenarios": {
         "buy": {
-          "cost": 689560.0,
-          "profit": 621440.0,
-          "profit_per_unit": 621440.0,
-          "roi": 90.12123673066883,
+          "cost": 691075.0,
+          "profit": 619925.0,
+          "profit_per_unit": 619925.0,
+          "roi": 89.70444597185544,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 689560.0,
-          "profit": 621440.0,
-          "profit_per_unit": 621440.0,
-          "roi": 90.12123673066883,
+          "cost": 691075.0,
+          "profit": 619925.0,
+          "profit_per_unit": 619925.0,
+          "roi": 89.70444597185544,
           "gathered": [
             "Large Brilliant Shard",
             "Greater Eternal Essence",
@@ -3166,10 +3166,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 689560.0,
-          "profit": 621440.0,
-          "profit_per_unit": 621440.0,
-          "roi": 90.12123673066883,
+          "cost": 691075.0,
+          "profit": 619925.0,
+          "profit_per_unit": 619925.0,
+          "roi": 89.70444597185544,
           "gathered": [
             "Profane Shard",
             "Echoes of Blood",
@@ -3183,8 +3183,8 @@
           "item_id": 1303710,
           "name": "Essence of Twilight",
           "quantity": 1,
-          "unit_cost": 6060.0,
-          "line_cost": 6060.0,
+          "unit_cost": 7575.0,
+          "line_cost": 7575.0,
           "sourced": "crafted"
         },
         {
@@ -3232,18 +3232,18 @@
       "unit_sale_price": 1340000,
       "scenarios": {
         "buy": {
-          "cost": 689560.0,
-          "profit": 583440.0,
-          "profit_per_unit": 583440.0,
-          "roi": 84.61047624572191,
+          "cost": 691075.0,
+          "profit": 581925.0,
+          "profit_per_unit": 581925.0,
+          "roi": 84.20576637846833,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 689560.0,
-          "profit": 583440.0,
-          "profit_per_unit": 583440.0,
-          "roi": 84.61047624572191,
+          "cost": 691075.0,
+          "profit": 581925.0,
+          "profit_per_unit": 581925.0,
+          "roi": 84.20576637846833,
           "gathered": [
             "Large Brilliant Shard",
             "Greater Eternal Essence",
@@ -3255,10 +3255,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 689560.0,
-          "profit": 583440.0,
-          "profit_per_unit": 583440.0,
-          "roi": 84.61047624572191,
+          "cost": 691075.0,
+          "profit": 581925.0,
+          "profit_per_unit": 581925.0,
+          "roi": 84.20576637846833,
           "gathered": [
             "Profane Shard",
             "Echoes of Blood",
@@ -3272,8 +3272,8 @@
           "item_id": 1303710,
           "name": "Essence of Twilight",
           "quantity": 1,
-          "unit_cost": 6060.0,
-          "line_cost": 6060.0,
+          "unit_cost": 7575.0,
+          "line_cost": 7575.0,
           "sourced": "crafted"
         },
         {
@@ -3321,18 +3321,18 @@
       "unit_sale_price": 1290000,
       "scenarios": {
         "buy": {
-          "cost": 696792.0,
-          "profit": 528708.0,
-          "profit_per_unit": 528708.0,
-          "roi": 75.87744979850515,
+          "cost": 700115.0,
+          "profit": 525385.0,
+          "profit_per_unit": 525385.0,
+          "roi": 75.04267156110068,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 696792.0,
-          "profit": 528708.0,
-          "profit_per_unit": 528708.0,
-          "roi": 75.87744979850515,
+          "cost": 700115.0,
+          "profit": 525385.0,
+          "profit_per_unit": 525385.0,
+          "roi": 75.04267156110068,
           "gathered": [
             "Large Brilliant Shard",
             "Greater Eternal Essence",
@@ -3344,10 +3344,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 696792.0,
-          "profit": 528708.0,
-          "profit_per_unit": 528708.0,
-          "roi": 75.87744979850515,
+          "cost": 700115.0,
+          "profit": 525385.0,
+          "profit_per_unit": 525385.0,
+          "roi": 75.04267156110068,
           "gathered": [
             "Profane Shard",
             "Echoes of Blood",
@@ -3361,8 +3361,8 @@
           "item_id": 1303709,
           "name": "Animated Bone Dust",
           "quantity": 1,
-          "unit_cost": 13292.0,
-          "line_cost": 13292.0,
+          "unit_cost": 16615.0,
+          "line_cost": 16615.0,
           "sourced": "crafted"
         },
         {
@@ -3499,18 +3499,18 @@
       "unit_sale_price": 959500,
       "scenarios": {
         "buy": {
-          "cost": 696792.0,
-          "profit": 214733.0,
-          "profit_per_unit": 214733.0,
-          "roi": 30.817374481911386,
+          "cost": 700115.0,
+          "profit": 211410.0,
+          "profit_per_unit": 211410.0,
+          "roi": 30.196467723159763,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 696792.0,
-          "profit": 214733.0,
-          "profit_per_unit": 214733.0,
-          "roi": 30.817374481911386,
+          "cost": 700115.0,
+          "profit": 211410.0,
+          "profit_per_unit": 211410.0,
+          "roi": 30.196467723159763,
           "gathered": [
             "Large Brilliant Shard",
             "Greater Eternal Essence",
@@ -3522,10 +3522,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 696792.0,
-          "profit": 214733.0,
-          "profit_per_unit": 214733.0,
-          "roi": 30.817374481911386,
+          "cost": 700115.0,
+          "profit": 211410.0,
+          "profit_per_unit": 211410.0,
+          "roi": 30.196467723159763,
           "gathered": [
             "Profane Shard",
             "Echoes of Blood",
@@ -3539,8 +3539,8 @@
           "item_id": 1303709,
           "name": "Animated Bone Dust",
           "quantity": 1,
-          "unit_cost": 13292.0,
-          "line_cost": 13292.0,
+          "unit_cost": 16615.0,
+          "line_cost": 16615.0,
           "sourced": "crafted"
         },
         {
@@ -3658,86 +3658,6 @@
       ]
     },
     {
-      "family": "flask",
-      "product": "Distilled Flask of Adept Striking",
-      "product_id": 967474,
-      "kind": "item",
-      "sale_item_id": 967474,
-      "profession": "Alchemy",
-      "yield": 1,
-      "unit_sale_price": 127500,
-      "scenarios": {
-        "buy": {
-          "cost": 83170.0,
-          "profit": 37955.0,
-          "profit_per_unit": 37955.0,
-          "roi": 45.63544547312733,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 83170.0,
-          "profit": 37955.0,
-          "profit_per_unit": 37955.0,
-          "roi": 45.63544547312733,
-          "gathered": [
-            "Essence of Undeath",
-            "Dreamfoil",
-            "Plague Blossom",
-            "Blightroot",
-            "Scarlet Human Scraps"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 83170.0,
-          "profit": 37955.0,
-          "profit_per_unit": 37955.0,
-          "roi": 45.63544547312733,
-          "gathered": [
-            "Plague Blossom",
-            "Blightroot",
-            "Scarlet Human Scraps"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303714,
-          "name": "Plague Blossom",
-          "quantity": 1,
-          "unit_cost": 5180.0,
-          "line_cost": 5180.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303711,
-          "name": "Blightroot Extract",
-          "quantity": 1,
-          "unit_cost": 44600.0,
-          "line_cost": 44600.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 13463,
-          "name": "Dreamfoil",
-          "quantity": 10,
-          "unit_cost": 2788.0,
-          "line_cost": 27880.0,
-          "sourced": "bought"
-        },
-        {
-          "item_id": 12808,
-          "name": "Essence of Undeath",
-          "quantity": 2,
-          "unit_cost": 2755.0,
-          "line_cost": 5510.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
       "family": "food",
       "product": "Fused Subtle Soup",
       "product_id": 967606,
@@ -3802,6 +3722,86 @@
           "quantity": 2,
           "unit_cost": 331.0,
           "line_cost": 662.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "flask",
+      "product": "Distilled Flask of Adept Striking",
+      "product_id": 967474,
+      "kind": "item",
+      "sale_item_id": 967474,
+      "profession": "Alchemy",
+      "yield": 1,
+      "unit_sale_price": 127500,
+      "scenarios": {
+        "buy": {
+          "cost": 84465.0,
+          "profit": 36660.0,
+          "profit_per_unit": 36660.0,
+          "roi": 43.40259278991298,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 84465.0,
+          "profit": 36660.0,
+          "profit_per_unit": 36660.0,
+          "roi": 43.40259278991298,
+          "gathered": [
+            "Essence of Undeath",
+            "Dreamfoil",
+            "Plague Blossom",
+            "Blightroot",
+            "Scarlet Human Scraps"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 84465.0,
+          "profit": 36660.0,
+          "profit_per_unit": 36660.0,
+          "roi": 43.40259278991298,
+          "gathered": [
+            "Plague Blossom",
+            "Blightroot",
+            "Scarlet Human Scraps"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303714,
+          "name": "Plague Blossom",
+          "quantity": 1,
+          "unit_cost": 6475.0,
+          "line_cost": 6475.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303711,
+          "name": "Blightroot Extract",
+          "quantity": 1,
+          "unit_cost": 44600.0,
+          "line_cost": 44600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 13463,
+          "name": "Dreamfoil",
+          "quantity": 10,
+          "unit_cost": 2788.0,
+          "line_cost": 27880.0,
+          "sourced": "bought"
+        },
+        {
+          "item_id": 12808,
+          "name": "Essence of Undeath",
+          "quantity": 2,
+          "unit_cost": 2755.0,
+          "line_cost": 5510.0,
           "sourced": "bought"
         }
       ]
@@ -3878,75 +3878,6 @@
     },
     {
       "family": "food",
-      "product": "Fused Subtle Chops",
-      "product_id": 967597,
-      "kind": "item",
-      "sale_item_id": 967597,
-      "profession": "Cooking",
-      "yield": 1,
-      "unit_sale_price": 77999,
-      "scenarios": {
-        "buy": {
-          "cost": 54662.0,
-          "profit": 19437.050000000003,
-          "profit_per_unit": 19437.050000000003,
-          "roi": 35.558614759796576,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 54662.0,
-          "profit": 19437.050000000003,
-          "profit_per_unit": 19437.050000000003,
-          "roi": 35.558614759796576,
-          "gathered": [
-            "Mystery Meat",
-            "Raw Savage Flesh",
-            "Savage Chimaera Chunks"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 54662.0,
-          "profit": 19437.050000000003,
-          "profit_per_unit": 19437.050000000003,
-          "roi": 35.558614759796576,
-          "gathered": [
-            "Raw Savage Flesh",
-            "Savage Chimaera Chunks"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303721,
-          "name": "Seared Savage Chimaera Meat",
-          "quantity": 1,
-          "unit_cost": 36000.0,
-          "line_cost": 36000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303720,
-          "name": "Cured Savage Meat",
-          "quantity": 1,
-          "unit_cost": 18000.0,
-          "line_cost": 18000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 12037,
-          "name": "Mystery Meat",
-          "quantity": 2,
-          "unit_cost": 331.0,
-          "line_cost": 662.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "food",
       "product": "Fused Subtle Steak",
       "product_id": 967600,
       "kind": "item",
@@ -4016,27 +3947,27 @@
     },
     {
       "family": "food",
-      "product": "Fused Blackened Roast",
-      "product_id": 967624,
+      "product": "Fused Subtle Chops",
+      "product_id": 967597,
       "kind": "item",
-      "sale_item_id": 967624,
+      "sale_item_id": 967597,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 72998,
+      "unit_sale_price": 77999,
       "scenarios": {
         "buy": {
-          "cost": 54662.0,
-          "profit": 14686.099999999991,
-          "profit_per_unit": 14686.099999999991,
-          "roi": 26.86711060700302,
+          "cost": 63662.0,
+          "profit": 10437.050000000003,
+          "profit_per_unit": 10437.050000000003,
+          "roi": 16.394473940498262,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 54662.0,
-          "profit": 14686.099999999991,
-          "profit_per_unit": 14686.099999999991,
-          "roi": 26.86711060700302,
+          "cost": 63662.0,
+          "profit": 10437.050000000003,
+          "profit_per_unit": 10437.050000000003,
+          "roi": 16.394473940498262,
           "gathered": [
             "Mystery Meat",
             "Raw Savage Flesh",
@@ -4045,10 +3976,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 54662.0,
-          "profit": 14686.099999999991,
-          "profit_per_unit": 14686.099999999991,
-          "roi": 26.86711060700302,
+          "cost": 63662.0,
+          "profit": 10437.050000000003,
+          "profit_per_unit": 10437.050000000003,
+          "roi": 16.394473940498262,
           "gathered": [
             "Raw Savage Flesh",
             "Savage Chimaera Chunks"
@@ -4061,8 +3992,8 @@
           "item_id": 1303721,
           "name": "Seared Savage Chimaera Meat",
           "quantity": 1,
-          "unit_cost": 36000.0,
-          "line_cost": 36000.0,
+          "unit_cost": 45000.0,
+          "line_cost": 45000.0,
           "sourced": "crafted"
         },
         {
@@ -4094,18 +4025,18 @@
       "unit_sale_price": 34729,
       "scenarios": {
         "buy": {
-          "cost": 24666.0,
-          "profit": 8326.549999999996,
-          "profit_per_unit": 8326.549999999996,
-          "roi": 33.75719614043621,
+          "cost": 26167.0,
+          "profit": 6825.549999999996,
+          "profit_per_unit": 6825.549999999996,
+          "roi": 26.084572171055132,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 24666.0,
-          "profit": 8326.549999999996,
-          "profit_per_unit": 8326.549999999996,
-          "roi": 33.75719614043621,
+          "cost": 26167.0,
+          "profit": 6825.549999999996,
+          "profit_per_unit": 6825.549999999996,
+          "roi": 26.084572171055132,
           "gathered": [
             "Mystery Meat",
             "Raw Savage Flesh",
@@ -4114,10 +4045,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 24666.0,
-          "profit": 8326.549999999996,
-          "profit_per_unit": 8326.549999999996,
-          "roi": 33.75719614043621,
+          "cost": 26167.0,
+          "profit": 6825.549999999996,
+          "profit_per_unit": 6825.549999999996,
+          "roi": 26.084572171055132,
           "gathered": [
             "Raw Savage Flesh",
             "Naga Tail Chunks"
@@ -4130,8 +4061,77 @@
           "item_id": 1303722,
           "name": "Salted Naga Tail",
           "quantity": 1,
-          "unit_cost": 6004.0,
-          "line_cost": 6004.0,
+          "unit_cost": 7505.0,
+          "line_cost": 7505.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303720,
+          "name": "Cured Savage Meat",
+          "quantity": 1,
+          "unit_cost": 18000.0,
+          "line_cost": 18000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 12037,
+          "name": "Mystery Meat",
+          "quantity": 2,
+          "unit_cost": 331.0,
+          "line_cost": 662.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "food",
+      "product": "Fused Blackened Roast",
+      "product_id": 967624,
+      "kind": "item",
+      "sale_item_id": 967624,
+      "profession": "Cooking",
+      "yield": 1,
+      "unit_sale_price": 72998,
+      "scenarios": {
+        "buy": {
+          "cost": 63662.0,
+          "profit": 5686.099999999991,
+          "profit_per_unit": 5686.099999999991,
+          "roi": 8.931701800131933,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 63662.0,
+          "profit": 5686.099999999991,
+          "profit_per_unit": 5686.099999999991,
+          "roi": 8.931701800131933,
+          "gathered": [
+            "Mystery Meat",
+            "Raw Savage Flesh",
+            "Savage Chimaera Chunks"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 63662.0,
+          "profit": 5686.099999999991,
+          "profit_per_unit": 5686.099999999991,
+          "roi": 8.931701800131933,
+          "gathered": [
+            "Raw Savage Flesh",
+            "Savage Chimaera Chunks"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303721,
+          "name": "Seared Savage Chimaera Meat",
+          "quantity": 1,
+          "unit_cost": 45000.0,
+          "line_cost": 45000.0,
           "sourced": "crafted"
         },
         {
@@ -4163,18 +4163,18 @@
       "unit_sale_price": 32598,
       "scenarios": {
         "buy": {
-          "cost": 24150.0,
-          "profit": 6818.0999999999985,
-          "profit_per_unit": 6818.0999999999985,
-          "roi": 28.232298136645955,
+          "cost": 25651.0,
+          "profit": 5317.0999999999985,
+          "profit_per_unit": 5317.0999999999985,
+          "roi": 20.728626564266495,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 24150.0,
-          "profit": 6818.0999999999985,
-          "profit_per_unit": 6818.0999999999985,
-          "roi": 28.232298136645955,
+          "cost": 25651.0,
+          "profit": 5317.0999999999985,
+          "profit_per_unit": 5317.0999999999985,
+          "roi": 20.728626564266495,
           "gathered": [
             "Raptor Flesh",
             "Raw Savage Flesh",
@@ -4183,10 +4183,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 24150.0,
-          "profit": 6818.0999999999985,
-          "profit_per_unit": 6818.0999999999985,
-          "roi": 28.232298136645955,
+          "cost": 25651.0,
+          "profit": 5317.0999999999985,
+          "profit_per_unit": 5317.0999999999985,
+          "roi": 20.728626564266495,
           "gathered": [
             "Raptor Flesh",
             "Raw Savage Flesh",
@@ -4200,8 +4200,8 @@
           "item_id": 1303722,
           "name": "Salted Naga Tail",
           "quantity": 1,
-          "unit_cost": 6004.0,
-          "line_cost": 6004.0,
+          "unit_cost": 7505.0,
+          "line_cost": 7505.0,
           "sourced": "crafted"
         },
         {
@@ -4304,282 +4304,6 @@
     },
     {
       "family": "food",
-      "product": "Fused Hearty Charred Steak",
-      "product_id": 967588,
-      "kind": "item",
-      "sale_item_id": 967588,
-      "profession": "Cooking",
-      "yield": 1,
-      "unit_sale_price": 27198,
-      "scenarios": {
-        "buy": {
-          "cost": 26452.0,
-          "profit": -613.9000000000015,
-          "profit_per_unit": -613.9000000000015,
-          "roi": -2.3208075003780486,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 26452.0,
-          "profit": -613.9000000000015,
-          "profit_per_unit": -613.9000000000015,
-          "roi": -2.3208075003780486,
-          "gathered": [
-            "Raw Nightfin Snapper",
-            "Raw Savage Flesh",
-            "Naga Tail Chunks"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 26452.0,
-          "profit": -613.9000000000015,
-          "profit_per_unit": -613.9000000000015,
-          "roi": -2.3208075003780486,
-          "gathered": [
-            "Raw Savage Flesh",
-            "Naga Tail Chunks"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303722,
-          "name": "Salted Naga Tail",
-          "quantity": 1,
-          "unit_cost": 6004.0,
-          "line_cost": 6004.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303720,
-          "name": "Cured Savage Meat",
-          "quantity": 1,
-          "unit_cost": 18000.0,
-          "line_cost": 18000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 13759,
-          "name": "Raw Nightfin Snapper",
-          "quantity": 2,
-          "unit_cost": 1224.0,
-          "line_cost": 2448.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "food",
-      "product": "Fused Bold Duck Stew",
-      "product_id": 967630,
-      "kind": "item",
-      "sale_item_id": 967630,
-      "profession": "Cooking",
-      "yield": 1,
-      "unit_sale_price": 26797,
-      "scenarios": {
-        "buy": {
-          "cost": 26102.0,
-          "profit": -644.8500000000022,
-          "profit_per_unit": -644.8500000000022,
-          "roi": -2.4705003448011733,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 26102.0,
-          "profit": -644.8500000000022,
-          "profit_per_unit": -644.8500000000022,
-          "roi": -2.4705003448011733,
-          "gathered": [
-            "Turtle Meat",
-            "Raw Savage Flesh",
-            "Animated Meat Chunks"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 26102.0,
-          "profit": -644.8500000000022,
-          "profit_per_unit": -644.8500000000022,
-          "roi": -2.4705003448011733,
-          "gathered": [
-            "Raw Savage Flesh",
-            "Animated Meat Chunks"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303723,
-          "name": "Shadowcharred Animated Meat",
-          "quantity": 1,
-          "unit_cost": 6880.0,
-          "line_cost": 6880.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303720,
-          "name": "Cured Savage Meat",
-          "quantity": 1,
-          "unit_cost": 18000.0,
-          "line_cost": 18000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 3712,
-          "name": "Turtle Meat",
-          "quantity": 2,
-          "unit_cost": 611.0,
-          "line_cost": 1222.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "food",
-      "product": "Fused Duck Stew",
-      "product_id": 967564,
-      "kind": "item",
-      "sale_item_id": 967564,
-      "profession": "Cooking",
-      "yield": 1,
-      "unit_sale_price": 24798,
-      "scenarios": {
-        "buy": {
-          "cost": 24666.0,
-          "profit": -1107.9000000000015,
-          "profit_per_unit": -1107.9000000000015,
-          "roi": -4.491607881294095,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 24666.0,
-          "profit": -1107.9000000000015,
-          "profit_per_unit": -1107.9000000000015,
-          "roi": -4.491607881294095,
-          "gathered": [
-            "Mystery Meat",
-            "Raw Savage Flesh",
-            "Naga Tail Chunks"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 24666.0,
-          "profit": -1107.9000000000015,
-          "profit_per_unit": -1107.9000000000015,
-          "roi": -4.491607881294095,
-          "gathered": [
-            "Raw Savage Flesh",
-            "Naga Tail Chunks"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303722,
-          "name": "Salted Naga Tail",
-          "quantity": 1,
-          "unit_cost": 6004.0,
-          "line_cost": 6004.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303720,
-          "name": "Cured Savage Meat",
-          "quantity": 1,
-          "unit_cost": 18000.0,
-          "line_cost": 18000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 12037,
-          "name": "Mystery Meat",
-          "quantity": 2,
-          "unit_cost": 331.0,
-          "line_cost": 662.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "food",
-      "product": "Fused Wizard Wontons",
-      "product_id": 967573,
-      "kind": "item",
-      "sale_item_id": 967573,
-      "profession": "Cooking",
-      "yield": 1,
-      "unit_sale_price": 25200,
-      "scenarios": {
-        "buy": {
-          "cost": 25226.0,
-          "profit": -1286.0,
-          "profit_per_unit": -1286.0,
-          "roi": -5.097914849758186,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 25226.0,
-          "profit": -1286.0,
-          "profit_per_unit": -1286.0,
-          "roi": -5.097914849758186,
-          "gathered": [
-            "Turtle Meat",
-            "Raw Savage Flesh",
-            "Naga Tail Chunks"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 25226.0,
-          "profit": -1286.0,
-          "profit_per_unit": -1286.0,
-          "roi": -5.097914849758186,
-          "gathered": [
-            "Raw Savage Flesh",
-            "Naga Tail Chunks"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303722,
-          "name": "Salted Naga Tail",
-          "quantity": 1,
-          "unit_cost": 6004.0,
-          "line_cost": 6004.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303720,
-          "name": "Cured Savage Meat",
-          "quantity": 1,
-          "unit_cost": 18000.0,
-          "line_cost": 18000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 3712,
-          "name": "Turtle Meat",
-          "quantity": 2,
-          "unit_cost": 611.0,
-          "line_cost": 1222.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "food",
       "product": "Fused Hearty Air Fried Chops",
       "product_id": 967585,
       "kind": "item",
@@ -4650,109 +4374,39 @@
     },
     {
       "family": "food",
-      "product": "Fused Hearty Living Soup",
-      "product_id": 967582,
+      "product": "Fused Hearty Charred Steak",
+      "product_id": 967588,
       "kind": "item",
-      "sale_item_id": 967582,
+      "sale_item_id": 967588,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 59498,
+      "unit_sale_price": 27198,
       "scenarios": {
         "buy": {
-          "cost": 61860.0,
-          "profit": -5336.9000000000015,
-          "profit_per_unit": -5336.9000000000015,
-          "roi": -8.627384416424185,
+          "cost": 27953.0,
+          "profit": -2114.9000000000015,
+          "profit_per_unit": -2114.9000000000015,
+          "roi": -7.565914213143496,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 61860.0,
-          "profit": -5336.9000000000015,
-          "profit_per_unit": -5336.9000000000015,
-          "roi": -8.627384416424185,
+          "cost": 27953.0,
+          "profit": -2114.9000000000015,
+          "profit_per_unit": -2114.9000000000015,
+          "roi": -7.565914213143496,
           "gathered": [
-            "Giant Egg",
-            "Raw Savage Flesh",
-            "Savage Chimaera Chunks"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 61860.0,
-          "profit": -5336.9000000000015,
-          "profit_per_unit": -5336.9000000000015,
-          "roi": -8.627384416424185,
-          "gathered": [
-            "Giant Egg",
-            "Raw Savage Flesh",
-            "Savage Chimaera Chunks"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303721,
-          "name": "Seared Savage Chimaera Meat",
-          "quantity": 1,
-          "unit_cost": 36000.0,
-          "line_cost": 36000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303720,
-          "name": "Cured Savage Meat",
-          "quantity": 1,
-          "unit_cost": 18000.0,
-          "line_cost": 18000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 12207,
-          "name": "Giant Egg",
-          "quantity": 2,
-          "unit_cost": 3930.0,
-          "line_cost": 7860.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "food",
-      "product": "Fused Mana Imbued Roast",
-      "product_id": 967612,
-      "kind": "item",
-      "sale_item_id": 967612,
-      "profession": "Cooking",
-      "yield": 1,
-      "unit_sale_price": 19808,
-      "scenarios": {
-        "buy": {
-          "cost": 24666.0,
-          "profit": -5848.4000000000015,
-          "profit_per_unit": -5848.4000000000015,
-          "roi": -23.710370550555425,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 24666.0,
-          "profit": -5848.4000000000015,
-          "profit_per_unit": -5848.4000000000015,
-          "roi": -23.710370550555425,
-          "gathered": [
-            "Mystery Meat",
+            "Raw Nightfin Snapper",
             "Raw Savage Flesh",
             "Naga Tail Chunks"
           ],
           "missing": []
         },
         "plan": {
-          "cost": 24666.0,
-          "profit": -5848.4000000000015,
-          "profit_per_unit": -5848.4000000000015,
-          "roi": -23.710370550555425,
+          "cost": 27953.0,
+          "profit": -2114.9000000000015,
+          "profit_per_unit": -2114.9000000000015,
+          "roi": -7.565914213143496,
           "gathered": [
             "Raw Savage Flesh",
             "Naga Tail Chunks"
@@ -4765,8 +4419,146 @@
           "item_id": 1303722,
           "name": "Salted Naga Tail",
           "quantity": 1,
-          "unit_cost": 6004.0,
-          "line_cost": 6004.0,
+          "unit_cost": 7505.0,
+          "line_cost": 7505.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303720,
+          "name": "Cured Savage Meat",
+          "quantity": 1,
+          "unit_cost": 18000.0,
+          "line_cost": 18000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 13759,
+          "name": "Raw Nightfin Snapper",
+          "quantity": 2,
+          "unit_cost": 1224.0,
+          "line_cost": 2448.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "food",
+      "product": "Fused Bold Duck Stew",
+      "product_id": 967630,
+      "kind": "item",
+      "sale_item_id": 967630,
+      "profession": "Cooking",
+      "yield": 1,
+      "unit_sale_price": 26797,
+      "scenarios": {
+        "buy": {
+          "cost": 27822.0,
+          "profit": -2364.850000000002,
+          "profit_per_unit": -2364.850000000002,
+          "roi": -8.499928114441817,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 27822.0,
+          "profit": -2364.850000000002,
+          "profit_per_unit": -2364.850000000002,
+          "roi": -8.499928114441817,
+          "gathered": [
+            "Turtle Meat",
+            "Raw Savage Flesh",
+            "Animated Meat Chunks"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 27822.0,
+          "profit": -2364.850000000002,
+          "profit_per_unit": -2364.850000000002,
+          "roi": -8.499928114441817,
+          "gathered": [
+            "Raw Savage Flesh",
+            "Animated Meat Chunks"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303723,
+          "name": "Shadowcharred Animated Meat",
+          "quantity": 1,
+          "unit_cost": 8600.0,
+          "line_cost": 8600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303720,
+          "name": "Cured Savage Meat",
+          "quantity": 1,
+          "unit_cost": 18000.0,
+          "line_cost": 18000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 3712,
+          "name": "Turtle Meat",
+          "quantity": 2,
+          "unit_cost": 611.0,
+          "line_cost": 1222.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "food",
+      "product": "Fused Duck Stew",
+      "product_id": 967564,
+      "kind": "item",
+      "sale_item_id": 967564,
+      "profession": "Cooking",
+      "yield": 1,
+      "unit_sale_price": 24798,
+      "scenarios": {
+        "buy": {
+          "cost": 26167.0,
+          "profit": -2608.9000000000015,
+          "profit_per_unit": -2608.9000000000015,
+          "roi": -9.970191462529145,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 26167.0,
+          "profit": -2608.9000000000015,
+          "profit_per_unit": -2608.9000000000015,
+          "roi": -9.970191462529145,
+          "gathered": [
+            "Mystery Meat",
+            "Raw Savage Flesh",
+            "Naga Tail Chunks"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 26167.0,
+          "profit": -2608.9000000000015,
+          "profit_per_unit": -2608.9000000000015,
+          "roi": -9.970191462529145,
+          "gathered": [
+            "Raw Savage Flesh",
+            "Naga Tail Chunks"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303722,
+          "name": "Salted Naga Tail",
+          "quantity": 1,
+          "unit_cost": 7505.0,
+          "line_cost": 7505.0,
           "sourced": "crafted"
         },
         {
@@ -4783,6 +4575,75 @@
           "quantity": 2,
           "unit_cost": 331.0,
           "line_cost": 662.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "food",
+      "product": "Fused Wizard Wontons",
+      "product_id": 967573,
+      "kind": "item",
+      "sale_item_id": 967573,
+      "profession": "Cooking",
+      "yield": 1,
+      "unit_sale_price": 25200,
+      "scenarios": {
+        "buy": {
+          "cost": 26727.0,
+          "profit": -2787.0,
+          "profit_per_unit": -2787.0,
+          "roi": -10.427657425075767,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 26727.0,
+          "profit": -2787.0,
+          "profit_per_unit": -2787.0,
+          "roi": -10.427657425075767,
+          "gathered": [
+            "Turtle Meat",
+            "Raw Savage Flesh",
+            "Naga Tail Chunks"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 26727.0,
+          "profit": -2787.0,
+          "profit_per_unit": -2787.0,
+          "roi": -10.427657425075767,
+          "gathered": [
+            "Raw Savage Flesh",
+            "Naga Tail Chunks"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303722,
+          "name": "Salted Naga Tail",
+          "quantity": 1,
+          "unit_cost": 7505.0,
+          "line_cost": 7505.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303720,
+          "name": "Cured Savage Meat",
+          "quantity": 1,
+          "unit_cost": 18000.0,
+          "line_cost": 18000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 3712,
+          "name": "Turtle Meat",
+          "quantity": 2,
+          "unit_cost": 611.0,
+          "line_cost": 1222.0,
           "sourced": "bought"
         }
       ]
@@ -4928,123 +4789,53 @@
     },
     {
       "family": "food",
-      "product": "Fused Bold Stew",
-      "product_id": 967609,
+      "product": "Fused Mana Imbued Roast",
+      "product_id": 967612,
       "kind": "item",
-      "sale_item_id": 967609,
+      "sale_item_id": 967612,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 68500,
+      "unit_sale_price": 19808,
       "scenarios": {
         "buy": {
-          "cost": 72400.0,
-          "profit": -7325.0,
-          "profit_per_unit": -7325.0,
-          "roi": -10.117403314917127,
+          "cost": 26167.0,
+          "profit": -7349.4000000000015,
+          "profit_per_unit": -7349.4000000000015,
+          "roi": -28.086521190812864,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 72400.0,
-          "profit": -7325.0,
-          "profit_per_unit": -7325.0,
-          "roi": -10.117403314917127,
-          "gathered": [
-            "Sandworm Meat",
-            "Raw Savage Flesh",
-            "Savage Chimaera Chunks"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 72400.0,
-          "profit": -7325.0,
-          "profit_per_unit": -7325.0,
-          "roi": -10.117403314917127,
-          "gathered": [
-            "Sandworm Meat",
-            "Raw Savage Flesh",
-            "Savage Chimaera Chunks"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303721,
-          "name": "Seared Savage Chimaera Meat",
-          "quantity": 1,
-          "unit_cost": 36000.0,
-          "line_cost": 36000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303720,
-          "name": "Cured Savage Meat",
-          "quantity": 1,
-          "unit_cost": 18000.0,
-          "line_cost": 18000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 20424,
-          "name": "Sandworm Meat",
-          "quantity": 2,
-          "unit_cost": 9200.0,
-          "line_cost": 18400.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "food",
-      "product": "Fused Living Soup",
-      "product_id": 967510,
-      "kind": "item",
-      "sale_item_id": 967510,
-      "profession": "Cooking",
-      "yield": 1,
-      "unit_sale_price": 18198,
-      "scenarios": {
-        "buy": {
-          "cost": 25542.0,
-          "profit": -8253.900000000001,
-          "profit_per_unit": -8253.900000000001,
-          "roi": -32.31501057082453,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 25542.0,
-          "profit": -8253.900000000001,
-          "profit_per_unit": -8253.900000000001,
-          "roi": -32.31501057082453,
+          "cost": 26167.0,
+          "profit": -7349.4000000000015,
+          "profit_per_unit": -7349.4000000000015,
+          "roi": -28.086521190812864,
           "gathered": [
             "Mystery Meat",
             "Raw Savage Flesh",
-            "Animated Meat Chunks"
+            "Naga Tail Chunks"
           ],
           "missing": []
         },
         "plan": {
-          "cost": 25542.0,
-          "profit": -8253.900000000001,
-          "profit_per_unit": -8253.900000000001,
-          "roi": -32.31501057082453,
+          "cost": 26167.0,
+          "profit": -7349.4000000000015,
+          "profit_per_unit": -7349.4000000000015,
+          "roi": -28.086521190812864,
           "gathered": [
             "Raw Savage Flesh",
-            "Animated Meat Chunks"
+            "Naga Tail Chunks"
           ],
           "missing": []
         }
       },
       "breakdown": [
         {
-          "item_id": 1303723,
-          "name": "Shadowcharred Animated Meat",
+          "item_id": 1303722,
+          "name": "Salted Naga Tail",
           "quantity": 1,
-          "unit_cost": 6880.0,
-          "line_cost": 6880.0,
+          "unit_cost": 7505.0,
+          "line_cost": 7505.0,
           "sourced": "crafted"
         },
         {
@@ -5061,76 +4852,6 @@
           "quantity": 2,
           "unit_cost": 331.0,
           "line_cost": 662.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "food",
-      "product": "Fused Simmered Stew",
-      "product_id": 967570,
-      "kind": "item",
-      "sale_item_id": 967570,
-      "profession": "Cooking",
-      "yield": 1,
-      "unit_sale_price": 17597,
-      "scenarios": {
-        "buy": {
-          "cost": 25482.0,
-          "profit": -8764.850000000002,
-          "profit_per_unit": -8764.850000000002,
-          "roi": -34.39624048347854,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 25482.0,
-          "profit": -8764.850000000002,
-          "profit_per_unit": -8764.850000000002,
-          "roi": -34.39624048347854,
-          "gathered": [
-            "Tender Wolf Meat",
-            "Raw Savage Flesh",
-            "Animated Meat Chunks"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 25482.0,
-          "profit": -8764.850000000002,
-          "profit_per_unit": -8764.850000000002,
-          "roi": -34.39624048347854,
-          "gathered": [
-            "Tender Wolf Meat",
-            "Raw Savage Flesh",
-            "Animated Meat Chunks"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303723,
-          "name": "Shadowcharred Animated Meat",
-          "quantity": 1,
-          "unit_cost": 6880.0,
-          "line_cost": 6880.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303720,
-          "name": "Cured Savage Meat",
-          "quantity": 1,
-          "unit_cost": 18000.0,
-          "line_cost": 18000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 12208,
-          "name": "Tender Wolf Meat",
-          "quantity": 2,
-          "unit_cost": 301.0,
-          "line_cost": 602.0,
           "sourced": "bought"
         }
       ]
@@ -5207,6 +4928,145 @@
     },
     {
       "family": "food",
+      "product": "Fused Living Soup",
+      "product_id": 967510,
+      "kind": "item",
+      "sale_item_id": 967510,
+      "profession": "Cooking",
+      "yield": 1,
+      "unit_sale_price": 18198,
+      "scenarios": {
+        "buy": {
+          "cost": 27262.0,
+          "profit": -9973.900000000001,
+          "profit_per_unit": -9973.900000000001,
+          "roi": -36.58535690705011,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 27262.0,
+          "profit": -9973.900000000001,
+          "profit_per_unit": -9973.900000000001,
+          "roi": -36.58535690705011,
+          "gathered": [
+            "Mystery Meat",
+            "Raw Savage Flesh",
+            "Animated Meat Chunks"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 27262.0,
+          "profit": -9973.900000000001,
+          "profit_per_unit": -9973.900000000001,
+          "roi": -36.58535690705011,
+          "gathered": [
+            "Raw Savage Flesh",
+            "Animated Meat Chunks"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303723,
+          "name": "Shadowcharred Animated Meat",
+          "quantity": 1,
+          "unit_cost": 8600.0,
+          "line_cost": 8600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303720,
+          "name": "Cured Savage Meat",
+          "quantity": 1,
+          "unit_cost": 18000.0,
+          "line_cost": 18000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 12037,
+          "name": "Mystery Meat",
+          "quantity": 2,
+          "unit_cost": 331.0,
+          "line_cost": 662.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "food",
+      "product": "Fused Simmered Stew",
+      "product_id": 967570,
+      "kind": "item",
+      "sale_item_id": 967570,
+      "profession": "Cooking",
+      "yield": 1,
+      "unit_sale_price": 17597,
+      "scenarios": {
+        "buy": {
+          "cost": 27202.0,
+          "profit": -10484.850000000002,
+          "profit_per_unit": -10484.850000000002,
+          "roi": -38.54440849937505,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 27202.0,
+          "profit": -10484.850000000002,
+          "profit_per_unit": -10484.850000000002,
+          "roi": -38.54440849937505,
+          "gathered": [
+            "Tender Wolf Meat",
+            "Raw Savage Flesh",
+            "Animated Meat Chunks"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 27202.0,
+          "profit": -10484.850000000002,
+          "profit_per_unit": -10484.850000000002,
+          "roi": -38.54440849937505,
+          "gathered": [
+            "Tender Wolf Meat",
+            "Raw Savage Flesh",
+            "Animated Meat Chunks"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303723,
+          "name": "Shadowcharred Animated Meat",
+          "quantity": 1,
+          "unit_cost": 8600.0,
+          "line_cost": 8600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303720,
+          "name": "Cured Savage Meat",
+          "quantity": 1,
+          "unit_cost": 18000.0,
+          "line_cost": 18000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 12208,
+          "name": "Tender Wolf Meat",
+          "quantity": 2,
+          "unit_cost": 301.0,
+          "line_cost": 602.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "food",
       "product": "Fused Wizard Soup",
       "product_id": 967576,
       "kind": "item",
@@ -5216,18 +5076,18 @@
       "unit_sale_price": 23798,
       "scenarios": {
         "buy": {
-          "cost": 32740.0,
-          "profit": -10131.900000000001,
-          "profit_per_unit": -10131.900000000001,
-          "roi": -30.946548564447163,
+          "cost": 34460.0,
+          "profit": -11851.900000000001,
+          "profit_per_unit": -11851.900000000001,
+          "roi": -34.39320951828207,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 32740.0,
-          "profit": -10131.900000000001,
-          "profit_per_unit": -10131.900000000001,
-          "roi": -30.946548564447163,
+          "cost": 34460.0,
+          "profit": -11851.900000000001,
+          "profit_per_unit": -11851.900000000001,
+          "roi": -34.39320951828207,
           "gathered": [
             "Giant Egg",
             "Raw Savage Flesh",
@@ -5236,10 +5096,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 32740.0,
-          "profit": -10131.900000000001,
-          "profit_per_unit": -10131.900000000001,
-          "roi": -30.946548564447163,
+          "cost": 34460.0,
+          "profit": -11851.900000000001,
+          "profit_per_unit": -11851.900000000001,
+          "roi": -34.39320951828207,
           "gathered": [
             "Giant Egg",
             "Raw Savage Flesh",
@@ -5253,8 +5113,8 @@
           "item_id": 1303723,
           "name": "Shadowcharred Animated Meat",
           "quantity": 1,
-          "unit_cost": 6880.0,
-          "line_cost": 6880.0,
+          "unit_cost": 8600.0,
+          "line_cost": 8600.0,
           "sourced": "crafted"
         },
         {
@@ -5286,18 +5146,18 @@
       "unit_sale_price": 14598,
       "scenarios": {
         "buy": {
-          "cost": 24666.0,
-          "profit": -10797.900000000001,
-          "profit_per_unit": -10797.900000000001,
-          "roi": -43.776453417659944,
+          "cost": 26167.0,
+          "profit": -12298.900000000001,
+          "profit_per_unit": -12298.900000000001,
+          "roi": -47.00156685902091,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 24666.0,
-          "profit": -10797.900000000001,
-          "profit_per_unit": -10797.900000000001,
-          "roi": -43.776453417659944,
+          "cost": 26167.0,
+          "profit": -12298.900000000001,
+          "profit_per_unit": -12298.900000000001,
+          "roi": -47.00156685902091,
           "gathered": [
             "Mystery Meat",
             "Raw Savage Flesh",
@@ -5306,10 +5166,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 24666.0,
-          "profit": -10797.900000000001,
-          "profit_per_unit": -10797.900000000001,
-          "roi": -43.776453417659944,
+          "cost": 26167.0,
+          "profit": -12298.900000000001,
+          "profit_per_unit": -12298.900000000001,
+          "roi": -47.00156685902091,
           "gathered": [
             "Raw Savage Flesh",
             "Naga Tail Chunks"
@@ -5322,8 +5182,8 @@
           "item_id": 1303722,
           "name": "Salted Naga Tail",
           "quantity": 1,
-          "unit_cost": 6004.0,
-          "line_cost": 6004.0,
+          "unit_cost": 7505.0,
+          "line_cost": 7505.0,
           "sourced": "crafted"
         },
         {
@@ -5346,6 +5206,76 @@
     },
     {
       "family": "food",
+      "product": "Fused Hearty Living Soup",
+      "product_id": 967582,
+      "kind": "item",
+      "sale_item_id": 967582,
+      "profession": "Cooking",
+      "yield": 1,
+      "unit_sale_price": 59498,
+      "scenarios": {
+        "buy": {
+          "cost": 70860.0,
+          "profit": -14336.900000000001,
+          "profit_per_unit": -14336.900000000001,
+          "roi": -20.232712390629413,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 70860.0,
+          "profit": -14336.900000000001,
+          "profit_per_unit": -14336.900000000001,
+          "roi": -20.232712390629413,
+          "gathered": [
+            "Giant Egg",
+            "Raw Savage Flesh",
+            "Savage Chimaera Chunks"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 70860.0,
+          "profit": -14336.900000000001,
+          "profit_per_unit": -14336.900000000001,
+          "roi": -20.232712390629413,
+          "gathered": [
+            "Giant Egg",
+            "Raw Savage Flesh",
+            "Savage Chimaera Chunks"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303721,
+          "name": "Seared Savage Chimaera Meat",
+          "quantity": 1,
+          "unit_cost": 45000.0,
+          "line_cost": 45000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303720,
+          "name": "Cured Savage Meat",
+          "quantity": 1,
+          "unit_cost": 18000.0,
+          "line_cost": 18000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 12207,
+          "name": "Giant Egg",
+          "quantity": 2,
+          "unit_cost": 3930.0,
+          "line_cost": 7860.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "food",
       "product": "Fused Sizzling Roast",
       "product_id": 967615,
       "kind": "item",
@@ -5355,18 +5285,18 @@
       "unit_sale_price": 13508,
       "scenarios": {
         "buy": {
-          "cost": 25542.0,
-          "profit": -12709.400000000001,
-          "profit_per_unit": -12709.400000000001,
-          "roi": -49.7588285960379,
+          "cost": 27262.0,
+          "profit": -14429.400000000001,
+          "profit_per_unit": -14429.400000000001,
+          "roi": -52.928618589978726,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 25542.0,
-          "profit": -12709.400000000001,
-          "profit_per_unit": -12709.400000000001,
-          "roi": -49.7588285960379,
+          "cost": 27262.0,
+          "profit": -14429.400000000001,
+          "profit_per_unit": -14429.400000000001,
+          "roi": -52.928618589978726,
           "gathered": [
             "Mystery Meat",
             "Raw Savage Flesh",
@@ -5375,10 +5305,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 25542.0,
-          "profit": -12709.400000000001,
-          "profit_per_unit": -12709.400000000001,
-          "roi": -49.7588285960379,
+          "cost": 27262.0,
+          "profit": -14429.400000000001,
+          "profit_per_unit": -14429.400000000001,
+          "roi": -52.928618589978726,
           "gathered": [
             "Raw Savage Flesh",
             "Animated Meat Chunks"
@@ -5391,8 +5321,8 @@
           "item_id": 1303723,
           "name": "Shadowcharred Animated Meat",
           "quantity": 1,
-          "unit_cost": 6880.0,
-          "line_cost": 6880.0,
+          "unit_cost": 8600.0,
+          "line_cost": 8600.0,
           "sourced": "crafted"
         },
         {
@@ -5424,18 +5354,18 @@
       "unit_sale_price": 12799,
       "scenarios": {
         "buy": {
-          "cost": 25542.0,
-          "profit": -13382.95,
-          "profit_per_unit": -13382.95,
-          "roi": -52.39585780283454,
+          "cost": 27262.0,
+          "profit": -15102.95,
+          "profit_per_unit": -15102.95,
+          "roi": -55.399273714327634,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 25542.0,
-          "profit": -13382.95,
-          "profit_per_unit": -13382.95,
-          "roi": -52.39585780283454,
+          "cost": 27262.0,
+          "profit": -15102.95,
+          "profit_per_unit": -15102.95,
+          "roi": -55.399273714327634,
           "gathered": [
             "Mystery Meat",
             "Raw Savage Flesh",
@@ -5444,10 +5374,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 25542.0,
-          "profit": -13382.95,
-          "profit_per_unit": -13382.95,
-          "roi": -52.39585780283454,
+          "cost": 27262.0,
+          "profit": -15102.95,
+          "profit_per_unit": -15102.95,
+          "roi": -55.399273714327634,
           "gathered": [
             "Raw Savage Flesh",
             "Animated Meat Chunks"
@@ -5460,8 +5390,8 @@
           "item_id": 1303723,
           "name": "Shadowcharred Animated Meat",
           "quantity": 1,
-          "unit_cost": 6880.0,
-          "line_cost": 6880.0,
+          "unit_cost": 8600.0,
+          "line_cost": 8600.0,
           "sourced": "crafted"
         },
         {
@@ -5493,18 +5423,18 @@
       "unit_sale_price": 19999,
       "scenarios": {
         "buy": {
-          "cost": 32740.0,
-          "profit": -13740.95,
-          "profit_per_unit": -13740.95,
-          "roi": -41.96991447770312,
+          "cost": 34460.0,
+          "profit": -15460.95,
+          "profit_per_unit": -15460.95,
+          "roi": -44.86636680208938,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 32740.0,
-          "profit": -13740.95,
-          "profit_per_unit": -13740.95,
-          "roi": -41.96991447770312,
+          "cost": 34460.0,
+          "profit": -15460.95,
+          "profit_per_unit": -15460.95,
+          "roi": -44.86636680208938,
           "gathered": [
             "Giant Egg",
             "Raw Savage Flesh",
@@ -5513,10 +5443,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 32740.0,
-          "profit": -13740.95,
-          "profit_per_unit": -13740.95,
-          "roi": -41.96991447770312,
+          "cost": 34460.0,
+          "profit": -15460.95,
+          "profit_per_unit": -15460.95,
+          "roi": -44.86636680208938,
           "gathered": [
             "Giant Egg",
             "Raw Savage Flesh",
@@ -5530,8 +5460,8 @@
           "item_id": 1303723,
           "name": "Shadowcharred Animated Meat",
           "quantity": 1,
-          "unit_cost": 6880.0,
-          "line_cost": 6880.0,
+          "unit_cost": 8600.0,
+          "line_cost": 8600.0,
           "sourced": "crafted"
         },
         {
@@ -5563,18 +5493,18 @@
       "unit_sale_price": 12946,
       "scenarios": {
         "buy": {
-          "cost": 26102.0,
-          "profit": -13803.300000000001,
-          "profit_per_unit": -13803.300000000001,
-          "roi": -52.88215462416673,
+          "cost": 27822.0,
+          "profit": -15523.300000000001,
+          "profit_per_unit": -15523.300000000001,
+          "roi": -55.795054273596435,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 26102.0,
-          "profit": -13803.300000000001,
-          "profit_per_unit": -13803.300000000001,
-          "roi": -52.88215462416673,
+          "cost": 27822.0,
+          "profit": -15523.300000000001,
+          "profit_per_unit": -15523.300000000001,
+          "roi": -55.795054273596435,
           "gathered": [
             "Turtle Meat",
             "Raw Savage Flesh",
@@ -5583,10 +5513,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 26102.0,
-          "profit": -13803.300000000001,
-          "profit_per_unit": -13803.300000000001,
-          "roi": -52.88215462416673,
+          "cost": 27822.0,
+          "profit": -15523.300000000001,
+          "profit_per_unit": -15523.300000000001,
+          "roi": -55.795054273596435,
           "gathered": [
             "Raw Savage Flesh",
             "Animated Meat Chunks"
@@ -5599,8 +5529,8 @@
           "item_id": 1303723,
           "name": "Shadowcharred Animated Meat",
           "quantity": 1,
-          "unit_cost": 6880.0,
-          "line_cost": 6880.0,
+          "unit_cost": 8600.0,
+          "line_cost": 8600.0,
           "sourced": "crafted"
         },
         {
@@ -5623,109 +5553,41 @@
     },
     {
       "family": "food",
-      "product": "Fused Winter Roast",
-      "product_id": 967621,
+      "product": "Fused Bold Stew",
+      "product_id": 967609,
       "kind": "item",
-      "sale_item_id": 967621,
+      "sale_item_id": 967609,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 11251,
+      "unit_sale_price": 68500,
       "scenarios": {
         "buy": {
-          "cost": 25542.0,
-          "profit": -14853.550000000001,
-          "profit_per_unit": -14853.550000000001,
-          "roi": -58.153433560410306,
+          "cost": 81400.0,
+          "profit": -16325.0,
+          "profit_per_unit": -16325.0,
+          "roi": -20.055282555282556,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 25542.0,
-          "profit": -14853.550000000001,
-          "profit_per_unit": -14853.550000000001,
-          "roi": -58.153433560410306,
+          "cost": 81400.0,
+          "profit": -16325.0,
+          "profit_per_unit": -16325.0,
+          "roi": -20.055282555282556,
           "gathered": [
-            "Mystery Meat",
-            "Raw Savage Flesh",
-            "Animated Meat Chunks"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 25542.0,
-          "profit": -14853.550000000001,
-          "profit_per_unit": -14853.550000000001,
-          "roi": -58.153433560410306,
-          "gathered": [
-            "Raw Savage Flesh",
-            "Animated Meat Chunks"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303723,
-          "name": "Shadowcharred Animated Meat",
-          "quantity": 1,
-          "unit_cost": 6880.0,
-          "line_cost": 6880.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303720,
-          "name": "Cured Savage Meat",
-          "quantity": 1,
-          "unit_cost": 18000.0,
-          "line_cost": 18000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 12037,
-          "name": "Mystery Meat",
-          "quantity": 2,
-          "unit_cost": 331.0,
-          "line_cost": 662.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "food",
-      "product": "Fused Wild Roast",
-      "product_id": 967618,
-      "kind": "item",
-      "sale_item_id": 967618,
-      "profession": "Cooking",
-      "yield": 1,
-      "unit_sale_price": 41399,
-      "scenarios": {
-        "buy": {
-          "cost": 54662.0,
-          "profit": -15332.950000000004,
-          "profit_per_unit": -15332.950000000004,
-          "roi": -28.050473820935938,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 54662.0,
-          "profit": -15332.950000000004,
-          "profit_per_unit": -15332.950000000004,
-          "roi": -28.050473820935938,
-          "gathered": [
-            "Mystery Meat",
+            "Sandworm Meat",
             "Raw Savage Flesh",
             "Savage Chimaera Chunks"
           ],
           "missing": []
         },
         "plan": {
-          "cost": 54662.0,
-          "profit": -15332.950000000004,
-          "profit_per_unit": -15332.950000000004,
-          "roi": -28.050473820935938,
+          "cost": 81400.0,
+          "profit": -16325.0,
+          "profit_per_unit": -16325.0,
+          "roi": -20.055282555282556,
           "gathered": [
+            "Sandworm Meat",
             "Raw Savage Flesh",
             "Savage Chimaera Chunks"
           ],
@@ -5737,8 +5599,8 @@
           "item_id": 1303721,
           "name": "Seared Savage Chimaera Meat",
           "quantity": 1,
-          "unit_cost": 36000.0,
-          "line_cost": 36000.0,
+          "unit_cost": 45000.0,
+          "line_cost": 45000.0,
           "sourced": "crafted"
         },
         {
@@ -5750,11 +5612,11 @@
           "sourced": "crafted"
         },
         {
-          "item_id": 12037,
-          "name": "Mystery Meat",
+          "item_id": 20424,
+          "name": "Sandworm Meat",
           "quantity": 2,
-          "unit_cost": 331.0,
-          "line_cost": 662.0,
+          "unit_cost": 9200.0,
+          "line_cost": 18400.0,
           "sourced": "bought"
         }
       ]
@@ -5830,39 +5692,108 @@
     },
     {
       "family": "food",
-      "product": "Fused Clear-Cut Wontons",
-      "product_id": 967528,
+      "product": "Fused Winter Roast",
+      "product_id": 967621,
       "kind": "item",
-      "sale_item_id": 967528,
+      "sale_item_id": 967621,
       "profession": "Cooking",
       "yield": 1,
-      "unit_sale_price": 38799,
+      "unit_sale_price": 11251,
       "scenarios": {
         "buy": {
-          "cost": 56448.0,
-          "profit": -19588.950000000004,
-          "profit_per_unit": -19588.950000000004,
-          "roi": -34.70264668367348,
+          "cost": 27262.0,
+          "profit": -16573.550000000003,
+          "profit_per_unit": -16573.550000000003,
+          "roi": -60.79359548088916,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 56448.0,
-          "profit": -19588.950000000004,
-          "profit_per_unit": -19588.950000000004,
-          "roi": -34.70264668367348,
+          "cost": 27262.0,
+          "profit": -16573.550000000003,
+          "profit_per_unit": -16573.550000000003,
+          "roi": -60.79359548088916,
           "gathered": [
-            "Raw Nightfin Snapper",
+            "Mystery Meat",
+            "Raw Savage Flesh",
+            "Animated Meat Chunks"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 27262.0,
+          "profit": -16573.550000000003,
+          "profit_per_unit": -16573.550000000003,
+          "roi": -60.79359548088916,
+          "gathered": [
+            "Raw Savage Flesh",
+            "Animated Meat Chunks"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303723,
+          "name": "Shadowcharred Animated Meat",
+          "quantity": 1,
+          "unit_cost": 8600.0,
+          "line_cost": 8600.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303720,
+          "name": "Cured Savage Meat",
+          "quantity": 1,
+          "unit_cost": 18000.0,
+          "line_cost": 18000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 12037,
+          "name": "Mystery Meat",
+          "quantity": 2,
+          "unit_cost": 331.0,
+          "line_cost": 662.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "food",
+      "product": "Fused Wild Roast",
+      "product_id": 967618,
+      "kind": "item",
+      "sale_item_id": 967618,
+      "profession": "Cooking",
+      "yield": 1,
+      "unit_sale_price": 41399,
+      "scenarios": {
+        "buy": {
+          "cost": 63662.0,
+          "profit": -24332.950000000004,
+          "profit_per_unit": -24332.950000000004,
+          "roi": -38.22209481323239,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 63662.0,
+          "profit": -24332.950000000004,
+          "profit_per_unit": -24332.950000000004,
+          "roi": -38.22209481323239,
+          "gathered": [
+            "Mystery Meat",
             "Raw Savage Flesh",
             "Savage Chimaera Chunks"
           ],
           "missing": []
         },
         "plan": {
-          "cost": 56448.0,
-          "profit": -19588.950000000004,
-          "profit_per_unit": -19588.950000000004,
-          "roi": -34.70264668367348,
+          "cost": 63662.0,
+          "profit": -24332.950000000004,
+          "profit_per_unit": -24332.950000000004,
+          "roi": -38.22209481323239,
           "gathered": [
             "Raw Savage Flesh",
             "Savage Chimaera Chunks"
@@ -5875,8 +5806,77 @@
           "item_id": 1303721,
           "name": "Seared Savage Chimaera Meat",
           "quantity": 1,
-          "unit_cost": 36000.0,
-          "line_cost": 36000.0,
+          "unit_cost": 45000.0,
+          "line_cost": 45000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303720,
+          "name": "Cured Savage Meat",
+          "quantity": 1,
+          "unit_cost": 18000.0,
+          "line_cost": 18000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 12037,
+          "name": "Mystery Meat",
+          "quantity": 2,
+          "unit_cost": 331.0,
+          "line_cost": 662.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "food",
+      "product": "Fused Clear-Cut Wontons",
+      "product_id": 967528,
+      "kind": "item",
+      "sale_item_id": 967528,
+      "profession": "Cooking",
+      "yield": 1,
+      "unit_sale_price": 38799,
+      "scenarios": {
+        "buy": {
+          "cost": 65448.0,
+          "profit": -28588.950000000004,
+          "profit_per_unit": -28588.950000000004,
+          "roi": -43.68193069306932,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 65448.0,
+          "profit": -28588.950000000004,
+          "profit_per_unit": -28588.950000000004,
+          "roi": -43.68193069306932,
+          "gathered": [
+            "Raw Nightfin Snapper",
+            "Raw Savage Flesh",
+            "Savage Chimaera Chunks"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 65448.0,
+          "profit": -28588.950000000004,
+          "profit_per_unit": -28588.950000000004,
+          "roi": -43.68193069306932,
+          "gathered": [
+            "Raw Savage Flesh",
+            "Savage Chimaera Chunks"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303721,
+          "name": "Seared Savage Chimaera Meat",
+          "quantity": 1,
+          "unit_cost": 45000.0,
+          "line_cost": 45000.0,
           "sourced": "crafted"
         },
         {
@@ -5899,6 +5899,76 @@
     },
     {
       "family": "food",
+      "product": "Fused Piercing Steak",
+      "product_id": 967537,
+      "kind": "item",
+      "sale_item_id": 967537,
+      "profession": "Cooking",
+      "yield": 1,
+      "unit_sale_price": 14343,
+      "scenarios": {
+        "buy": {
+          "cost": 43905.0,
+          "profit": -30279.15,
+          "profit_per_unit": -30279.15,
+          "roi": -68.96515203279809,
+          "gathered": [],
+          "missing": []
+        },
+        "gather": {
+          "cost": 43905.0,
+          "profit": -30279.15,
+          "profit_per_unit": -30279.15,
+          "roi": -68.96515203279809,
+          "gathered": [
+            "Sandworm Meat",
+            "Raw Savage Flesh",
+            "Naga Tail Chunks"
+          ],
+          "missing": []
+        },
+        "plan": {
+          "cost": 43905.0,
+          "profit": -30279.15,
+          "profit_per_unit": -30279.15,
+          "roi": -68.96515203279809,
+          "gathered": [
+            "Sandworm Meat",
+            "Raw Savage Flesh",
+            "Naga Tail Chunks"
+          ],
+          "missing": []
+        }
+      },
+      "breakdown": [
+        {
+          "item_id": 1303722,
+          "name": "Salted Naga Tail",
+          "quantity": 1,
+          "unit_cost": 7505.0,
+          "line_cost": 7505.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 1303720,
+          "name": "Cured Savage Meat",
+          "quantity": 1,
+          "unit_cost": 18000.0,
+          "line_cost": 18000.0,
+          "sourced": "crafted"
+        },
+        {
+          "item_id": 20424,
+          "name": "Sandworm Meat",
+          "quantity": 2,
+          "unit_cost": 9200.0,
+          "line_cost": 18400.0,
+          "sourced": "bought"
+        }
+      ]
+    },
+    {
+      "family": "food",
       "product": "Fused Charred Steak",
       "product_id": 967513,
       "kind": "item",
@@ -5908,18 +5978,18 @@
       "unit_sale_price": 29699,
       "scenarios": {
         "buy": {
-          "cost": 54662.0,
-          "profit": -26447.95,
-          "profit_per_unit": -26447.95,
-          "roi": -48.384526727891405,
+          "cost": 63662.0,
+          "profit": -35447.95,
+          "profit_per_unit": -35447.95,
+          "roi": -55.68148974270365,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 54662.0,
-          "profit": -26447.95,
-          "profit_per_unit": -26447.95,
-          "roi": -48.384526727891405,
+          "cost": 63662.0,
+          "profit": -35447.95,
+          "profit_per_unit": -35447.95,
+          "roi": -55.68148974270365,
           "gathered": [
             "Mystery Meat",
             "Raw Savage Flesh",
@@ -5928,10 +5998,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 54662.0,
-          "profit": -26447.95,
-          "profit_per_unit": -26447.95,
-          "roi": -48.384526727891405,
+          "cost": 63662.0,
+          "profit": -35447.95,
+          "profit_per_unit": -35447.95,
+          "roi": -55.68148974270365,
           "gathered": [
             "Raw Savage Flesh",
             "Savage Chimaera Chunks"
@@ -5944,8 +6014,8 @@
           "item_id": 1303721,
           "name": "Seared Savage Chimaera Meat",
           "quantity": 1,
-          "unit_cost": 36000.0,
-          "line_cost": 36000.0,
+          "unit_cost": 45000.0,
+          "line_cost": 45000.0,
           "sourced": "crafted"
         },
         {
@@ -5977,18 +6047,18 @@
       "unit_sale_price": 88678,
       "scenarios": {
         "buy": {
-          "cost": 111122.0,
-          "profit": -26877.90000000001,
-          "profit_per_unit": -26877.90000000001,
-          "roi": -24.18773960151906,
+          "cost": 120122.0,
+          "profit": -35877.90000000001,
+          "profit_per_unit": -35877.90000000001,
+          "roi": -29.86788431761044,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 111122.0,
-          "profit": -26877.90000000001,
-          "profit_per_unit": -26877.90000000001,
-          "roi": -24.18773960151906,
+          "cost": 120122.0,
+          "profit": -35877.90000000001,
+          "profit_per_unit": -35877.90000000001,
+          "roi": -29.86788431761044,
           "gathered": [
             "Chimaerok Tenderloin",
             "Raw Savage Flesh",
@@ -5997,10 +6067,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 111122.0,
-          "profit": -26877.90000000001,
-          "profit_per_unit": -26877.90000000001,
-          "roi": -24.18773960151906,
+          "cost": 120122.0,
+          "profit": -35877.90000000001,
+          "profit_per_unit": -35877.90000000001,
+          "roi": -29.86788431761044,
           "gathered": [
             "Raw Savage Flesh",
             "Savage Chimaera Chunks"
@@ -6013,8 +6083,8 @@
           "item_id": 1303721,
           "name": "Seared Savage Chimaera Meat",
           "quantity": 1,
-          "unit_cost": 36000.0,
-          "line_cost": 36000.0,
+          "unit_cost": 45000.0,
+          "line_cost": 45000.0,
           "sourced": "crafted"
         },
         {
@@ -6046,18 +6116,18 @@
       "unit_sale_price": 47599,
       "scenarios": {
         "buy": {
-          "cost": 72400.0,
-          "profit": -27180.950000000004,
-          "profit_per_unit": -27180.950000000004,
-          "roi": -37.542748618784536,
+          "cost": 81400.0,
+          "profit": -36180.950000000004,
+          "profit_per_unit": -36180.950000000004,
+          "roi": -44.448341523341526,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 72400.0,
-          "profit": -27180.950000000004,
-          "profit_per_unit": -27180.950000000004,
-          "roi": -37.542748618784536,
+          "cost": 81400.0,
+          "profit": -36180.950000000004,
+          "profit_per_unit": -36180.950000000004,
+          "roi": -44.448341523341526,
           "gathered": [
             "Sandworm Meat",
             "Raw Savage Flesh",
@@ -6066,10 +6136,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 72400.0,
-          "profit": -27180.950000000004,
-          "profit_per_unit": -27180.950000000004,
-          "roi": -37.542748618784536,
+          "cost": 81400.0,
+          "profit": -36180.950000000004,
+          "profit_per_unit": -36180.950000000004,
+          "roi": -44.448341523341526,
           "gathered": [
             "Sandworm Meat",
             "Raw Savage Flesh",
@@ -6083,78 +6153,8 @@
           "item_id": 1303721,
           "name": "Seared Savage Chimaera Meat",
           "quantity": 1,
-          "unit_cost": 36000.0,
-          "line_cost": 36000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 1303720,
-          "name": "Cured Savage Meat",
-          "quantity": 1,
-          "unit_cost": 18000.0,
-          "line_cost": 18000.0,
-          "sourced": "crafted"
-        },
-        {
-          "item_id": 20424,
-          "name": "Sandworm Meat",
-          "quantity": 2,
-          "unit_cost": 9200.0,
-          "line_cost": 18400.0,
-          "sourced": "bought"
-        }
-      ]
-    },
-    {
-      "family": "food",
-      "product": "Fused Piercing Steak",
-      "product_id": 967537,
-      "kind": "item",
-      "sale_item_id": 967537,
-      "profession": "Cooking",
-      "yield": 1,
-      "unit_sale_price": 14343,
-      "scenarios": {
-        "buy": {
-          "cost": 42404.0,
-          "profit": -28778.15,
-          "profit_per_unit": -28778.15,
-          "roi": -67.86659277426659,
-          "gathered": [],
-          "missing": []
-        },
-        "gather": {
-          "cost": 42404.0,
-          "profit": -28778.15,
-          "profit_per_unit": -28778.15,
-          "roi": -67.86659277426659,
-          "gathered": [
-            "Sandworm Meat",
-            "Raw Savage Flesh",
-            "Naga Tail Chunks"
-          ],
-          "missing": []
-        },
-        "plan": {
-          "cost": 42404.0,
-          "profit": -28778.15,
-          "profit_per_unit": -28778.15,
-          "roi": -67.86659277426659,
-          "gathered": [
-            "Sandworm Meat",
-            "Raw Savage Flesh",
-            "Naga Tail Chunks"
-          ],
-          "missing": []
-        }
-      },
-      "breakdown": [
-        {
-          "item_id": 1303722,
-          "name": "Salted Naga Tail",
-          "quantity": 1,
-          "unit_cost": 6004.0,
-          "line_cost": 6004.0,
+          "unit_cost": 45000.0,
+          "line_cost": 45000.0,
           "sourced": "crafted"
         },
         {
@@ -6186,18 +6186,18 @@
       "unit_sale_price": 326997,
       "scenarios": {
         "buy": {
-          "cost": 393398.0,
-          "profit": -82750.85000000003,
-          "profit_per_unit": -82750.85000000003,
-          "roi": -21.034893415828254,
+          "cost": 394693.0,
+          "profit": -84045.85000000003,
+          "profit_per_unit": -84045.85000000003,
+          "roi": -21.293980384754743,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 393398.0,
-          "profit": -82750.85000000003,
-          "profit_per_unit": -82750.85000000003,
-          "roi": -21.034893415828254,
+          "cost": 394693.0,
+          "profit": -84045.85000000003,
+          "profit_per_unit": -84045.85000000003,
+          "roi": -21.293980384754743,
           "gathered": [
             "Essence of Water",
             "Icecap",
@@ -6208,10 +6208,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 393398.0,
-          "profit": -82750.85000000003,
-          "profit_per_unit": -82750.85000000003,
-          "roi": -21.034893415828254,
+          "cost": 394693.0,
+          "profit": -84045.85000000003,
+          "profit_per_unit": -84045.85000000003,
+          "roi": -21.293980384754743,
           "gathered": [
             "Plague Blossom",
             "Blightroot",
@@ -6225,8 +6225,8 @@
           "item_id": 1303714,
           "name": "Plague Blossom",
           "quantity": 1,
-          "unit_cost": 5180.0,
-          "line_cost": 5180.0,
+          "unit_cost": 6475.0,
+          "line_cost": 6475.0,
           "sourced": "crafted"
         },
         {
@@ -6426,18 +6426,18 @@
       "unit_sale_price": 378000,
       "scenarios": {
         "buy": {
-          "cost": 551050.0,
-          "profit": -191950.0,
-          "profit_per_unit": -191950.0,
-          "roi": -34.83349968242446,
+          "cost": 552775.0,
+          "profit": -193675.0,
+          "profit_per_unit": -193675.0,
+          "roi": -35.03685948170594,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 551050.0,
-          "profit": -191950.0,
-          "profit_per_unit": -191950.0,
-          "roi": -34.83349968242446,
+          "cost": 552775.0,
+          "profit": -193675.0,
+          "profit_per_unit": -193675.0,
+          "roi": -35.03685948170594,
           "gathered": [
             "Essence of Air",
             "Sungrass",
@@ -6448,10 +6448,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 551050.0,
-          "profit": -191950.0,
-          "profit_per_unit": -191950.0,
-          "roi": -34.83349968242446,
+          "cost": 552775.0,
+          "profit": -193675.0,
+          "profit_per_unit": -193675.0,
+          "roi": -35.03685948170594,
           "gathered": [
             "Storm Brine",
             "Blightroot",
@@ -6465,8 +6465,8 @@
           "item_id": 1303712,
           "name": "Storm Brine",
           "quantity": 1,
-          "unit_cost": 6900.0,
-          "line_cost": 6900.0,
+          "unit_cost": 8625.0,
+          "line_cost": 8625.0,
           "sourced": "crafted"
         },
         {
@@ -6506,18 +6506,18 @@
       "unit_sale_price": 244000,
       "scenarios": {
         "buy": {
-          "cost": 429400.0,
-          "profit": -197600.0,
-          "profit_per_unit": -197600.0,
-          "roi": -46.017699115044245,
+          "cost": 430695.0,
+          "profit": -198895.0,
+          "profit_per_unit": -198895.0,
+          "roi": -46.18001137696049,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 429400.0,
-          "profit": -197600.0,
-          "profit_per_unit": -197600.0,
-          "roi": -46.017699115044245,
+          "cost": 430695.0,
+          "profit": -198895.0,
+          "profit_per_unit": -198895.0,
+          "roi": -46.18001137696049,
           "gathered": [
             "Essence of Fire",
             "Icecap",
@@ -6528,10 +6528,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 429400.0,
-          "profit": -197600.0,
-          "profit_per_unit": -197600.0,
-          "roi": -46.017699115044245,
+          "cost": 430695.0,
+          "profit": -198895.0,
+          "profit_per_unit": -198895.0,
+          "roi": -46.18001137696049,
           "gathered": [
             "Plague Blossom",
             "Blightroot",
@@ -6545,8 +6545,8 @@
           "item_id": 1303714,
           "name": "Plague Blossom",
           "quantity": 1,
-          "unit_cost": 5180.0,
-          "line_cost": 5180.0,
+          "unit_cost": 6475.0,
+          "line_cost": 6475.0,
           "sourced": "crafted"
         },
         {
@@ -6586,18 +6586,18 @@
       "unit_sale_price": 347000,
       "scenarios": {
         "buy": {
-          "cost": 551050.0,
-          "profit": -221400.0,
-          "profit_per_unit": -221400.0,
-          "roi": -40.17784230106161,
+          "cost": 552775.0,
+          "profit": -223125.0,
+          "profit_per_unit": -223125.0,
+          "roi": -40.36452444484645,
           "gathered": [],
           "missing": []
         },
         "gather": {
-          "cost": 551050.0,
-          "profit": -221400.0,
-          "profit_per_unit": -221400.0,
-          "roi": -40.17784230106161,
+          "cost": 552775.0,
+          "profit": -223125.0,
+          "profit_per_unit": -223125.0,
+          "roi": -40.36452444484645,
           "gathered": [
             "Essence of Air",
             "Sungrass",
@@ -6608,10 +6608,10 @@
           "missing": []
         },
         "plan": {
-          "cost": 551050.0,
-          "profit": -221400.0,
-          "profit_per_unit": -221400.0,
-          "roi": -40.17784230106161,
+          "cost": 552775.0,
+          "profit": -223125.0,
+          "profit_per_unit": -223125.0,
+          "roi": -40.36452444484645,
           "gathered": [
             "Storm Brine",
             "Blightroot",
@@ -6625,8 +6625,8 @@
           "item_id": 1303712,
           "name": "Storm Brine",
           "quantity": 1,
-          "unit_cost": 6900.0,
-          "line_cost": 6900.0,
+          "unit_cost": 8625.0,
+          "line_cost": 8625.0,
           "sourced": "crafted"
         },
         {

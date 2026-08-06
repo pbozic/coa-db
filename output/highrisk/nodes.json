@@ -12457,7 +12457,8 @@
         "method": null,
         "recipe_item_id": 967477,
         "recipe_item_name": "Recipe: Distilled Flask of Manifesting Power",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "flask",
@@ -12521,7 +12522,8 @@
         "method": null,
         "recipe_item_id": 967480,
         "recipe_item_name": "Recipe: Distilled Flask of the Warsong",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "flask",
@@ -12585,7 +12587,8 @@
         "method": null,
         "recipe_item_id": 967483,
         "recipe_item_name": "Recipe: Distilled Flask of the Kirin Tor",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "flask",
@@ -12649,7 +12652,8 @@
         "method": null,
         "recipe_item_id": 967486,
         "recipe_item_name": "Recipe: Distilled Flask of Butchery",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "flask",
@@ -12713,7 +12717,8 @@
         "method": null,
         "recipe_item_id": 967489,
         "recipe_item_name": "Recipe: Distilled Flask of the Unyielding",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "flask",
@@ -12777,7 +12782,8 @@
         "method": null,
         "recipe_item_id": 967492,
         "recipe_item_name": "Recipe: Distilled Flask of Unrelenting Power",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "flask",
@@ -12841,7 +12847,8 @@
         "method": null,
         "recipe_item_id": 967495,
         "recipe_item_name": "Recipe: Distilled Flask of Savage Assault",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "flask",
@@ -12905,7 +12912,8 @@
         "method": null,
         "recipe_item_id": 967498,
         "recipe_item_name": "Recipe: Distilled Flask of Shattering Thunder",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "flask",
@@ -12969,7 +12977,8 @@
         "method": null,
         "recipe_item_id": 967501,
         "recipe_item_name": "Recipe: Distilled Flask of the Executioner",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "flask",
@@ -13033,7 +13042,8 @@
         "method": null,
         "recipe_item_id": 967504,
         "recipe_item_name": "Recipe: Distilled Flask of Deep Meditation",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "flask",
@@ -13097,7 +13107,8 @@
         "method": null,
         "recipe_item_id": 967507,
         "recipe_item_name": "Recipe: Distilled Flask of Adept Striking",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "flask",
@@ -13157,7 +13168,8 @@
         "method": null,
         "recipe_item_id": 967321,
         "recipe_item_name": "Recipe: Fused Living Soup",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13217,7 +13229,8 @@
         "method": null,
         "recipe_item_id": 967324,
         "recipe_item_name": "Recipe: Fused Charred Steak",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13277,7 +13290,8 @@
         "method": null,
         "recipe_item_id": 967327,
         "recipe_item_name": "Recipe: Fused Steamed Wontons",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13337,7 +13351,8 @@
         "method": null,
         "recipe_item_id": 967330,
         "recipe_item_name": "Recipe: Fused Air Fried Chops",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13397,7 +13412,8 @@
         "method": null,
         "recipe_item_id": 967333,
         "recipe_item_name": "Recipe: Fused Rock's Stew",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13457,7 +13473,8 @@
         "method": null,
         "recipe_item_id": 967336,
         "recipe_item_name": "Recipe: Fused Clear-Cut Chops",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13517,7 +13534,8 @@
         "method": null,
         "recipe_item_id": 967339,
         "recipe_item_name": "Recipe: Fused Clear-Cut Wontons",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13577,7 +13595,8 @@
         "method": null,
         "recipe_item_id": 967342,
         "recipe_item_name": "Recipe: Fused Clear-Cut Steak",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13637,7 +13656,8 @@
         "method": null,
         "recipe_item_id": 967345,
         "recipe_item_name": "Recipe: Fused Piercing Chops",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13697,7 +13717,8 @@
         "method": null,
         "recipe_item_id": 967348,
         "recipe_item_name": "Recipe: Fused Piercing Steak",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13757,7 +13778,8 @@
         "method": null,
         "recipe_item_id": 967351,
         "recipe_item_name": "Recipe: Fused Seared Wontons",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13817,7 +13839,8 @@
         "method": null,
         "recipe_item_id": 967354,
         "recipe_item_name": "Recipe: Fused Seared Chops",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13881,7 +13904,8 @@
         "method": null,
         "recipe_item_id": 967357,
         "recipe_item_name": "Recipe: Fused Savory Stew",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -13945,7 +13969,8 @@
         "method": null,
         "recipe_item_id": 967360,
         "recipe_item_name": "Recipe: Fused Savory Chops",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14009,7 +14034,8 @@
         "method": null,
         "recipe_item_id": 967363,
         "recipe_item_name": "Recipe: Fused Savory Steak",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14073,7 +14099,8 @@
         "method": null,
         "recipe_item_id": 967366,
         "recipe_item_name": "Recipe: Fused Savory Wontons",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14133,7 +14160,8 @@
         "method": null,
         "recipe_item_id": 967369,
         "recipe_item_name": "Recipe: Fused Red-Hot Stew",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14197,7 +14225,8 @@
         "method": null,
         "recipe_item_id": 967372,
         "recipe_item_name": "Recipe: Fused Blazing Stew",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14257,7 +14286,8 @@
         "method": null,
         "recipe_item_id": 967375,
         "recipe_item_name": "Recipe: Fused Duck Stew",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14317,7 +14347,8 @@
         "method": null,
         "recipe_item_id": 967378,
         "recipe_item_name": "Recipe: Fused Chunky Stew",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14377,7 +14408,8 @@
         "method": null,
         "recipe_item_id": 967381,
         "recipe_item_name": "Recipe: Fused Simmered Stew",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14437,7 +14469,8 @@
         "method": null,
         "recipe_item_id": 967384,
         "recipe_item_name": "Recipe: Fused Wizard Wontons",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14497,7 +14530,8 @@
         "method": null,
         "recipe_item_id": 967387,
         "recipe_item_name": "Recipe: Fused Wizard Soup",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14561,7 +14595,8 @@
         "method": null,
         "recipe_item_id": 967390,
         "recipe_item_name": "Recipe: Fused Heightened Wontons",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14621,7 +14656,8 @@
         "method": null,
         "recipe_item_id": 967393,
         "recipe_item_name": "Recipe: Fused Hearty Living Soup",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14681,7 +14717,8 @@
         "method": null,
         "recipe_item_id": 967396,
         "recipe_item_name": "Recipe: Fused Hearty Air Fried Chops",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14741,7 +14778,8 @@
         "method": null,
         "recipe_item_id": 967399,
         "recipe_item_name": "Recipe: Fused Hearty Charred Steak",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14801,7 +14839,8 @@
         "method": null,
         "recipe_item_id": 967402,
         "recipe_item_name": "Recipe: Fused Hearty Steamed Wontons",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14865,7 +14904,8 @@
         "method": null,
         "recipe_item_id": 967405,
         "recipe_item_name": "Recipe: Fused Vibrant Chops",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14925,7 +14965,8 @@
         "method": null,
         "recipe_item_id": 967408,
         "recipe_item_name": "Recipe: Fused Subtle Chops",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -14985,7 +15026,8 @@
         "method": null,
         "recipe_item_id": 967411,
         "recipe_item_name": "Recipe: Fused Subtle Steak",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -15045,7 +15087,8 @@
         "method": null,
         "recipe_item_id": 967414,
         "recipe_item_name": "Recipe: Fused Subtle Wontons",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -15105,7 +15148,8 @@
         "method": null,
         "recipe_item_id": 967417,
         "recipe_item_name": "Recipe: Fused Subtle Soup",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -15165,7 +15209,8 @@
         "method": null,
         "recipe_item_id": 967420,
         "recipe_item_name": "Recipe: Fused Bold Stew",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -15225,7 +15270,8 @@
         "method": null,
         "recipe_item_id": 967423,
         "recipe_item_name": "Recipe: Fused Mana Imbued Roast",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -15285,7 +15331,8 @@
         "method": null,
         "recipe_item_id": 967426,
         "recipe_item_name": "Recipe: Fused Sizzling Roast",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -15345,7 +15392,8 @@
         "method": null,
         "recipe_item_id": 967429,
         "recipe_item_name": "Recipe: Fused Wild Roast",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -15405,7 +15453,8 @@
         "method": null,
         "recipe_item_id": 967432,
         "recipe_item_name": "Recipe: Fused Winter Roast",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -15465,7 +15514,8 @@
         "method": null,
         "recipe_item_id": 967435,
         "recipe_item_name": "Recipe: Fused Blackened Roast",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -15525,7 +15575,8 @@
         "method": null,
         "recipe_item_id": 967438,
         "recipe_item_name": "Recipe: Fused Bold Simmered Stew",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -15585,7 +15636,8 @@
         "method": null,
         "recipe_item_id": 967441,
         "recipe_item_name": "Recipe: Fused Bold Duck Stew",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "food",
@@ -15769,14 +15821,15 @@
         "reagents": [
           [
             1303734,
-            4
+            5
           ]
         ],
         "station": "Sanguine Workbench",
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -15823,7 +15876,8 @@
         "method": "Refined into Hell Dust at the Hellish Altar. Requires High-Risk.",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -15869,7 +15923,8 @@
         "method": "Refined into Animated Bone Dust at the Altar of Bones. Requires High-Risk.",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -15917,7 +15972,8 @@
         "method": "Refined into Essence of Twilight at the Unearthed Ancient Altar. Requires High-Risk.",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -15963,7 +16019,8 @@
         "method": "Refined into Blightroot Exract at the Sanguine Workbench",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -16009,7 +16066,8 @@
         "method": "Feed to a Carnivorous Clam to collect its Storm Brine. Requires High-Risk.",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -16056,7 +16114,8 @@
         "method": "Fertilize a Lava Bloom to collect its Fiery Frond. Requires High-Risk.",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -16103,7 +16162,8 @@
         "method": "Feed to a Ravenous Scourgethorn to collect a Plague Blossom. Requires High-Risk.",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -16150,7 +16210,8 @@
         "method": "Water an Ancient Elven Grave to cultivate a Spectral Rose. Requires High-Risk.",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -16197,7 +16258,8 @@
         "method": "Refined into Cured Savage Meat at the Sanguine Workbench",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -16243,7 +16305,8 @@
         "method": "Refined into Seared Savage Chimaera Meat at the Arcane Firepit. Requires High-Risk.",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -16289,7 +16352,8 @@
         "method": "Refined into Salted Naga Tail at the Altar of the Sea God. Requires High-Risk.",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -16335,7 +16399,8 @@
         "method": "Refined into Shadowcharred Animated Meat at the Shadowflame Cookfire. Requires High-Risk.",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -16381,7 +16446,8 @@
         "method": "Refined into Scorched Silithid Meat at the Elementium Cookfire. Requires High-Risk.",
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": false,
       "family": "material",
@@ -16454,14 +16520,15 @@
         "reagents": [
           [
             1303759,
-            4
+            5
           ]
         ],
         "station": null,
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -16703,14 +16770,15 @@
         "reagents": [
           [
             1303760,
-            4
+            5
           ]
         ],
         "station": null,
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -16903,14 +16971,15 @@
         "reagents": [
           [
             1303761,
-            4
+            5
           ]
         ],
         "station": null,
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -17215,14 +17284,15 @@
         "reagents": [
           [
             1303762,
-            4
+            5
           ]
         ],
         "station": null,
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -17338,14 +17408,15 @@
         "reagents": [
           [
             1303763,
-            4
+            5
           ]
         ],
         "station": null,
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -17525,14 +17596,15 @@
         "reagents": [
           [
             1303764,
-            4
+            5
           ]
         ],
         "station": null,
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -18076,14 +18148,15 @@
         "reagents": [
           [
             1303765,
-            4
+            5
           ]
         ],
         "station": null,
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -19150,14 +19223,15 @@
         "reagents": [
           [
             1303771,
-            4
+            5
           ]
         ],
         "station": null,
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -19302,14 +19376,15 @@
         "reagents": [
           [
             1303772,
-            4
+            5
           ]
         ],
         "station": null,
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -19566,14 +19641,15 @@
         "reagents": [
           [
             1303773,
-            4
+            5
           ]
         ],
         "station": null,
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -19753,14 +19829,15 @@
         "reagents": [
           [
             1303774,
-            4
+            5
           ]
         ],
         "station": null,
         "method": null,
         "recipe_item_id": null,
         "recipe_item_name": null,
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
       },
       "is_seed": false,
       "family": "material",
@@ -21797,7 +21874,8 @@
         "method": null,
         "recipe_item_id": 967731,
         "recipe_item_name": "Recipe: Enchant Weapon - Unstoppable Assault",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "enchant",
@@ -21862,7 +21940,8 @@
         "method": null,
         "recipe_item_id": 967734,
         "recipe_item_name": "Recipe: Enchant Weapon - Lucid Assault",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "enchant",
@@ -21927,7 +22006,8 @@
         "method": null,
         "recipe_item_id": 967737,
         "recipe_item_name": "Recipe: Enchant Weapon - Spellbinder's Rage",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "enchant",
@@ -21992,7 +22072,8 @@
         "method": null,
         "recipe_item_id": 967740,
         "recipe_item_name": "Recipe: Enchant Weapon - Ninja's Focus",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "enchant",
@@ -22057,7 +22138,8 @@
         "method": null,
         "recipe_item_id": 967743,
         "recipe_item_name": "Recipe: Enchant Weapon - Grovewarden's Blessing",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "enchant",
@@ -22122,7 +22204,8 @@
         "method": null,
         "recipe_item_id": 967746,
         "recipe_item_name": "Recipe: Enchant Weapon - Viscious Assault",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "enchant",
@@ -22187,7 +22270,8 @@
         "method": null,
         "recipe_item_id": 967749,
         "recipe_item_name": "Recipe: Enchant Weapon - Arcane Dexterity",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "enchant",
@@ -22252,7 +22336,8 @@
         "method": null,
         "recipe_item_id": 967752,
         "recipe_item_name": "Recipe: Enchant Weapon - Arcane Artillery",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "enchant",
@@ -22317,7 +22402,8 @@
         "method": null,
         "recipe_item_id": 967755,
         "recipe_item_name": "Recipe: Enchant Weapon - Arcane Precision",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "enchant",
@@ -22382,7 +22468,8 @@
         "method": null,
         "recipe_item_id": 967789,
         "recipe_item_name": "Recipe: Enchant Weapon - Brutal Crusader",
-        "reagents_resolved": true
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
       },
       "is_seed": true,
       "family": "enchant",

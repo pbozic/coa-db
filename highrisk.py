@@ -90,6 +90,8 @@ SCROLL_PREFIX = "Scroll of Enchant Weapon - "
 RECIPE_ITEM_RE = re.compile(r"^(Recipe|Formula|Plans|Pattern|Schematic|Technique|Design):\s*(.+)$")
 STATION_RE = re.compile(r"Requires \[url=\?object=(\d+)\]([^\]]+)\[/url\]")
 REFINED_RE = re.compile(r"Use:\s*(.+?)\s+at the\s+(.+?)$", re.M)
+# "Combine 5 to create an Ancient Tear" / "Refine 5 of these into a Profane Shard"
+STATED_COUNT_RE = re.compile(r"\b(?:Combine|Refine)\s+(\d+)\b", re.I)
 
 SOURCE_LISTVIEWS = {
     "sold-by-npc": "vendor",
@@ -127,6 +129,9 @@ class Craft:
     recipe_item_id: int | None = None
     recipe_item_name: str | None = None
     reagents_resolved: bool = True
+    # True when the quantity came from the tooltip rather than the reagent list,
+    # because the two disagree on refines.
+    counted_from_tooltip: bool = False
 
 
 @dataclass
@@ -506,6 +511,19 @@ class Harvester:
                 craft.recipe_item_id = int(ent_id)
                 craft.recipe_item_name = meta["name_enus"]
                 break
+
+        # The reagent list undercounts a refine by one: using the item consumes
+        # it as well, so "Combine 5" costs five, not the four listed. The spell's
+        # own tooltip states the real total, and it agrees with the game.
+        stated = STATED_COUNT_RE.search(entity.tooltip_text.replace("\n", " "))
+        if stated and len(craft.reagents) == 1:
+            total = int(stated.group(1))
+            listed = craft.reagents[0][1]
+            if total != listed:
+                craft.reagents[0][1] = total
+                craft.counted_from_tooltip = True
+                LOG.debug("%s: reagent count %d -> %d from tooltip",
+                          craft.spell_name, listed, total)
 
         if craft.reagents:
             return
