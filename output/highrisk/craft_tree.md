@@ -637,3 +637,71 @@ materials are expanded to their own source.
     - 2x Turtle Meat  _(drop, container, quest objective)_
     > Use: Restores 2148 health over 30 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 10% Increased Threat Generation and 12 (0.87% @ L60) Dodge Rating. Lasts for 1 hr
     > Learned from: Recipe: Fused Bold Duck Stew
+
+## Blacksmithing - Belt Buckles (6)
+
+- Roguish Belt Buckle  _(Blacksmithing 300)_
+    - 1x Plague Iron  _(Refined into Cleansed Plague Iron at the Blessed Forge. Requires High-Risk.)_
+        - 1x Abomination Hook  _(recipe)_
+            - 5x Shattered Abomination Hook  _(drop)_
+    - 1x Homicite Bar  _(Refined into Homicite Bar at the Sanguine Workbench)_
+        - 1x Homicite Ore  _(container)_
+    - 3x Star Ruby  _(drop, container, object, quest objective, prospecting)_
+    - 5x Essence of Air  _(drop, container, quest objective, crafted)_
+    > Use: Permanently adds 6 Agility to a belt item.
+    > Learned from: Plans: Roguish Belt Buckle
+
+- Dancing Belt Buckle  _(Blacksmithing 300)_
+    - 1x Wintersteel  _(Refined into Wintersteel at the Forge of Ice. Requires High-Risk.)_
+        - 1x Frozen Frostmaul Heart  _(recipe)_
+            - 5x Broken Frostmaul Heart
+    - 1x Homicite Bar  _(Refined into Homicite Bar at the Sanguine Workbench)_
+        - 1x Homicite Ore  _(container)_
+    - 3x Huge Emerald  _(drop, container, object, quest objective, prospecting)_
+    - 5x Living Essence  _(drop, quest objective, crafted)_
+    > Use: Permanently adds 8 (0.64% @ L55) Dodge Rating to a belt item.
+    > Learned from: Plans: Dancing Belt Buckle
+
+- Magus Belt Buckle  _(Blacksmithing 300)_
+    - 1x Wintersteel  _(Refined into Wintersteel at the Forge of Ice. Requires High-Risk.)_
+        - 1x Frozen Frostmaul Heart  _(recipe)_
+            - 5x Broken Frostmaul Heart
+    - 1x Homicite Bar  _(Refined into Homicite Bar at the Sanguine Workbench)_
+        - 1x Homicite Ore  _(container)_
+    - 3x Large Opal  _(drop, container, object, quest objective, prospecting)_
+    - 5x Essence of Water  _(drop, container, quest objective, crafted)_
+    > Use: Permanently adds 10 Intellect to a belt item.
+    > Learned from: Plans: Magus Belt Buckle
+
+- Cleric's Belt Buckle  _(Blacksmithing 300)_
+    - 1x Plague Iron  _(Refined into Cleansed Plague Iron at the Blessed Forge. Requires High-Risk.)_
+        - 1x Abomination Hook  _(recipe)_
+            - 5x Shattered Abomination Hook  _(drop)_
+    - 1x Homicite Bar  _(Refined into Homicite Bar at the Sanguine Workbench)_
+        - 1x Homicite Ore  _(container)_
+    - 3x Blue Sapphire  _(drop, container, object, quest objective, prospecting)_
+    - 5x Living Essence  _(drop, quest objective, crafted)_
+    > Use: Permanently adds 8 Spirit to a belt item.
+    > Learned from: Plans: Cleric's Belt Buckle
+
+- Warlord's Belt Buckle  _(Blacksmithing 300)_
+    - 1x Ebon Dragonsteel  _(Refined into Ebon Dragonsteel at the Thaurissan War Forge. Requires High-Risk.)_
+        - 1x Drakesteel Scraps  _(recipe)_
+            - 5x Impure Drakesteel Scraps  _(drop)_
+    - 1x Homicite Bar  _(Refined into Homicite Bar at the Sanguine Workbench)_
+        - 1x Homicite Ore  _(container)_
+    - 5x Black Diamond  _(drop, quest objective)_
+    - 5x Essence of Fire  _(drop, container, quest objective, crafted)_
+    > Use: Permanently adds 6 Strength to a belt item.
+    > Learned from: Plans: Warlord's Belt Buckle
+
+- Guardman's Belt Buckle  _(Blacksmithing 300)_
+    - 1x Ebon Dragonsteel  _(Refined into Ebon Dragonsteel at the Thaurissan War Forge. Requires High-Risk.)_
+        - 1x Drakesteel Scraps  _(recipe)_
+            - 5x Impure Drakesteel Scraps  _(drop)_
+    - 1x Homicite Bar  _(Refined into Homicite Bar at the Sanguine Workbench)_
+        - 1x Homicite Ore  _(container)_
+    - 20x Dense Stone  _(drop, container, quest objective)_
+    - 5x Living Essence  _(drop, quest objective, crafted)_
+    > Use: Permanently adds 10 Block Value to a belt item.
+    > Learned from: Plans: Guardman's Belt Buckle

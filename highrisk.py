@@ -76,6 +76,11 @@ HIGH_RISK_ENCHANTS = [
     "Enchant Weapon - Brutal Crusader",
 ]
 
+# Blacksmithing belt buckles, given by item id rather than name because the
+# range also holds a "Mastercraft" tier and two more base buckles (Mountainous
+# 967173, Deflecting 967176) that are deliberately out of scope.
+BUCKLE_ITEM_IDS = [967179, 967182, 967185, 967188, 967191, 967194]
+
 # The Cooking list spans four AtlasLoot pages; the whole "Fused ..." family is
 # taken from the Food & Drink listing instead of transcribing pages that scroll
 # off screen.  They occupy one contiguous ID block (967510-967630).
@@ -304,6 +309,11 @@ class Harvester:
             self.nodes[("spell", node.node_id)] = node
             seeds.append(node)
 
+        for item_id in BUCKLE_ITEM_IDS:
+            node = self._seed_by_id(item_id, "buckle")
+            if node is not None:
+                seeds.append(node)
+
         self._attach_enchant_scrolls(seeds)
         for node in seeds:
             if node.kind == "item" and node.sale_item_id is None:
@@ -340,6 +350,20 @@ class Harvester:
             if node.sale_item_id is None:
                 node.warnings.append("no tradeable scroll item found")
                 LOG.warning("No scroll item for %s", name)
+
+    def _seed_by_id(self, item_id: int, family: str) -> Node | None:
+        """Seed straight from an item page, for families given as ids."""
+        try:
+            entity = aowow.fetch_entity(self.client, item_id, "item")
+        except Exception as exc:
+            LOG.error("seed item %s unavailable: %s", item_id, exc)
+            return None
+        self.remember_names(entity)
+        node = Node(node_id=item_id, kind="item", name=entity.name,
+                    quality=entity.quality, icon=entity.icon, is_seed=True,
+                    family=family, is_custom=is_custom_item(item_id))
+        self.nodes[("item", item_id)] = node
+        return node
 
     def _seed_item(self, row: dict, family: str) -> Node:
         name, quality = aowow.strip_name_prefix(row["name"])
@@ -735,7 +759,8 @@ def write_outputs(harvester: Harvester, seeds: list[Node], out_dir: Path) -> Non
     ]
     for family, title in (("flask", "Alchemy - Distilled Flasks"),
                           ("enchant", "Enchanting - High Risk Weapon Enchants"),
-                          ("food", "Cooking - Fused Foods")):
+                          ("food", "Cooking - Fused Foods"),
+                          ("buckle", "Blacksmithing - Belt Buckles")):
         members = [n for n in seeds if n.family == family]
         if not members:
             continue
@@ -802,10 +827,11 @@ def main() -> int:
 
     LOG.info("Resolving seed recipes...")
     seeds = harvester.resolve_seeds()
-    LOG.info("Seeds: %d flasks, %d enchants, %d foods",
+    LOG.info("Seeds: %d flasks, %d enchants, %d foods, %d buckles",
              sum(n.family == "flask" for n in seeds),
              sum(n.family == "enchant" for n in seeds),
-             sum(n.family == "food" for n in seeds))
+             sum(n.family == "food" for n in seeds),
+             sum(n.family == "buckle" for n in seeds))
 
     LOG.info("Expanding reagent trees...")
     harvester.expand(seeds)

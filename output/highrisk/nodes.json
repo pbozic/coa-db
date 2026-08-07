@@ -1,7 +1,7 @@
 {
   "source": "https://db.ascension.gg/",
   "scope": "AtlasLoot Ascension Edition -> Crafting -> High Risk (Classic)",
-  "seed_count": 62,
+  "seed_count": 68,
   "nodes": [
     {
       "node_id": 3712,
@@ -3230,6 +3230,866 @@
       "warnings": []
     },
     {
+      "node_id": 7910,
+      "kind": "item",
+      "name": "Star Ruby",
+      "quality": 2,
+      "icon": "inv_sword_04",
+      "tooltip": "Star Ruby\nSell Price: 33 33",
+      "effect": "",
+      "craft": null,
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "drop",
+        "container",
+        "object",
+        "quest objective",
+        "prospecting"
+      ],
+      "is_custom": false,
+      "missing_from_db": false,
+      "drops": [
+        {
+          "npc_id": 8203,
+          "npc": "Kregg Keelhaul",
+          "min_level": 47,
+          "max_level": 47,
+          "percent": 100,
+          "elite": true,
+          "zones": [
+            "Tanaris"
+          ]
+        },
+        {
+          "npc_id": 10475,
+          "npc": "Scholomance Student",
+          "min_level": 56,
+          "max_level": 56,
+          "percent": 7.692,
+          "elite": false,
+          "zones": [
+            "Scholomance"
+          ]
+        },
+        {
+          "npc_id": 12497,
+          "npc": "Dreamroarer",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 6.061,
+          "elite": true,
+          "zones": [
+            "Feralas"
+          ]
+        },
+        {
+          "npc_id": 9397,
+          "npc": "Living Storm",
+          "min_level": 47,
+          "max_level": 49,
+          "percent": 5.561,
+          "elite": false,
+          "zones": [
+            "Tanaris"
+          ]
+        },
+        {
+          "npc_id": 255335,
+          "npc": "Cerulis",
+          "min_level": 50,
+          "max_level": 50,
+          "percent": 5.561,
+          "elite": true,
+          "zones": [
+            "Tanaris"
+          ]
+        },
+        {
+          "npc_id": 255336,
+          "npc": "Living Storm",
+          "min_level": 47,
+          "max_level": 49,
+          "percent": 5.561,
+          "elite": false,
+          "zones": [
+            "Tanaris"
+          ]
+        },
+        {
+          "npc_id": 255524,
+          "npc": "Air Elemental",
+          "min_level": 47,
+          "max_level": 47,
+          "percent": 5.561,
+          "elite": false,
+          "zones": [
+            "Feralas"
+          ]
+        },
+        {
+          "npc_id": 5718,
+          "npc": "Rothos",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 4,
+          "elite": true,
+          "zones": [
+            "The Hinterlands"
+          ]
+        },
+        {
+          "npc_id": 11658,
+          "npc": "Molten Giant",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11659,
+          "npc": "Molten Destroyer",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 111658,
+          "npc": "Molten Giant - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 111659,
+          "npc": "Molten Destroyer - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211658,
+          "npc": "Molten Giant - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211659,
+          "npc": "Molten Destroyer - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311658,
+          "npc": "Molten Giant - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311659,
+          "npc": "Molten Destroyer - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 14472,
+          "npc": "Gretheer",
+          "min_level": 57,
+          "max_level": 57,
+          "percent": 2.703,
+          "elite": true,
+          "zones": [
+            "Silithus"
+          ]
+        },
+        {
+          "npc_id": 12496,
+          "npc": "Dreamtracker",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.632,
+          "elite": true,
+          "zones": [
+            "The Hinterlands"
+          ]
+        },
+        {
+          "npc_id": 8198,
+          "npc": "Tick",
+          "min_level": 52,
+          "max_level": 52,
+          "percent": 2.451,
+          "elite": true,
+          "zones": [
+            "Tanaris"
+          ]
+        },
+        {
+          "npc_id": 6584,
+          "npc": "King Mosh",
+          "min_level": 60,
+          "max_level": 60,
+          "percent": 2.271,
+          "elite": true,
+          "zones": [
+            "Un'Goro Crater"
+          ]
+        },
+        {
+          "npc_id": 80500,
+          "npc": "Son of Anzu",
+          "min_level": 60,
+          "max_level": 60,
+          "percent": 2.271,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 12498,
+          "npc": "Dreamstalker",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.222,
+          "elite": true,
+          "zones": [
+            "Ashenvale"
+          ]
+        },
+        {
+          "npc_id": 14464,
+          "npc": "Avalanchion",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.143,
+          "elite": true,
+          "zones": [
+            "Azshara"
+          ]
+        },
+        {
+          "npc_id": 598,
+          "npc": "Defias Miner",
+          "min_level": 17,
+          "max_level": 18,
+          "percent": 2.083,
+          "elite": false,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 1731,
+          "npc": "Goblin Craftsman",
+          "min_level": 18,
+          "max_level": 19,
+          "percent": 2.083,
+          "elite": true,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 4416,
+          "npc": "Defias Strip Miner",
+          "min_level": 18,
+          "max_level": 19,
+          "percent": 2.083,
+          "elite": false,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 11321,
+          "npc": "Molten Elemental",
+          "min_level": 13,
+          "max_level": 13,
+          "percent": 2.083,
+          "elite": true,
+          "zones": [
+            "Ragefire Chasm"
+          ]
+        },
+        {
+          "npc_id": 10201,
+          "npc": "Lady Hederine",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2,
+          "elite": true,
+          "zones": [
+            "Winterspring"
+          ]
+        },
+        {
+          "npc_id": 84234,
+          "npc": "Akaariel",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2,
+          "elite": true,
+          "zones": [
+            "Zone 0"
+          ]
+        },
+        {
+          "npc_id": 2601,
+          "npc": "Foulbelly",
+          "min_level": 42,
+          "max_level": 42,
+          "percent": 1.9,
+          "elite": true,
+          "zones": [
+            "Arathi Highlands"
+          ]
+        },
+        {
+          "npc_id": 8197,
+          "npc": "Chronalis",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 1.621,
+          "elite": true,
+          "zones": [
+            "Tanaris"
+          ]
+        },
+        {
+          "npc_id": 8277,
+          "npc": "Rekk'tilac",
+          "min_level": 48,
+          "max_level": 48,
+          "percent": 1.611,
+          "elite": true,
+          "zones": [
+            "Searing Gorge"
+          ]
+        },
+        {
+          "npc_id": 2759,
+          "npc": "Hematus",
+          "min_level": 50,
+          "max_level": 50,
+          "percent": 1.44,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 10807,
+          "npc": "Brumeran",
+          "min_level": 58,
+          "max_level": 58,
+          "percent": 1.431,
+          "elite": true,
+          "zones": [
+            "Winterspring"
+          ]
+        },
+        {
+          "npc_id": 8924,
+          "npc": "The Behemoth",
+          "min_level": 50,
+          "max_level": 50,
+          "percent": 1.32,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 15204,
+          "npc": "High Marshal Whirlaxis",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 1.282,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 14474,
+          "npc": "Zora",
+          "min_level": 59,
+          "max_level": 59,
+          "percent": 1.28,
+          "elite": true,
+          "zones": [
+            "Silithus"
+          ]
+        },
+        {
+          "npc_id": 2757,
+          "npc": "Blacklash",
+          "min_level": 50,
+          "max_level": 50,
+          "percent": 1.22,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 8297,
+          "npc": "Magronos the Unyielding",
+          "min_level": 56,
+          "max_level": 56,
+          "percent": 1.12,
+          "elite": true,
+          "zones": [
+            "Blasted Lands"
+          ]
+        },
+        {
+          "npc_id": 10737,
+          "npc": "Shy-Rotam",
+          "min_level": 60,
+          "max_level": 60,
+          "percent": 1.12,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 10120,
+          "npc": "Vault Warder",
+          "min_level": 39,
+          "max_level": 39,
+          "percent": 1.101,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 110120,
+          "npc": "Vault Warder - Heroic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 1.099,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 210120,
+          "npc": "Vault Warder - Mythic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 1.099,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 10200,
+          "npc": "Rak'shiri",
+          "min_level": 57,
+          "max_level": 57,
+          "percent": 1.031,
+          "elite": true,
+          "zones": [
+            "Winterspring"
+          ]
+        },
+        {
+          "npc_id": 14461,
+          "npc": "Baron Charr",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 1.02,
+          "elite": true,
+          "zones": [
+            "Un'Goro Crater"
+          ]
+        },
+        {
+          "npc_id": 12124,
+          "npc": "Great Shark",
+          "min_level": 51,
+          "max_level": 52,
+          "percent": 0.94,
+          "elite": true,
+          "zones": [
+            "The Hinterlands",
+            "Tanaris"
+          ]
+        },
+        {
+          "npc_id": 10202,
+          "npc": "Azurous",
+          "min_level": 59,
+          "max_level": 59,
+          "percent": 0.86,
+          "elite": true,
+          "zones": [
+            "Winterspring"
+          ]
+        },
+        {
+          "npc_id": 80198,
+          "npc": "Blue Drake",
+          "min_level": 59,
+          "max_level": 59,
+          "percent": 0.86,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 5225,
+          "npc": "Murk Spitter",
+          "min_level": 46,
+          "max_level": 46,
+          "percent": 0.851,
+          "elite": false,
+          "zones": [
+            "Swamp of Sorrows"
+          ]
+        },
+        {
+          "npc_id": 7135,
+          "npc": "Infernal Bodyguard",
+          "min_level": 53,
+          "max_level": 54,
+          "percent": 0.841,
+          "elite": false,
+          "zones": [
+            "Felwood"
+          ]
+        },
+        {
+          "npc_id": 5224,
+          "npc": "Murk Slitherer",
+          "min_level": 45,
+          "max_level": 45,
+          "percent": 0.801,
+          "elite": true,
+          "zones": [
+            "Swamp of Sorrows"
+          ]
+        },
+        {
+          "npc_id": 5276,
+          "npc": "Sprite Dragon",
+          "min_level": 47,
+          "max_level": 50,
+          "percent": 0.801,
+          "elite": false,
+          "zones": [
+            "Feralas"
+          ]
+        },
+        {
+          "npc_id": 10678,
+          "npc": "Plagued Hatchling",
+          "min_level": 56,
+          "max_level": 56,
+          "percent": 0.801,
+          "elite": true,
+          "zones": [
+            "Scholomance"
+          ]
+        },
+        {
+          "npc_id": 210678,
+          "npc": "Plagued Hatchling - Mythic",
+          "min_level": 60,
+          "max_level": 60,
+          "percent": 0.798,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 310678,
+          "npc": "Plagued Hatchling - Ascended",
+          "min_level": 60,
+          "max_level": 60,
+          "percent": 0.798,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 6499,
+          "npc": "Ironhide Devilsaur",
+          "min_level": 54,
+          "max_level": 56,
+          "percent": 0.791,
+          "elite": true,
+          "zones": [
+            "Un'Goro Crater"
+          ]
+        },
+        {
+          "npc_id": 10664,
+          "npc": "Scryer",
+          "min_level": 60,
+          "max_level": 60,
+          "percent": 0.78,
+          "elite": true,
+          "zones": [
+            "Winterspring"
+          ]
+        },
+        {
+          "npc_id": 8976,
+          "npc": "Hematos",
+          "min_level": 60,
+          "max_level": 60,
+          "percent": 0.74,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 13323,
+          "npc": "Subterranean Diemetradon",
+          "min_level": 46,
+          "max_level": 46,
+          "percent": 0.739,
+          "elite": true,
+          "zones": [
+            "Maraudon"
+          ]
+        },
+        {
+          "npc_id": 113323,
+          "npc": "Subterranean Diemetradon - Heroic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 0.739,
+          "elite": true,
+          "zones": []
+        }
+      ],
+      "zone_sources": [
+        {
+          "zone": "Tanaris",
+          "percent": 100,
+          "level": 47,
+          "npc": "Kregg Keelhaul",
+          "npcs": 7,
+          "elite": true,
+          "score": 14.586
+        },
+        {
+          "zone": "Scholomance",
+          "percent": 7.692,
+          "level": 56,
+          "npc": "Scholomance Student",
+          "npcs": 2,
+          "elite": false,
+          "score": 1.028
+        },
+        {
+          "zone": "Feralas",
+          "percent": 6.061,
+          "level": 62,
+          "npc": "Dreamroarer",
+          "npcs": 3,
+          "elite": true,
+          "score": 0.77
+        },
+        {
+          "zone": "Ragefire Chasm",
+          "percent": 2.083,
+          "level": 13,
+          "npc": "Molten Elemental",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.578
+        },
+        {
+          "zone": "The Hinterlands",
+          "percent": 4,
+          "level": 62,
+          "npc": "Rothos",
+          "npcs": 3,
+          "elite": true,
+          "score": 0.508
+        },
+        {
+          "zone": "Deadmines",
+          "percent": 2.083,
+          "level": 17,
+          "npc": "Defias Miner",
+          "npcs": 3,
+          "elite": false,
+          "score": 0.505
+        },
+        {
+          "zone": "Molten Core",
+          "percent": 3.448,
+          "level": 63,
+          "npc": "Molten Giant",
+          "npcs": 2,
+          "elite": true,
+          "score": 0.434
+        },
+        {
+          "zone": "Silithus",
+          "percent": 2.703,
+          "level": 57,
+          "npc": "Gretheer",
+          "npcs": 2,
+          "elite": true,
+          "score": 0.358
+        },
+        {
+          "zone": "Un'Goro Crater",
+          "percent": 2.271,
+          "level": 60,
+          "npc": "King Mosh",
+          "npcs": 3,
+          "elite": true,
+          "score": 0.293
+        },
+        {
+          "zone": "Arathi Highlands",
+          "percent": 1.9,
+          "level": 42,
+          "npc": "Foulbelly",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.293
+        },
+        {
+          "zone": "Ashenvale",
+          "percent": 2.222,
+          "level": 62,
+          "npc": "Dreamstalker",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.282
+        },
+        {
+          "zone": "Azshara",
+          "percent": 2.143,
+          "level": 63,
+          "npc": "Avalanchion",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.27
+        },
+        {
+          "zone": "Winterspring",
+          "percent": 2,
+          "level": 61,
+          "npc": "Lady Hederine",
+          "npcs": 5,
+          "elite": true,
+          "score": 0.256
+        },
+        {
+          "zone": "Zone 0",
+          "percent": 2,
+          "level": 62,
+          "npc": "Akaariel",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.254
+        },
+        {
+          "zone": "Searing Gorge",
+          "percent": 1.611,
+          "level": 48,
+          "npc": "Rekk'tilac",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.233
+        },
+        {
+          "zone": "Burning Steppes",
+          "percent": 1.32,
+          "level": 50,
+          "npc": "The Behemoth",
+          "npcs": 2,
+          "elite": true,
+          "score": 0.187
+        },
+        {
+          "zone": "Blasted Lands",
+          "percent": 1.12,
+          "level": 56,
+          "npc": "Magronos the Unyielding",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.15
+        },
+        {
+          "zone": "Swamp of Sorrows",
+          "percent": 0.851,
+          "level": 46,
+          "npc": "Murk Spitter",
+          "npcs": 2,
+          "elite": false,
+          "score": 0.125
+        },
+        {
+          "zone": "Felwood",
+          "percent": 0.841,
+          "level": 53,
+          "npc": "Infernal Bodyguard",
+          "npcs": 1,
+          "elite": false,
+          "score": 0.116
+        },
+        {
+          "zone": "Maraudon",
+          "percent": 0.739,
+          "level": 46,
+          "npc": "Subterranean Diemetradon",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.109
+        }
+      ],
+      "gathered_from": [],
+      "contained_in": [
+        {
+          "name": "Thaurissan Family Jewels",
+          "percent": 100
+        },
+        {
+          "name": "Red Sack of Gems",
+          "percent": 83.3
+        },
+        {
+          "name": "Green Sack of Gems",
+          "percent": 80.4
+        },
+        {
+          "name": "Yellow Sack of Gems",
+          "percent": 73.5
+        },
+        {
+          "name": "Sack of Greater Gems",
+          "percent": 70
+        },
+        {
+          "name": "Blue Sack of Gems",
+          "percent": 64.7
+        }
+      ],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
       "node_id": 8836,
       "kind": "item",
       "name": "Arthas' Tears",
@@ -4713,6 +5573,628 @@
           "percent": 0.6
         }
       ],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 11754,
+      "kind": "item",
+      "name": "Black Diamond",
+      "quality": 2,
+      "icon": "inv_wand_07",
+      "tooltip": "Black Diamond\nSell Price: 1",
+      "effect": "",
+      "craft": null,
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "drop",
+        "quest objective"
+      ],
+      "is_custom": false,
+      "missing_from_db": false,
+      "drops": [
+        {
+          "npc_id": 11658,
+          "npc": "Molten Giant",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11659,
+          "npc": "Molten Destroyer",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 111658,
+          "npc": "Molten Giant - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 111659,
+          "npc": "Molten Destroyer - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211658,
+          "npc": "Molten Giant - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211659,
+          "npc": "Molten Destroyer - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311658,
+          "npc": "Molten Giant - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311659,
+          "npc": "Molten Destroyer - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 10190,
+          "npc": "Blazing Ravager",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Onyxia's Lair"
+          ]
+        },
+        {
+          "npc_id": 10194,
+          "npc": "Molten Juggernaut",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Onyxia's Lair"
+          ]
+        },
+        {
+          "npc_id": 11665,
+          "npc": "Lava Annihilator",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11666,
+          "npc": "Firewalker",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11667,
+          "npc": "Flameguard",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11668,
+          "npc": "Firelord",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 12076,
+          "npc": "Lava Elemental",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 12100,
+          "npc": "Lava Reaver",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 12101,
+          "npc": "Lava Surger",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 15027,
+          "npc": "Frost Revenant",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 110190,
+          "npc": "Magma Rager - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 110194,
+          "npc": "Basalt Slammer - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 111665,
+          "npc": "Lava Annihilator - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 111666,
+          "npc": "Firewalker - Heroic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 111667,
+          "npc": "Flameguard - Heroic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 111668,
+          "npc": "Firelord - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 112076,
+          "npc": "Lava Elemental - Heroic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 112100,
+          "npc": "Lava Reaver - Heroic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 112101,
+          "npc": "Lava Surger - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115027,
+          "npc": "Frost Revenant - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 210190,
+          "npc": "Magma Rager - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 210194,
+          "npc": "Basalt Slammer - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211665,
+          "npc": "Lava Annihilator - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211666,
+          "npc": "Firewalker - Mythic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211667,
+          "npc": "Flameguard - Mythic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211668,
+          "npc": "Firelord - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 212076,
+          "npc": "Lava Elemental - Mythic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 212100,
+          "npc": "Lava Reaver - Mythic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 212101,
+          "npc": "Lava Surger - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215027,
+          "npc": "Frost Revenant - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 310190,
+          "npc": "Magma Rager - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 310194,
+          "npc": "Basalt Slammer - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311665,
+          "npc": "Lava Annihilator - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311666,
+          "npc": "Firewalker - Ascended",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311667,
+          "npc": "Flameguard - Ascended",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311668,
+          "npc": "Firelord - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 312076,
+          "npc": "Lava Elemental - Ascended",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 312100,
+          "npc": "Lava Reaver - Ascended",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 312101,
+          "npc": "Lava Surger - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315027,
+          "npc": "Frost Revenant - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 9439,
+          "npc": "Dark Keeper Uggel",
+          "min_level": 53,
+          "max_level": 53,
+          "percent": 0.923,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 9680,
+          "npc": "Crest Killer",
+          "min_level": 48,
+          "max_level": 48,
+          "percent": 0.755,
+          "elite": false,
+          "zones": [
+            "Blackrock Depths"
+          ]
+        },
+        {
+          "npc_id": 109680,
+          "npc": "Crest Killer - Heroic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 0.755,
+          "elite": false,
+          "zones": []
+        },
+        {
+          "npc_id": 209680,
+          "npc": "Crest Killer - Mythic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 0.755,
+          "elite": false,
+          "zones": []
+        },
+        {
+          "npc_id": 309680,
+          "npc": "Crest Killer - Ascended",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 0.755,
+          "elite": false,
+          "zones": []
+        },
+        {
+          "npc_id": 8922,
+          "npc": "Bloodhound Mastiff",
+          "min_level": 50,
+          "max_level": 50,
+          "percent": 0.713,
+          "elite": true,
+          "zones": [
+            "Blackrock Depths"
+          ]
+        },
+        {
+          "npc_id": 108922,
+          "npc": "Bloodhound Mastiff - Heroic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 0.713,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 208922,
+          "npc": "Bloodhound Mastiff - Mythic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 0.713,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 308922,
+          "npc": "Bloodhound Mastiff - Ascended",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 0.713,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 8897,
+          "npc": "Doomforge Craftsman",
+          "min_level": 50,
+          "max_level": 50,
+          "percent": 0.709,
+          "elite": true,
+          "zones": [
+            "Blackrock Depths"
+          ]
+        },
+        {
+          "npc_id": 108897,
+          "npc": "Doomforge Craftsman - Heroic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 0.709,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 208897,
+          "npc": "Doomforge Craftsman - Mythic",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 0.709,
+          "elite": true,
+          "zones": []
+        }
+      ],
+      "zone_sources": [
+        {
+          "zone": "Molten Core",
+          "percent": 3.448,
+          "level": 63,
+          "npc": "Molten Giant",
+          "npcs": 9,
+          "elite": true,
+          "score": 0.434
+        },
+        {
+          "zone": "Onyxia's Lair",
+          "percent": 2.381,
+          "level": 62,
+          "npc": "Blazing Ravager",
+          "npcs": 2,
+          "elite": true,
+          "score": 0.302
+        },
+        {
+          "zone": "Blackrock Depths",
+          "percent": 0.755,
+          "level": 48,
+          "npc": "Crest Killer",
+          "npcs": 3,
+          "elite": false,
+          "score": 0.109
+        }
+      ],
+      "gathered_from": [],
+      "contained_in": [],
       "sale_item_id": null,
       "sale_item_name": null,
       "warnings": []
@@ -7262,6 +8744,2825 @@
         {
           "name": "Satchel of Trade Goods",
           "percent": 30
+        }
+      ],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 12361,
+      "kind": "item",
+      "name": "Blue Sapphire",
+      "quality": 2,
+      "icon": null,
+      "tooltip": "Blue Sapphire\nSell Price: 46 67",
+      "effect": "",
+      "craft": null,
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "drop",
+        "container",
+        "object",
+        "quest objective",
+        "prospecting"
+      ],
+      "is_custom": false,
+      "missing_from_db": false,
+      "drops": [
+        {
+          "npc_id": 11658,
+          "npc": "Molten Giant",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11659,
+          "npc": "Molten Destroyer",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 111658,
+          "npc": "Molten Giant - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 111659,
+          "npc": "Molten Destroyer - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211658,
+          "npc": "Molten Giant - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211659,
+          "npc": "Molten Destroyer - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311658,
+          "npc": "Molten Giant - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311659,
+          "npc": "Molten Destroyer - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 15262,
+          "npc": "Obsidian Eradicator",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15264,
+          "npc": "Anubisath Sentinel",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15277,
+          "npc": "Anubisath Defender",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15311,
+          "npc": "Anubisath Warder",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15312,
+          "npc": "Obsidian Nullifier",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15335,
+          "npc": "Flesh Hunter",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ruins of Ahn'Qiraj"
+          ]
+        },
+        {
+          "npc_id": 15338,
+          "npc": "Obsidian Destroyer",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ruins of Ahn'Qiraj"
+          ]
+        },
+        {
+          "npc_id": 15355,
+          "npc": "Anubisath Guardian",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ruins of Ahn'Qiraj"
+          ]
+        },
+        {
+          "npc_id": 15743,
+          "npc": "Colossal Anubisath Warbringer",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Silithus"
+          ]
+        },
+        {
+          "npc_id": 16243,
+          "npc": "Plague Slime",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Naxxramas"
+          ]
+        },
+        {
+          "npc_id": 100377,
+          "npc": "Flesh Hunter",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115262,
+          "npc": "Obsidian Eradicator - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115264,
+          "npc": "Anubisath Sentinel - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115277,
+          "npc": "Anubisath Defender - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115311,
+          "npc": "Anubisath Warder - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115312,
+          "npc": "Obsidian Nullifier - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115335,
+          "npc": "Flesh Hunter - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115338,
+          "npc": "Obsidian Destroyer - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115355,
+          "npc": "Anubisath Guardian - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 116243,
+          "npc": "Plague Slime - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 200377,
+          "npc": "Flesh Hunter - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215262,
+          "npc": "Obsidian Eradicator - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215264,
+          "npc": "Anubisath Sentinel - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215277,
+          "npc": "Anubisath Defender - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215311,
+          "npc": "Anubisath Warder - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215312,
+          "npc": "Obsidian Nullifier - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215335,
+          "npc": "Flesh Hunter - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215338,
+          "npc": "Obsidian Destroyer - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215355,
+          "npc": "Anubisath Guardian - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 216243,
+          "npc": "Plague Slime - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 300377,
+          "npc": "Flesh Hunter - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315262,
+          "npc": "Obsidian Eradicator - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315264,
+          "npc": "Anubisath Sentinel - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315277,
+          "npc": "Anubisath Defender - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315311,
+          "npc": "Anubisath Warder - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315312,
+          "npc": "Obsidian Nullifier - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315335,
+          "npc": "Flesh Hunter - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315338,
+          "npc": "Obsidian Destroyer - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315355,
+          "npc": "Anubisath Guardian - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 316243,
+          "npc": "Plague Slime - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 400377,
+          "npc": "Flesh Hunter - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 416243,
+          "npc": "Plague Slime",
+          "min_level": 82,
+          "max_level": 82,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 1002078,
+          "npc": "Fragment of Viscidus",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 10190,
+          "npc": "Blazing Ravager",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Onyxia's Lair"
+          ]
+        },
+        {
+          "npc_id": 10194,
+          "npc": "Molten Juggernaut",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Onyxia's Lair"
+          ]
+        },
+        {
+          "npc_id": 11665,
+          "npc": "Lava Annihilator",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11666,
+          "npc": "Firewalker",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11667,
+          "npc": "Flameguard",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11668,
+          "npc": "Firelord",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 12076,
+          "npc": "Lava Elemental",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 12100,
+          "npc": "Lava Reaver",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 12101,
+          "npc": "Lava Surger",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        }
+      ],
+      "zone_sources": [
+        {
+          "zone": "Molten Core",
+          "percent": 3.448,
+          "level": 63,
+          "npc": "Molten Giant",
+          "npcs": 9,
+          "elite": true,
+          "score": 0.434
+        },
+        {
+          "zone": "Ahn'Qiraj Temple",
+          "percent": 2.538,
+          "level": 62,
+          "npc": "Obsidian Eradicator",
+          "npcs": 5,
+          "elite": true,
+          "score": 0.322
+        },
+        {
+          "zone": "Ruins of Ahn'Qiraj",
+          "percent": 2.538,
+          "level": 62,
+          "npc": "Flesh Hunter",
+          "npcs": 3,
+          "elite": true,
+          "score": 0.322
+        },
+        {
+          "zone": "Naxxramas",
+          "percent": 2.538,
+          "level": 62,
+          "npc": "Plague Slime",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.322
+        },
+        {
+          "zone": "Silithus",
+          "percent": 2.538,
+          "level": 63,
+          "npc": "Colossal Anubisath Warbringer",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.32
+        },
+        {
+          "zone": "Onyxia's Lair",
+          "percent": 2.381,
+          "level": 62,
+          "npc": "Blazing Ravager",
+          "npcs": 2,
+          "elite": true,
+          "score": 0.302
+        }
+      ],
+      "gathered_from": [],
+      "contained_in": [
+        {
+          "name": "Blue Sack of Gems",
+          "percent": 88.2
+        },
+        {
+          "name": "Sack of Greater Gems",
+          "percent": 67
+        },
+        {
+          "name": "Thaurissan Family Jewels",
+          "percent": 55
+        },
+        {
+          "name": "Bloated Salmon",
+          "percent": 19
+        },
+        {
+          "name": "Bloated Flat Fish",
+          "percent": 5
+        }
+      ],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 12364,
+      "kind": "item",
+      "name": "Huge Emerald",
+      "quality": 2,
+      "icon": "inv_mace_01",
+      "tooltip": "Huge Emerald\nRequires Level 58\nSell Price: 66 67",
+      "effect": "",
+      "craft": null,
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "drop",
+        "container",
+        "object",
+        "quest objective",
+        "prospecting"
+      ],
+      "is_custom": false,
+      "missing_from_db": false,
+      "drops": [
+        {
+          "npc_id": 11658,
+          "npc": "Molten Giant",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11659,
+          "npc": "Molten Destroyer",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 111658,
+          "npc": "Molten Giant - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 111659,
+          "npc": "Molten Destroyer - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211658,
+          "npc": "Molten Giant - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211659,
+          "npc": "Molten Destroyer - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311658,
+          "npc": "Molten Giant - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311659,
+          "npc": "Molten Destroyer - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 15262,
+          "npc": "Obsidian Eradicator",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15264,
+          "npc": "Anubisath Sentinel",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15277,
+          "npc": "Anubisath Defender",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15311,
+          "npc": "Anubisath Warder",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15312,
+          "npc": "Obsidian Nullifier",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15335,
+          "npc": "Flesh Hunter",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ruins of Ahn'Qiraj"
+          ]
+        },
+        {
+          "npc_id": 15338,
+          "npc": "Obsidian Destroyer",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ruins of Ahn'Qiraj"
+          ]
+        },
+        {
+          "npc_id": 15355,
+          "npc": "Anubisath Guardian",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ruins of Ahn'Qiraj"
+          ]
+        },
+        {
+          "npc_id": 15743,
+          "npc": "Colossal Anubisath Warbringer",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Silithus"
+          ]
+        },
+        {
+          "npc_id": 16243,
+          "npc": "Plague Slime",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Naxxramas"
+          ]
+        },
+        {
+          "npc_id": 100377,
+          "npc": "Flesh Hunter",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115262,
+          "npc": "Obsidian Eradicator - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115264,
+          "npc": "Anubisath Sentinel - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115277,
+          "npc": "Anubisath Defender - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115311,
+          "npc": "Anubisath Warder - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115312,
+          "npc": "Obsidian Nullifier - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115335,
+          "npc": "Flesh Hunter - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115338,
+          "npc": "Obsidian Destroyer - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115355,
+          "npc": "Anubisath Guardian - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 116243,
+          "npc": "Plague Slime - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 200377,
+          "npc": "Flesh Hunter - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215262,
+          "npc": "Obsidian Eradicator - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215264,
+          "npc": "Anubisath Sentinel - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215277,
+          "npc": "Anubisath Defender - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215311,
+          "npc": "Anubisath Warder - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215312,
+          "npc": "Obsidian Nullifier - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215335,
+          "npc": "Flesh Hunter - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215338,
+          "npc": "Obsidian Destroyer - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215355,
+          "npc": "Anubisath Guardian - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 216243,
+          "npc": "Plague Slime - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 300377,
+          "npc": "Flesh Hunter - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315262,
+          "npc": "Obsidian Eradicator - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315264,
+          "npc": "Anubisath Sentinel - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315277,
+          "npc": "Anubisath Defender - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315311,
+          "npc": "Anubisath Warder - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315312,
+          "npc": "Obsidian Nullifier - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315335,
+          "npc": "Flesh Hunter - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315338,
+          "npc": "Obsidian Destroyer - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315355,
+          "npc": "Anubisath Guardian - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 316243,
+          "npc": "Plague Slime - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 400377,
+          "npc": "Flesh Hunter - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 416243,
+          "npc": "Plague Slime",
+          "min_level": 82,
+          "max_level": 82,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 1002078,
+          "npc": "Fragment of Viscidus",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 10190,
+          "npc": "Blazing Ravager",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Onyxia's Lair"
+          ]
+        },
+        {
+          "npc_id": 10194,
+          "npc": "Molten Juggernaut",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Onyxia's Lair"
+          ]
+        },
+        {
+          "npc_id": 11665,
+          "npc": "Lava Annihilator",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11666,
+          "npc": "Firewalker",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11667,
+          "npc": "Flameguard",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11668,
+          "npc": "Firelord",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 12076,
+          "npc": "Lava Elemental",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 12100,
+          "npc": "Lava Reaver",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 12101,
+          "npc": "Lava Surger",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        }
+      ],
+      "zone_sources": [
+        {
+          "zone": "Molten Core",
+          "percent": 3.448,
+          "level": 63,
+          "npc": "Molten Giant",
+          "npcs": 9,
+          "elite": true,
+          "score": 0.434
+        },
+        {
+          "zone": "Ahn'Qiraj Temple",
+          "percent": 2.538,
+          "level": 62,
+          "npc": "Obsidian Eradicator",
+          "npcs": 5,
+          "elite": true,
+          "score": 0.322
+        },
+        {
+          "zone": "Ruins of Ahn'Qiraj",
+          "percent": 2.538,
+          "level": 62,
+          "npc": "Flesh Hunter",
+          "npcs": 3,
+          "elite": true,
+          "score": 0.322
+        },
+        {
+          "zone": "Naxxramas",
+          "percent": 2.538,
+          "level": 62,
+          "npc": "Plague Slime",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.322
+        },
+        {
+          "zone": "Silithus",
+          "percent": 2.538,
+          "level": 63,
+          "npc": "Colossal Anubisath Warbringer",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.32
+        },
+        {
+          "zone": "Onyxia's Lair",
+          "percent": 2.381,
+          "level": 62,
+          "npc": "Blazing Ravager",
+          "npcs": 2,
+          "elite": true,
+          "score": 0.302
+        }
+      ],
+      "gathered_from": [],
+      "contained_in": [
+        {
+          "name": "Green Sack of Gems",
+          "percent": 100
+        },
+        {
+          "name": "Sack of Greater Gems",
+          "percent": 34
+        },
+        {
+          "name": "Satchel of Trade Goods",
+          "percent": 30
+        },
+        {
+          "name": "Bloated Salmon",
+          "percent": 19
+        },
+        {
+          "name": "Thaurissan Family Jewels",
+          "percent": 10
+        },
+        {
+          "name": "Bloated Flat Fish",
+          "percent": 2.5
+        }
+      ],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 12365,
+      "kind": "item",
+      "name": "Dense Stone",
+      "quality": 1,
+      "icon": "inv_chest_wolf",
+      "tooltip": "Dense Stone\nSell Price: 1 67",
+      "effect": "",
+      "craft": null,
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "drop",
+        "container",
+        "quest objective"
+      ],
+      "is_custom": false,
+      "missing_from_db": false,
+      "drops": [
+        {
+          "npc_id": 11658,
+          "npc": "Molten Giant",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11659,
+          "npc": "Molten Destroyer",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 111658,
+          "npc": "Molten Giant - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 111659,
+          "npc": "Molten Destroyer - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211658,
+          "npc": "Molten Giant - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 211659,
+          "npc": "Molten Destroyer - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311658,
+          "npc": "Molten Giant - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 311659,
+          "npc": "Molten Destroyer - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 3.448,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 13958,
+          "npc": "Winterax Seer",
+          "min_level": 59,
+          "max_level": 59,
+          "percent": 2.54,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 22791,
+          "npc": "Winterax Seer - Heroic",
+          "min_level": 59,
+          "max_level": 59,
+          "percent": 2.54,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 15262,
+          "npc": "Obsidian Eradicator",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15264,
+          "npc": "Anubisath Sentinel",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15277,
+          "npc": "Anubisath Defender",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15311,
+          "npc": "Anubisath Warder",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15312,
+          "npc": "Obsidian Nullifier",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ahn'Qiraj Temple"
+          ]
+        },
+        {
+          "npc_id": 15335,
+          "npc": "Flesh Hunter",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ruins of Ahn'Qiraj"
+          ]
+        },
+        {
+          "npc_id": 15338,
+          "npc": "Obsidian Destroyer",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ruins of Ahn'Qiraj"
+          ]
+        },
+        {
+          "npc_id": 15355,
+          "npc": "Anubisath Guardian",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Ruins of Ahn'Qiraj"
+          ]
+        },
+        {
+          "npc_id": 15743,
+          "npc": "Colossal Anubisath Warbringer",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Silithus"
+          ]
+        },
+        {
+          "npc_id": 16243,
+          "npc": "Plague Slime",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": [
+            "Naxxramas"
+          ]
+        },
+        {
+          "npc_id": 100377,
+          "npc": "Flesh Hunter",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115262,
+          "npc": "Obsidian Eradicator - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115264,
+          "npc": "Anubisath Sentinel - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115277,
+          "npc": "Anubisath Defender - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115311,
+          "npc": "Anubisath Warder - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115312,
+          "npc": "Obsidian Nullifier - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115335,
+          "npc": "Flesh Hunter - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115338,
+          "npc": "Obsidian Destroyer - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 115355,
+          "npc": "Anubisath Guardian - Heroic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 116243,
+          "npc": "Plague Slime - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 200377,
+          "npc": "Flesh Hunter - Heroic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215262,
+          "npc": "Obsidian Eradicator - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215264,
+          "npc": "Anubisath Sentinel - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215277,
+          "npc": "Anubisath Defender - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215311,
+          "npc": "Anubisath Warder - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215312,
+          "npc": "Obsidian Nullifier - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215335,
+          "npc": "Flesh Hunter - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215338,
+          "npc": "Obsidian Destroyer - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 215355,
+          "npc": "Anubisath Guardian - Mythic",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 216243,
+          "npc": "Plague Slime - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 300377,
+          "npc": "Flesh Hunter - Mythic",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315262,
+          "npc": "Obsidian Eradicator - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315264,
+          "npc": "Anubisath Sentinel - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315277,
+          "npc": "Anubisath Defender - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315311,
+          "npc": "Anubisath Warder - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315312,
+          "npc": "Obsidian Nullifier - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315335,
+          "npc": "Flesh Hunter - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315338,
+          "npc": "Obsidian Destroyer - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 315355,
+          "npc": "Anubisath Guardian - Ascended",
+          "min_level": 63,
+          "max_level": 63,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 316243,
+          "npc": "Plague Slime - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 400377,
+          "npc": "Flesh Hunter - Ascended",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 416243,
+          "npc": "Plague Slime",
+          "min_level": 82,
+          "max_level": 82,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 1002078,
+          "npc": "Fragment of Viscidus",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.538,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 10190,
+          "npc": "Blazing Ravager",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Onyxia's Lair"
+          ]
+        },
+        {
+          "npc_id": 10194,
+          "npc": "Molten Juggernaut",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Onyxia's Lair"
+          ]
+        },
+        {
+          "npc_id": 11665,
+          "npc": "Lava Annihilator",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11666,
+          "npc": "Firewalker",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11667,
+          "npc": "Flameguard",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 11668,
+          "npc": "Firelord",
+          "min_level": 62,
+          "max_level": 62,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        },
+        {
+          "npc_id": 12076,
+          "npc": "Lava Elemental",
+          "min_level": 61,
+          "max_level": 61,
+          "percent": 2.381,
+          "elite": true,
+          "zones": [
+            "Molten Core"
+          ]
+        }
+      ],
+      "zone_sources": [
+        {
+          "zone": "Molten Core",
+          "percent": 3.448,
+          "level": 63,
+          "npc": "Molten Giant",
+          "npcs": 7,
+          "elite": true,
+          "score": 0.434
+        },
+        {
+          "zone": "Ahn'Qiraj Temple",
+          "percent": 2.538,
+          "level": 62,
+          "npc": "Obsidian Eradicator",
+          "npcs": 5,
+          "elite": true,
+          "score": 0.322
+        },
+        {
+          "zone": "Ruins of Ahn'Qiraj",
+          "percent": 2.538,
+          "level": 62,
+          "npc": "Flesh Hunter",
+          "npcs": 3,
+          "elite": true,
+          "score": 0.322
+        },
+        {
+          "zone": "Naxxramas",
+          "percent": 2.538,
+          "level": 62,
+          "npc": "Plague Slime",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.322
+        },
+        {
+          "zone": "Silithus",
+          "percent": 2.538,
+          "level": 63,
+          "npc": "Colossal Anubisath Warbringer",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.32
+        },
+        {
+          "zone": "Onyxia's Lair",
+          "percent": 2.381,
+          "level": 62,
+          "npc": "Blazing Ravager",
+          "npcs": 2,
+          "elite": true,
+          "score": 0.302
+        }
+      ],
+      "gathered_from": [],
+      "contained_in": [
+        {
+          "name": "Crate of Greater Ore",
+          "percent": 80
+        },
+        {
+          "name": "Satchel of Trade Goods",
+          "percent": 50
+        }
+      ],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 12799,
+      "kind": "item",
+      "name": "Large Opal",
+      "quality": 2,
+      "icon": "inv_axe_01",
+      "tooltip": "Large Opal\nSell Price: 46 67",
+      "effect": "",
+      "craft": null,
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "drop",
+        "container",
+        "object",
+        "quest objective",
+        "prospecting"
+      ],
+      "is_custom": false,
+      "missing_from_db": false,
+      "drops": [
+        {
+          "npc_id": 598,
+          "npc": "Defias Miner",
+          "min_level": 17,
+          "max_level": 18,
+          "percent": 2.083,
+          "elite": false,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 1731,
+          "npc": "Goblin Craftsman",
+          "min_level": 18,
+          "max_level": 19,
+          "percent": 2.083,
+          "elite": true,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 4416,
+          "npc": "Defias Strip Miner",
+          "min_level": 18,
+          "max_level": 19,
+          "percent": 2.083,
+          "elite": false,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 11321,
+          "npc": "Molten Elemental",
+          "min_level": 13,
+          "max_level": 13,
+          "percent": 2.083,
+          "elite": true,
+          "zones": [
+            "Ragefire Chasm"
+          ]
+        },
+        {
+          "npc_id": 622,
+          "npc": "Goblin Engineer",
+          "min_level": 18,
+          "max_level": 19,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 634,
+          "npc": "Defias Overseer",
+          "min_level": 17,
+          "max_level": 18,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 636,
+          "npc": "Defias Blackguard",
+          "min_level": 19,
+          "max_level": 19,
+          "percent": 0.167,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 641,
+          "npc": "Goblin Woodcarver",
+          "min_level": 18,
+          "max_level": 19,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 657,
+          "npc": "Defias Pirate",
+          "min_level": 19,
+          "max_level": 20,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 1706,
+          "npc": "Defias Prisoner",
+          "min_level": 23,
+          "max_level": 24,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Stormwind Stockade"
+          ]
+        },
+        {
+          "npc_id": 1707,
+          "npc": "Defias Captive",
+          "min_level": 23,
+          "max_level": 24,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Stormwind Stockade"
+          ]
+        },
+        {
+          "npc_id": 1708,
+          "npc": "Defias Inmate",
+          "min_level": 23,
+          "max_level": 24,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Stormwind Stockade"
+          ]
+        },
+        {
+          "npc_id": 1711,
+          "npc": "Defias Convict",
+          "min_level": 24,
+          "max_level": 25,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Stormwind Stockade"
+          ]
+        },
+        {
+          "npc_id": 1715,
+          "npc": "Defias Insurgent",
+          "min_level": 25,
+          "max_level": 26,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Stormwind Stockade"
+          ]
+        },
+        {
+          "npc_id": 1729,
+          "npc": "Defias Evoker",
+          "min_level": 17,
+          "max_level": 18,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 1732,
+          "npc": "Defias Squallshaper",
+          "min_level": 19,
+          "max_level": 19,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 2529,
+          "npc": "Son of Arugal",
+          "min_level": 22,
+          "max_level": 22,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Shadowfang Keep"
+          ]
+        },
+        {
+          "npc_id": 3640,
+          "npc": "Evolving Ectoplasm",
+          "min_level": 17,
+          "max_level": 18,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Wailing Caverns"
+          ]
+        },
+        {
+          "npc_id": 3840,
+          "npc": "Druid of the Fang",
+          "min_level": 19,
+          "max_level": 20,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Wailing Caverns"
+          ]
+        },
+        {
+          "npc_id": 3849,
+          "npc": "Deathstalker Adamant",
+          "min_level": 20,
+          "max_level": 20,
+          "percent": 0.167,
+          "elite": false,
+          "zones": [
+            "Shadowfang Keep"
+          ]
+        },
+        {
+          "npc_id": 3850,
+          "npc": "Sorcerer Ashcrombe",
+          "min_level": 20,
+          "max_level": 20,
+          "percent": 0.167,
+          "elite": false,
+          "zones": [
+            "Shadowfang Keep"
+          ]
+        },
+        {
+          "npc_id": 3851,
+          "npc": "Shadowfang Whitescalp",
+          "min_level": 22,
+          "max_level": 22,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Shadowfang Keep"
+          ]
+        },
+        {
+          "npc_id": 3853,
+          "npc": "Shadowfang Moonwalker",
+          "min_level": 22,
+          "max_level": 22,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Shadowfang Keep"
+          ]
+        },
+        {
+          "npc_id": 3854,
+          "npc": "Shadowfang Wolfguard",
+          "min_level": 20,
+          "max_level": 21,
+          "percent": 0.167,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 3855,
+          "npc": "Shadowfang Darksoul",
+          "min_level": 22,
+          "max_level": 22,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Shadowfang Keep"
+          ]
+        },
+        {
+          "npc_id": 3857,
+          "npc": "Shadowfang Glutton",
+          "min_level": 22,
+          "max_level": 22,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Shadowfang Keep"
+          ]
+        },
+        {
+          "npc_id": 3859,
+          "npc": "Shadowfang Ragetooth",
+          "min_level": 22,
+          "max_level": 22,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Shadowfang Keep"
+          ]
+        },
+        {
+          "npc_id": 3873,
+          "npc": "Tormented Officer",
+          "min_level": 22,
+          "max_level": 22,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Shadowfang Keep"
+          ]
+        },
+        {
+          "npc_id": 3947,
+          "npc": "Goblin Shipbuilder",
+          "min_level": 19,
+          "max_level": 20,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 4417,
+          "npc": "Defias Taskmaster",
+          "min_level": 18,
+          "max_level": 19,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 4418,
+          "npc": "Defias Wizard",
+          "min_level": 18,
+          "max_level": 19,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Deadmines"
+          ]
+        },
+        {
+          "npc_id": 4427,
+          "npc": "Ward Guardian",
+          "min_level": 31,
+          "max_level": 31,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4435,
+          "npc": "Razorfen Warrior",
+          "min_level": 24,
+          "max_level": 25,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4436,
+          "npc": "Razorfen Quilguard",
+          "min_level": 25,
+          "max_level": 25,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4437,
+          "npc": "Razorfen Warden",
+          "min_level": 25,
+          "max_level": 26,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4438,
+          "npc": "Razorfen Spearhide",
+          "min_level": 29,
+          "max_level": 30,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4440,
+          "npc": "Razorfen Totemic",
+          "min_level": 29,
+          "max_level": 29,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4442,
+          "npc": "Razorfen Defender",
+          "min_level": 27,
+          "max_level": 28,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4515,
+          "npc": "Death's Head Acolyte",
+          "min_level": 28,
+          "max_level": 29,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4516,
+          "npc": "Death's Head Adept",
+          "min_level": 27,
+          "max_level": 28,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4517,
+          "npc": "Death's Head Priest",
+          "min_level": 26,
+          "max_level": 27,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4518,
+          "npc": "Death's Head Sage",
+          "min_level": 29,
+          "max_level": 30,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4519,
+          "npc": "Death's Head Seer",
+          "min_level": 28,
+          "max_level": 29,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4520,
+          "npc": "Razorfen Geomancer",
+          "min_level": 25,
+          "max_level": 26,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4522,
+          "npc": "Razorfen Dustweaver",
+          "min_level": 28,
+          "max_level": 29,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4523,
+          "npc": "Razorfen Groundshaker",
+          "min_level": 25,
+          "max_level": 26,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4525,
+          "npc": "Razorfen Earthbreaker",
+          "min_level": 26,
+          "max_level": 26,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4530,
+          "npc": "Razorfen Handler",
+          "min_level": 25,
+          "max_level": 25,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4531,
+          "npc": "Razorfen Beast Trainer",
+          "min_level": 25,
+          "max_level": 26,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4532,
+          "npc": "Razorfen Beastmaster",
+          "min_level": 30,
+          "max_level": 31,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4541,
+          "npc": "Blood of Agamaggan",
+          "min_level": 27,
+          "max_level": 27,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4623,
+          "npc": "Quilguard Champion",
+          "min_level": 30,
+          "max_level": 31,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Razorfen Kraul"
+          ]
+        },
+        {
+          "npc_id": 4627,
+          "npc": "Arugal's Voidwalker",
+          "min_level": 20,
+          "max_level": 20,
+          "percent": 0.167,
+          "elite": false,
+          "zones": []
+        },
+        {
+          "npc_id": 4798,
+          "npc": "Fallenroot Shadowstalker",
+          "min_level": 24,
+          "max_level": 24,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Blackfathom Deeps"
+          ]
+        },
+        {
+          "npc_id": 4799,
+          "npc": "Fallenroot Hellcaller",
+          "min_level": 24,
+          "max_level": 24,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Blackfathom Deeps"
+          ]
+        },
+        {
+          "npc_id": 4805,
+          "npc": "Blackfathom Sea Witch",
+          "min_level": 24,
+          "max_level": 24,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Blackfathom Deeps"
+          ]
+        },
+        {
+          "npc_id": 4807,
+          "npc": "Blackfathom Myrmidon",
+          "min_level": 24,
+          "max_level": 24,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Blackfathom Deeps"
+          ]
+        },
+        {
+          "npc_id": 4809,
+          "npc": "Twilight Acolyte",
+          "min_level": 24,
+          "max_level": 24,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Blackfathom Deeps"
+          ]
+        },
+        {
+          "npc_id": 4810,
+          "npc": "Twilight Reaver",
+          "min_level": 24,
+          "max_level": 24,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Blackfathom Deeps"
+          ]
+        },
+        {
+          "npc_id": 4811,
+          "npc": "Twilight Aquamancer",
+          "min_level": 24,
+          "max_level": 24,
+          "percent": 0.167,
+          "elite": true,
+          "zones": [
+            "Blackfathom Deeps"
+          ]
+        }
+      ],
+      "zone_sources": [
+        {
+          "zone": "Ragefire Chasm",
+          "percent": 2.083,
+          "level": 13,
+          "npc": "Molten Elemental",
+          "npcs": 1,
+          "elite": true,
+          "score": 0.578
+        },
+        {
+          "zone": "Deadmines",
+          "percent": 2.083,
+          "level": 17,
+          "npc": "Defias Miner",
+          "npcs": 12,
+          "elite": false,
+          "score": 0.505
+        },
+        {
+          "zone": "Wailing Caverns",
+          "percent": 0.167,
+          "level": 17,
+          "npc": "Evolving Ectoplasm",
+          "npcs": 2,
+          "elite": true,
+          "score": 0.041
+        },
+        {
+          "zone": "Shadowfang Keep",
+          "percent": 0.167,
+          "level": 22,
+          "npc": "Son of Arugal",
+          "npcs": 9,
+          "elite": true,
+          "score": 0.036
+        },
+        {
+          "zone": "Stormwind Stockade",
+          "percent": 0.167,
+          "level": 23,
+          "npc": "Defias Prisoner",
+          "npcs": 5,
+          "elite": true,
+          "score": 0.035
+        },
+        {
+          "zone": "Blackfathom Deeps",
+          "percent": 0.167,
+          "level": 24,
+          "npc": "Fallenroot Shadowstalker",
+          "npcs": 7,
+          "elite": true,
+          "score": 0.034
+        },
+        {
+          "zone": "Razorfen Kraul",
+          "percent": 0.167,
+          "level": 31,
+          "npc": "Ward Guardian",
+          "npcs": 21,
+          "elite": true,
+          "score": 0.03
+        }
+      ],
+      "gathered_from": [],
+      "contained_in": [
+        {
+          "name": "Red Sack of Gems",
+          "percent": 97.9
+        },
+        {
+          "name": "Sack of Greater Gems",
+          "percent": 67
+        },
+        {
+          "name": "Thaurissan Family Jewels",
+          "percent": 45
+        },
+        {
+          "name": "Bloated Salmon",
+          "percent": 19
+        },
+        {
+          "name": "Bloated Redgill",
+          "percent": 7
+        },
+        {
+          "name": "Bloated Flat Fish",
+          "percent": 5
         }
       ],
       "sale_item_id": null,
@@ -12412,6 +16713,396 @@
       "warnings": []
     },
     {
+      "node_id": 967179,
+      "kind": "item",
+      "name": "Roguish Belt Buckle",
+      "quality": 3,
+      "icon": "inv_axe_2h_draenorquest95_b_01",
+      "tooltip": "Roguish Belt Buckle\nRequires Level 55\nUse: Permanently adds 6 Agility to a belt item.\nThis benefit is only active between level 55 and 60.\n\"Can't be used after level 60.\"\n1 ChargeSell Price: 6 67",
+      "effect": "Use: Permanently adds 6 Agility to a belt item.",
+      "craft": {
+        "spell_id": 968025,
+        "spell_name": "Roguish Belt Buckle",
+        "craft_kind": "recipe",
+        "profession": "Blacksmithing",
+        "skill_id": 164,
+        "learned_at": 300,
+        "difficulty": [
+          300,
+          310,
+          312,
+          315
+        ],
+        "creates_item_id": 967179,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303727,
+            1
+          ],
+          [
+            1303725,
+            1
+          ],
+          [
+            7910,
+            3
+          ],
+          [
+            7082,
+            5
+          ]
+        ],
+        "station": "Anvil",
+        "method": null,
+        "recipe_item_id": 967257,
+        "recipe_item_name": "Plans: Roguish Belt Buckle",
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
+      },
+      "is_seed": true,
+      "family": "buckle",
+      "obtained_from": [
+        "quest objective",
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": 967179,
+      "sale_item_name": "Roguish Belt Buckle",
+      "warnings": []
+    },
+    {
+      "node_id": 967182,
+      "kind": "item",
+      "name": "Dancing Belt Buckle",
+      "quality": 3,
+      "icon": "inv_axe_2h_draenorquest95_b_01",
+      "tooltip": "Dancing Belt Buckle\nRequires Level 55\nUse: Permanently adds 8 (0.64% @ L55) Dodge Rating to a belt item.\nThis benefit is only active between level 55 and 60.\n\"Can't be used after level 60.\"\n1 ChargeSell Price: 6 67",
+      "effect": "Use: Permanently adds 8 (0.64% @ L55) Dodge Rating to a belt item.",
+      "craft": {
+        "spell_id": 968028,
+        "spell_name": "Dancing Belt Buckle",
+        "craft_kind": "recipe",
+        "profession": "Blacksmithing",
+        "skill_id": 164,
+        "learned_at": 300,
+        "difficulty": [
+          300,
+          310,
+          312,
+          315
+        ],
+        "creates_item_id": 967182,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303728,
+            1
+          ],
+          [
+            1303725,
+            1
+          ],
+          [
+            12364,
+            3
+          ],
+          [
+            12803,
+            5
+          ]
+        ],
+        "station": "Anvil",
+        "method": null,
+        "recipe_item_id": 967260,
+        "recipe_item_name": "Plans: Dancing Belt Buckle",
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
+      },
+      "is_seed": true,
+      "family": "buckle",
+      "obtained_from": [
+        "quest objective",
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": 967182,
+      "sale_item_name": "Dancing Belt Buckle",
+      "warnings": []
+    },
+    {
+      "node_id": 967185,
+      "kind": "item",
+      "name": "Magus Belt Buckle",
+      "quality": 3,
+      "icon": "inv_axe_2h_draenorquest95_b_01",
+      "tooltip": "Magus Belt Buckle\nRequires Level 55\nUse: Permanently adds 10 Intellect to a belt item.\nThis benefit is only active between level 55 and 60.\n\"Can't be used after level 60.\"\n1 ChargeSell Price: 6 67",
+      "effect": "Use: Permanently adds 10 Intellect to a belt item.",
+      "craft": {
+        "spell_id": 968031,
+        "spell_name": "Magus Belt Buckle",
+        "craft_kind": "recipe",
+        "profession": "Blacksmithing",
+        "skill_id": 164,
+        "learned_at": 300,
+        "difficulty": [
+          300,
+          310,
+          312,
+          315
+        ],
+        "creates_item_id": 967185,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303728,
+            1
+          ],
+          [
+            1303725,
+            1
+          ],
+          [
+            12799,
+            3
+          ],
+          [
+            7080,
+            5
+          ]
+        ],
+        "station": "Anvil",
+        "method": null,
+        "recipe_item_id": 967263,
+        "recipe_item_name": "Plans: Magus Belt Buckle",
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
+      },
+      "is_seed": true,
+      "family": "buckle",
+      "obtained_from": [
+        "quest objective",
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": 967185,
+      "sale_item_name": "Magus Belt Buckle",
+      "warnings": []
+    },
+    {
+      "node_id": 967188,
+      "kind": "item",
+      "name": "Cleric's Belt Buckle",
+      "quality": 3,
+      "icon": "inv_axe_2h_draenorquest95_b_01",
+      "tooltip": "Cleric's Belt Buckle\nRequires Level 55\nUse: Permanently adds 8 Spirit to a belt item.\nThis benefit is only active between level 55 and 60.\n\"Can't be used after level 60.\"\n1 ChargeSell Price: 6 67",
+      "effect": "Use: Permanently adds 8 Spirit to a belt item.",
+      "craft": {
+        "spell_id": 968034,
+        "spell_name": "Cleric's Belt Buckle",
+        "craft_kind": "recipe",
+        "profession": "Blacksmithing",
+        "skill_id": 164,
+        "learned_at": 300,
+        "difficulty": [
+          300,
+          310,
+          312,
+          315
+        ],
+        "creates_item_id": 967188,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303727,
+            1
+          ],
+          [
+            1303725,
+            1
+          ],
+          [
+            12361,
+            3
+          ],
+          [
+            12803,
+            5
+          ]
+        ],
+        "station": "Anvil",
+        "method": null,
+        "recipe_item_id": 967266,
+        "recipe_item_name": "Plans: Cleric's Belt Buckle",
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
+      },
+      "is_seed": true,
+      "family": "buckle",
+      "obtained_from": [
+        "quest objective",
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": 967188,
+      "sale_item_name": "Cleric's Belt Buckle",
+      "warnings": []
+    },
+    {
+      "node_id": 967191,
+      "kind": "item",
+      "name": "Warlord's Belt Buckle",
+      "quality": 3,
+      "icon": "inv_axe_2h_draenorquest95_b_01",
+      "tooltip": "Warlord's Belt Buckle\nRequires Level 30\nUse: Permanently adds 6 Strength to a belt item.\nThis benefit is only active between level 55 and 60.\n\"Can't be used after level 60.\"\n1 ChargeSell Price: 6 67",
+      "effect": "Use: Permanently adds 6 Strength to a belt item.",
+      "craft": {
+        "spell_id": 968037,
+        "spell_name": "Warlord's Belt Buckle",
+        "craft_kind": "recipe",
+        "profession": "Blacksmithing",
+        "skill_id": 164,
+        "learned_at": 300,
+        "difficulty": [
+          300,
+          310,
+          312,
+          315
+        ],
+        "creates_item_id": 967191,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303726,
+            1
+          ],
+          [
+            1303725,
+            1
+          ],
+          [
+            11754,
+            5
+          ],
+          [
+            7078,
+            5
+          ]
+        ],
+        "station": "Anvil",
+        "method": null,
+        "recipe_item_id": 967269,
+        "recipe_item_name": "Plans: Warlord's Belt Buckle",
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
+      },
+      "is_seed": true,
+      "family": "buckle",
+      "obtained_from": [
+        "quest objective",
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": 967191,
+      "sale_item_name": "Warlord's Belt Buckle",
+      "warnings": []
+    },
+    {
+      "node_id": 967194,
+      "kind": "item",
+      "name": "Guardman's Belt Buckle",
+      "quality": 3,
+      "icon": "inv_axe_2h_draenorquest95_b_01",
+      "tooltip": "Guardman's Belt Buckle\nRequires Level 30\nUse: Permanently adds 10 Block Value to a belt item.\nThis benefit is only active between level 55 and 60.\n\"Can't be used after level 60.\"\n1 ChargeSell Price: 6 67",
+      "effect": "Use: Permanently adds 10 Block Value to a belt item.",
+      "craft": {
+        "spell_id": 968040,
+        "spell_name": "Guardman's Belt Buckle",
+        "craft_kind": "recipe",
+        "profession": "Blacksmithing",
+        "skill_id": 164,
+        "learned_at": 300,
+        "difficulty": [
+          300,
+          310,
+          312,
+          315
+        ],
+        "creates_item_id": 967194,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303726,
+            1
+          ],
+          [
+            1303725,
+            1
+          ],
+          [
+            12365,
+            20
+          ],
+          [
+            12803,
+            5
+          ]
+        ],
+        "station": "Anvil",
+        "method": null,
+        "recipe_item_id": 967272,
+        "recipe_item_name": "Plans: Guardman's Belt Buckle",
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
+      },
+      "is_seed": true,
+      "family": "buckle",
+      "obtained_from": [
+        "quest objective",
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": 967194,
+      "sale_item_name": "Guardman's Belt Buckle",
+      "warnings": []
+    },
+    {
       "node_id": 967444,
       "kind": "item",
       "name": "Distilled Flask of Manifesting Power",
@@ -16465,6 +21156,194 @@
       "warnings": []
     },
     {
+      "node_id": 1303725,
+      "kind": "item",
+      "name": "Homicite Bar",
+      "quality": 3,
+      "icon": null,
+      "tooltip": "Homicite Bar\nRequires Level 60\nSell Price: 5",
+      "effect": "",
+      "craft": {
+        "spell_id": 1979758,
+        "spell_name": "Refine Homicite Bar",
+        "craft_kind": "conversion",
+        "profession": null,
+        "skill_id": null,
+        "learned_at": null,
+        "difficulty": null,
+        "creates_item_id": 1303725,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303752,
+            1
+          ]
+        ],
+        "station": "Sanguine Workbench",
+        "method": "Refined into Homicite Bar at the Sanguine Workbench",
+        "recipe_item_id": null,
+        "recipe_item_name": null,
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
+      },
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 1303726,
+      "kind": "item",
+      "name": "Ebon Dragonsteel",
+      "quality": 3,
+      "icon": null,
+      "tooltip": "Ebon Dragonsteel\nRequires Level 60\n\"Metal only refined by the Thaurissan smiths using ancient draconic methods.\"Sell Price: 5",
+      "effect": "",
+      "craft": {
+        "spell_id": 1979742,
+        "spell_name": "Refine Ebon Dragonsteel",
+        "craft_kind": "conversion",
+        "profession": null,
+        "skill_id": null,
+        "learned_at": null,
+        "difficulty": null,
+        "creates_item_id": 1303726,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303753,
+            1
+          ]
+        ],
+        "station": "Thaurissan War Forge. Requires High-Risk",
+        "method": "Refined into Ebon Dragonsteel at the Thaurissan War Forge. Requires High-Risk.",
+        "recipe_item_id": null,
+        "recipe_item_name": null,
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
+      },
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 1303727,
+      "kind": "item",
+      "name": "Plague Iron",
+      "quality": 3,
+      "icon": "ivn_chest_cloth_warfrontshorde_d_01",
+      "tooltip": "Plague Iron\nRequires Level 60\n\"Metal only purified by the Scarlet Crusade.\"Sell Price: 5",
+      "effect": "",
+      "craft": {
+        "spell_id": 1979748,
+        "spell_name": "Refine Plague Iron",
+        "craft_kind": "conversion",
+        "profession": null,
+        "skill_id": null,
+        "learned_at": null,
+        "difficulty": null,
+        "creates_item_id": 1303727,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303754,
+            1
+          ]
+        ],
+        "station": "Blessed Forge. Requires High-Risk",
+        "method": "Refined into Cleansed Plague Iron at the Blessed Forge. Requires High-Risk.",
+        "recipe_item_id": null,
+        "recipe_item_name": null,
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
+      },
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 1303728,
+      "kind": "item",
+      "name": "Wintersteel",
+      "quality": 3,
+      "icon": null,
+      "tooltip": "Wintersteel\nRequires Level 60\n\"Hotsprings have long been known to have the right combination of heat and steam to refine this metal.\"Sell Price: 5",
+      "effect": "",
+      "craft": {
+        "spell_id": 1979752,
+        "spell_name": "Refine Wintersteel",
+        "craft_kind": "conversion",
+        "profession": null,
+        "skill_id": null,
+        "learned_at": null,
+        "difficulty": null,
+        "creates_item_id": 1303728,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303755,
+            1
+          ]
+        ],
+        "station": "Forge of Ice. Requires High-Risk",
+        "method": "Refined into Wintersteel at the Forge of Ice. Requires High-Risk.",
+        "recipe_item_id": null,
+        "recipe_item_name": null,
+        "reagents_resolved": true,
+        "counted_from_tooltip": false
+      },
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
       "node_id": 1303734,
       "kind": "item",
       "name": "Echoes of Blood",
@@ -20177,6 +25056,427 @@
       "warnings": []
     },
     {
+      "node_id": 1303752,
+      "kind": "item",
+      "name": "Homicite Ore",
+      "quality": 3,
+      "icon": null,
+      "tooltip": "Homicite Ore\nRequires Level 60\nUse: Refined into Homicite Bar at the Sanguine Workbench\n\"Found when mining in dangerous zones while in War Mode or High-Risk.\"\n1 ChargeSell Price: 5",
+      "effect": "Use: Refined into Homicite Bar at the Sanguine Workbench",
+      "craft": null,
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "container"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
+      "gathered_from": [],
+      "contained_in": [
+        {
+          "name": "Spoils of Blood",
+          "percent": 1.874
+        },
+        {
+          "name": "Crow's Cache",
+          "percent": 1.874
+        }
+      ],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 1303753,
+      "kind": "item",
+      "name": "Drakesteel Scraps",
+      "quality": 3,
+      "icon": null,
+      "tooltip": "Drakesteel Scraps\nRequires Level 60\nUse: Refined into Ebon Dragonsteel at the Thaurissan War Forge. Requires High-Risk.\n\"Drops from black dragonkin while in War Mode or High-Risk.\"\n1 ChargeSell Price: 5",
+      "effect": "Use: Refined into Ebon Dragonsteel at the Thaurissan War Forge. Requires High-Risk.",
+      "craft": {
+        "spell_id": 1979715,
+        "spell_name": "Refine Drakesteel Scraps",
+        "craft_kind": "recipe",
+        "profession": null,
+        "skill_id": null,
+        "learned_at": null,
+        "difficulty": null,
+        "creates_item_id": 1303753,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303776,
+            5
+          ]
+        ],
+        "station": null,
+        "method": null,
+        "recipe_item_id": null,
+        "recipe_item_name": null,
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
+      },
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "drop",
+        "container",
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [
+        {
+          "npc_id": 254877,
+          "npc": "Nesrixia",
+          "min_level": 54,
+          "max_level": 54,
+          "percent": 21.99,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 254876,
+          "npc": "Afyllian",
+          "min_level": 54,
+          "max_level": 54,
+          "percent": 21.885,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 7043,
+          "npc": "Flamescale Wyrmkin",
+          "min_level": 57,
+          "max_level": 58,
+          "percent": 19.47,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 7041,
+          "npc": "Black Wyrmkin",
+          "min_level": 53,
+          "max_level": 54,
+          "percent": 18.96,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 7042,
+          "npc": "Flamescale Dragonspawn",
+          "min_level": 56,
+          "max_level": 57,
+          "percent": 18.84,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 7040,
+          "npc": "Black Dragonspawn",
+          "min_level": 52,
+          "max_level": 53,
+          "percent": 18.825,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        }
+      ],
+      "zone_sources": [
+        {
+          "zone": "Burning Steppes",
+          "percent": 21.99,
+          "level": 54,
+          "npc": "Nesrixia",
+          "npcs": 6,
+          "elite": true,
+          "score": 2.992
+        }
+      ],
+      "gathered_from": [],
+      "contained_in": [
+        {
+          "name": "Spoils of Blood",
+          "percent": 1.874
+        },
+        {
+          "name": "Crow's Cache",
+          "percent": 1.874
+        }
+      ],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 1303754,
+      "kind": "item",
+      "name": "Abomination Hook",
+      "quality": 3,
+      "icon": "ivn_chest_cloth_warfrontshorde_b_01",
+      "tooltip": "Abomination Hook\nRequires Level 60\nUse: Refined into Cleansed Plague Iron at the Blessed Forge. Requires High-Risk.\n\"Drops from abominations in the Plaguelands while in War Mode or High-Risk.\"\n1 ChargeSell Price: 5",
+      "effect": "Use: Refined into Cleansed Plague Iron at the Blessed Forge. Requires High-Risk.",
+      "craft": {
+        "spell_id": 1979724,
+        "spell_name": "Refine Abomination Hook",
+        "craft_kind": "recipe",
+        "profession": null,
+        "skill_id": null,
+        "learned_at": null,
+        "difficulty": null,
+        "creates_item_id": 1303754,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303777,
+            5
+          ]
+        ],
+        "station": null,
+        "method": null,
+        "recipe_item_id": null,
+        "recipe_item_name": null,
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
+      },
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "drop",
+        "container",
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [
+        {
+          "npc_id": 1850,
+          "npc": "Putridius",
+          "min_level": 58,
+          "max_level": 58,
+          "percent": 21.225,
+          "elite": true,
+          "zones": [
+            "Western Plaguelands"
+          ]
+        },
+        {
+          "npc_id": 83064,
+          "npc": "Putridius",
+          "min_level": 58,
+          "max_level": 58,
+          "percent": 21.225,
+          "elite": true,
+          "zones": [
+            "Zone 0"
+          ]
+        },
+        {
+          "npc_id": 1083064,
+          "npc": "Putridius",
+          "min_level": 60,
+          "max_level": 60,
+          "percent": 21.225,
+          "elite": true,
+          "zones": []
+        },
+        {
+          "npc_id": 1805,
+          "npc": "Flesh Golem",
+          "min_level": 56,
+          "max_level": 57,
+          "percent": 18.855,
+          "elite": true,
+          "zones": [
+            "Western Plaguelands"
+          ]
+        },
+        {
+          "npc_id": 8543,
+          "npc": "Stitched Horror",
+          "min_level": 57,
+          "max_level": 58,
+          "percent": 11.505,
+          "elite": false,
+          "zones": [
+            "Eastern Plaguelands"
+          ]
+        },
+        {
+          "npc_id": 12263,
+          "npc": "Slaughterhouse Protector",
+          "min_level": 58,
+          "max_level": 58,
+          "percent": 11.385,
+          "elite": false,
+          "zones": [
+            "Eastern Plaguelands"
+          ]
+        }
+      ],
+      "zone_sources": [
+        {
+          "zone": "Western Plaguelands",
+          "percent": 21.225,
+          "level": 58,
+          "npc": "Putridius",
+          "npcs": 2,
+          "elite": true,
+          "score": 2.787
+        },
+        {
+          "zone": "Zone 0",
+          "percent": 21.225,
+          "level": 58,
+          "npc": "Putridius",
+          "npcs": 1,
+          "elite": true,
+          "score": 2.787
+        },
+        {
+          "zone": "Eastern Plaguelands",
+          "percent": 11.505,
+          "level": 57,
+          "npc": "Stitched Horror",
+          "npcs": 2,
+          "elite": false,
+          "score": 1.524
+        }
+      ],
+      "gathered_from": [],
+      "contained_in": [
+        {
+          "name": "Spoils of Blood",
+          "percent": 1.874
+        },
+        {
+          "name": "Crow's Cache",
+          "percent": 1.874
+        }
+      ],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 1303755,
+      "kind": "item",
+      "name": "Frozen Frostmaul Heart",
+      "quality": 3,
+      "icon": null,
+      "tooltip": "Frozen Frostmaul Heart\nRequires Level 60\nUse: Refined into Wintersteel at the Forge of Ice. Requires High-Risk.\n\"Drops from frost giants while in War Mode or High-Risk.\"\n1 ChargeSell Price: 5",
+      "effect": "Use: Refined into Wintersteel at the Forge of Ice. Requires High-Risk.",
+      "craft": {
+        "spell_id": 1979731,
+        "spell_name": "Refine Frozen Frostmaul Heart",
+        "craft_kind": "recipe",
+        "profession": null,
+        "skill_id": null,
+        "learned_at": null,
+        "difficulty": null,
+        "creates_item_id": 1303755,
+        "yield_min": 1,
+        "yield_max": 1,
+        "reagents": [
+          [
+            1303778,
+            5
+          ]
+        ],
+        "station": null,
+        "method": null,
+        "recipe_item_id": null,
+        "recipe_item_name": null,
+        "reagents_resolved": true,
+        "counted_from_tooltip": true
+      },
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "drop",
+        "container",
+        "crafted"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [
+        {
+          "npc_id": 7429,
+          "npc": "Frostmaul Preserver",
+          "min_level": 59,
+          "max_level": 60,
+          "percent": 31.2,
+          "elite": true,
+          "zones": [
+            "Winterspring"
+          ]
+        },
+        {
+          "npc_id": 10198,
+          "npc": "Kashoch the Reaver",
+          "min_level": 60,
+          "max_level": 60,
+          "percent": 30.99,
+          "elite": true,
+          "zones": [
+            "Winterspring"
+          ]
+        },
+        {
+          "npc_id": 7428,
+          "npc": "Frostmaul Giant",
+          "min_level": 59,
+          "max_level": 60,
+          "percent": 30.84,
+          "elite": true,
+          "zones": [
+            "Winterspring"
+          ]
+        }
+      ],
+      "zone_sources": [
+        {
+          "zone": "Winterspring",
+          "percent": 31.2,
+          "level": 59,
+          "npc": "Frostmaul Preserver",
+          "npcs": 3,
+          "elite": true,
+          "score": 4.062
+        }
+      ],
+      "gathered_from": [],
+      "contained_in": [
+        {
+          "name": "Spoils of Blood",
+          "percent": 1.874
+        },
+        {
+          "name": "Crow's Cache",
+          "percent": 1.874
+        }
+      ],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
       "node_id": 1303759,
       "kind": "item",
       "name": "Hellish Trinket",
@@ -21818,6 +27118,186 @@
           "score": 7.2
         }
       ],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 1303776,
+      "kind": "item",
+      "name": "Impure Drakesteel Scraps",
+      "quality": 2,
+      "icon": null,
+      "tooltip": "Impure Drakesteel Scraps\nRequires Level 60\nUse: Combine 5 to create Drakesteel Scraps\n\"Drops for your entire party from black dragonkin while in War Mode or High-Risk.\"\n1 ChargeSell Price: 5",
+      "effect": "Use: Combine 5 to create Drakesteel Scraps",
+      "craft": null,
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "drop"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [
+        {
+          "npc_id": 254877,
+          "npc": "Nesrixia",
+          "min_level": 54,
+          "max_level": 54,
+          "percent": 28.26,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 254876,
+          "npc": "Afyllian",
+          "min_level": 54,
+          "max_level": 54,
+          "percent": 28.125,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 7043,
+          "npc": "Flamescale Wyrmkin",
+          "min_level": 57,
+          "max_level": 58,
+          "percent": 25.035,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 7041,
+          "npc": "Black Wyrmkin",
+          "min_level": 53,
+          "max_level": 54,
+          "percent": 24.375,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 7042,
+          "npc": "Flamescale Dragonspawn",
+          "min_level": 56,
+          "max_level": 57,
+          "percent": 24.225,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        },
+        {
+          "npc_id": 7040,
+          "npc": "Black Dragonspawn",
+          "min_level": 52,
+          "max_level": 53,
+          "percent": 24.21,
+          "elite": true,
+          "zones": [
+            "Burning Steppes"
+          ]
+        }
+      ],
+      "zone_sources": [
+        {
+          "zone": "Burning Steppes",
+          "percent": 28.26,
+          "level": 54,
+          "npc": "Nesrixia",
+          "npcs": 6,
+          "elite": true,
+          "score": 3.846
+        }
+      ],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 1303777,
+      "kind": "item",
+      "name": "Shattered Abomination Hook",
+      "quality": 2,
+      "icon": "inv_plate_belt_warfrontshorde_c_01",
+      "tooltip": "Shattered Abomination Hook\nRequires Level 60\nUse: Combine 5 to create Abomination Hook\n\"Drops for your entire party from abominations in the Plaguelands while in War Mode or High-Risk.\"\n1 ChargeSell Price: 5",
+      "effect": "Use: Combine 5 to create Abomination Hook",
+      "craft": null,
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [
+        "drop"
+      ],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [
+        {
+          "npc_id": 8543,
+          "npc": "Stitched Horror",
+          "min_level": 57,
+          "max_level": 58,
+          "percent": 11.505,
+          "elite": false,
+          "zones": [
+            "Eastern Plaguelands"
+          ]
+        },
+        {
+          "npc_id": 12263,
+          "npc": "Slaughterhouse Protector",
+          "min_level": 58,
+          "max_level": 58,
+          "percent": 11.385,
+          "elite": false,
+          "zones": [
+            "Eastern Plaguelands"
+          ]
+        }
+      ],
+      "zone_sources": [
+        {
+          "zone": "Eastern Plaguelands",
+          "percent": 11.505,
+          "level": 57,
+          "npc": "Stitched Horror",
+          "npcs": 2,
+          "elite": false,
+          "score": 1.524
+        }
+      ],
+      "gathered_from": [],
+      "contained_in": [],
+      "sale_item_id": null,
+      "sale_item_name": null,
+      "warnings": []
+    },
+    {
+      "node_id": 1303778,
+      "kind": "item",
+      "name": "Broken Frostmaul Heart",
+      "quality": 2,
+      "icon": null,
+      "tooltip": "Broken Frostmaul Heart\nRequires Level 60\nUse: Combine 5 to create Frozen Frostmaul Heart\n\"Drops for your entire party from Frost Giants while in War Mode or High-Risk.\"\n1 ChargeSell Price: 5",
+      "effect": "Use: Combine 5 to create Frozen Frostmaul Heart",
+      "craft": null,
+      "is_seed": false,
+      "family": "material",
+      "obtained_from": [],
+      "is_custom": true,
+      "missing_from_db": false,
+      "drops": [],
+      "zone_sources": [],
       "gathered_from": [],
       "contained_in": [],
       "sale_item_id": null,

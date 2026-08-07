@@ -1,4 +1,28 @@
 product_id,product_name,family,spell_id,reagent_id,reagent_name,quantity_per_craft,reagent_is_custom,reagent_craftable,reagent_sources
+967188,Cleric's Belt Buckle,buckle,968034,1303727,Plague Iron,1,1,1,crafted
+967188,Cleric's Belt Buckle,buckle,968034,1303725,Homicite Bar,1,1,1,crafted
+967188,Cleric's Belt Buckle,buckle,968034,12361,Blue Sapphire,3,0,0,"drop, container, object, quest objective, prospecting"
+967188,Cleric's Belt Buckle,buckle,968034,12803,Living Essence,5,0,0,"drop, quest objective, crafted"
+967182,Dancing Belt Buckle,buckle,968028,1303728,Wintersteel,1,1,1,crafted
+967182,Dancing Belt Buckle,buckle,968028,1303725,Homicite Bar,1,1,1,crafted
+967182,Dancing Belt Buckle,buckle,968028,12364,Huge Emerald,3,0,0,"drop, container, object, quest objective, prospecting"
+967182,Dancing Belt Buckle,buckle,968028,12803,Living Essence,5,0,0,"drop, quest objective, crafted"
+967194,Guardman's Belt Buckle,buckle,968040,1303726,Ebon Dragonsteel,1,1,1,crafted
+967194,Guardman's Belt Buckle,buckle,968040,1303725,Homicite Bar,1,1,1,crafted
+967194,Guardman's Belt Buckle,buckle,968040,12365,Dense Stone,20,0,0,"drop, container, quest objective"
+967194,Guardman's Belt Buckle,buckle,968040,12803,Living Essence,5,0,0,"drop, quest objective, crafted"
+967185,Magus Belt Buckle,buckle,968031,1303728,Wintersteel,1,1,1,crafted
+967185,Magus Belt Buckle,buckle,968031,1303725,Homicite Bar,1,1,1,crafted
+967185,Magus Belt Buckle,buckle,968031,12799,Large Opal,3,0,0,"drop, container, object, quest objective, prospecting"
+967185,Magus Belt Buckle,buckle,968031,7080,Essence of Water,5,0,0,"drop, container, quest objective, crafted"
+967179,Roguish Belt Buckle,buckle,968025,1303727,Plague Iron,1,1,1,crafted
+967179,Roguish Belt Buckle,buckle,968025,1303725,Homicite Bar,1,1,1,crafted
+967179,Roguish Belt Buckle,buckle,968025,7910,Star Ruby,3,0,0,"drop, container, object, quest objective, prospecting"
+967179,Roguish Belt Buckle,buckle,968025,7082,Essence of Air,5,0,0,"drop, container, quest objective, crafted"
+967191,Warlord's Belt Buckle,buckle,968037,1303726,Ebon Dragonsteel,1,1,1,crafted
+967191,Warlord's Belt Buckle,buckle,968037,1303725,Homicite Bar,1,1,1,crafted
+967191,Warlord's Belt Buckle,buckle,968037,11754,Black Diamond,5,0,0,"drop, quest objective"
+967191,Warlord's Belt Buckle,buckle,968037,7078,Essence of Fire,5,0,0,"drop, container, quest objective, crafted"
 968698,Enchant Weapon - Arcane Artillery,enchant,968698,1303708,Hell Dust,1,1,1,crafted
 968698,Enchant Weapon - Arcane Artillery,enchant,968698,1303707,Profane Shard,1,1,1,"crafted, disenchanting"
 968698,Enchant Weapon - Arcane Artillery,enchant,968698,14344,Large Brilliant Shard,5,0,0,"container, quest objective, crafted, disenchanting"
@@ -223,18 +247,24 @@ product_id,product_name,family,spell_id,reagent_id,reagent_name,quantity_per_cra
 967573,Fused Wizard Wontons,food,968343,1303722,Salted Naga Tail,1,1,1,crafted
 967573,Fused Wizard Wontons,food,968343,1303720,Cured Savage Meat,1,1,1,crafted
 967573,Fused Wizard Wontons,food,968343,3712,Turtle Meat,2,0,0,"drop, container, quest objective"
+1303754,Abomination Hook,material,1979724,1303777,Shattered Abomination Hook,5,1,0,drop
 1303742,Ancient Tear,material,1979710,1303765,Spectral Teardrops,5,1,0,drop
 1303736,Animated Bone,material,1979694,1303760,Animated Knuckle Bones,5,1,0,drop
 1303709,Animated Bone Dust,material,1979732,1303736,Animated Bone,1,1,1,"drop, container, crafted"
 1303739,Arkkoran Chum,material,1979729,1303762,Arkoran Guts,5,1,0,drop
 1303711,Blightroot Extract,material,1979755,1303738,Blightroot,1,1,0,"container, gathering"
 1303720,Cured Savage Meat,material,1979757,1303747,Raw Savage Flesh,1,1,0,"drop, container"
+1303753,Drakesteel Scraps,material,1979715,1303776,Impure Drakesteel Scraps,5,1,0,drop
+1303726,Ebon Dragonsteel,material,1979742,1303753,Drakesteel Scraps,1,1,1,"drop, container, crafted"
 1303710,Essence of Twilight,material,1979743,1303737,Void Idol,1,1,1,"drop, container, crafted"
 1303740,Fatty Blubber,material,1979722,1303763,Stringy Blubber,5,1,0,drop
 1303713,Fiery Frond,material,1979747,1303740,Fatty Blubber,1,1,1,"drop, container, crafted"
+1303755,Frozen Frostmaul Heart,material,1979731,1303778,Broken Frostmaul Heart,5,1,0,
 1303708,Hell Dust,material,1979746,1303735,Hell Effigy,1,1,1,"drop, container, crafted"
 1303735,Hell Effigy,material,1979720,1303759,Hellish Trinket,5,1,0,drop
+1303725,Homicite Bar,material,1979758,1303752,Homicite Ore,1,1,0,container
 1303714,Plague Blossom,material,1979749,1303741,Scarlet Human Flesh,1,1,1,"drop, container, crafted"
+1303727,Plague Iron,material,1979748,1303754,Abomination Hook,1,1,1,"drop, container, crafted"
 1303707,Profane Shard,material,1979754,1303734,Echoes of Blood,5,1,0,"container, disenchanting"
 1303750,Raw Animated Meat,material,1979699,1303773,Animated Meat Chunks,5,1,0,drop
 1303749,Raw Naga Tail,material,1979702,1303772,Naga Tail Chunks,5,1,0,drop
@@ -248,3 +278,4 @@ product_id,product_name,family,spell_id,reagent_id,reagent_name,quantity_per_cra
 1303715,Spectral Rose,material,1979740,1303742,Ancient Tear,1,1,1,"drop, container, crafted"
 1303712,Storm Brine,material,1979750,1303739,Arkkoran Chum,1,1,1,"drop, container, crafted"
 1303737,Void Idol,material,1979716,1303761,Void Trinket,5,1,0,drop
+1303728,Wintersteel,material,1979752,1303755,Frozen Frostmaul Heart,1,1,1,"drop, container, crafted"

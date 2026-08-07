@@ -57,8 +57,28 @@
       "name": "Scorched Silithid Meat"
     },
     {
+      "item_id": 1303725,
+      "name": "Homicite Bar"
+    },
+    {
+      "item_id": 1303726,
+      "name": "Ebon Dragonsteel"
+    },
+    {
+      "item_id": 1303727,
+      "name": "Plague Iron"
+    },
+    {
+      "item_id": 1303728,
+      "name": "Wintersteel"
+    },
+    {
       "item_id": 1303734,
       "name": "Echoes of Blood"
+    },
+    {
+      "item_id": 1303778,
+      "name": "Broken Frostmaul Heart"
     }
   ],
   "CoA`High Risk`Buy`Vanilla": [
@@ -83,12 +103,20 @@
       "name": "Essence of Air"
     },
     {
+      "item_id": 7910,
+      "name": "Star Ruby"
+    },
+    {
       "item_id": 8836,
       "name": "Arthas' Tears"
     },
     {
       "item_id": 8838,
       "name": "Sungrass"
+    },
+    {
+      "item_id": 11754,
+      "name": "Black Diamond"
     },
     {
       "item_id": 12037,
@@ -105,6 +133,22 @@
     {
       "item_id": 12208,
       "name": "Tender Wolf Meat"
+    },
+    {
+      "item_id": 12361,
+      "name": "Blue Sapphire"
+    },
+    {
+      "item_id": 12364,
+      "name": "Huge Emerald"
+    },
+    {
+      "item_id": 12365,
+      "name": "Dense Stone"
+    },
+    {
+      "item_id": 12799,
+      "name": "Large Opal"
     },
     {
       "item_id": 12803,
@@ -211,6 +255,22 @@
     {
       "item_id": 1303751,
       "name": "Raw Silithid Meat"
+    },
+    {
+      "item_id": 1303752,
+      "name": "Homicite Ore"
+    },
+    {
+      "item_id": 1303753,
+      "name": "Drakesteel Scraps"
+    },
+    {
+      "item_id": 1303754,
+      "name": "Abomination Hook"
+    },
+    {
+      "item_id": 1303755,
+      "name": "Frozen Frostmaul Heart"
     }
   ],
   "CoA`High Risk`Farm": [
@@ -257,6 +317,14 @@
     {
       "item_id": 1303774,
       "name": "Silithid Meat Chunks"
+    },
+    {
+      "item_id": 1303776,
+      "name": "Impure Drakesteel Scraps"
+    },
+    {
+      "item_id": 1303777,
+      "name": "Shattered Abomination Hook"
     }
   ],
   "CoA`High Risk`Sell`Enchants": [

@@ -1,17 +1,17 @@
 # TSM group item lists (tsm3 item syntax)
 # Create the group in TSM, then paste the matching line into Groups > Import.
 
-[CoA`High Risk`Buy`Custom]  (15 items)
-item:1303707,item:1303708,item:1303709,item:1303710,item:1303711,item:1303712,item:1303713,item:1303714,item:1303715,item:1303720,item:1303721,item:1303722,item:1303723,item:1303724,item:1303734
+[CoA`High Risk`Buy`Custom]  (20 items)
+item:1303707,item:1303708,item:1303709,item:1303710,item:1303711,item:1303712,item:1303713,item:1303714,item:1303715,item:1303720,item:1303721,item:1303722,item:1303723,item:1303724,item:1303725,item:1303726,item:1303727,item:1303728,item:1303734,item:1303778
 
-[CoA`High Risk`Buy`Vanilla]  (24 items)
-item:3712,item:7076,item:7078,item:7080,item:7082,item:8836,item:8838,item:12037,item:12184,item:12207,item:12208,item:12803,item:12808,item:13463,item:13464,item:13465,item:13466,item:13467,item:13759,item:14344,item:16203,item:16204,item:20424,item:21024
+[CoA`High Risk`Buy`Vanilla]  (30 items)
+item:3712,item:7076,item:7078,item:7080,item:7082,item:7910,item:8836,item:8838,item:11754,item:12037,item:12184,item:12207,item:12208,item:12361,item:12364,item:12365,item:12799,item:12803,item:12808,item:13463,item:13464,item:13465,item:13466,item:13467,item:13759,item:14344,item:16203,item:16204,item:20424,item:21024
 
-[CoA`High Risk`Convert]  (13 items)
-item:1303735,item:1303736,item:1303737,item:1303738,item:1303739,item:1303740,item:1303741,item:1303742,item:1303747,item:1303748,item:1303749,item:1303750,item:1303751
+[CoA`High Risk`Convert]  (17 items)
+item:1303735,item:1303736,item:1303737,item:1303738,item:1303739,item:1303740,item:1303741,item:1303742,item:1303747,item:1303748,item:1303749,item:1303750,item:1303751,item:1303752,item:1303753,item:1303754,item:1303755
 
-[CoA`High Risk`Farm]  (11 items)
-item:1303759,item:1303760,item:1303761,item:1303762,item:1303763,item:1303764,item:1303765,item:1303771,item:1303772,item:1303773,item:1303774
+[CoA`High Risk`Farm]  (13 items)
+item:1303759,item:1303760,item:1303761,item:1303762,item:1303763,item:1303764,item:1303765,item:1303771,item:1303772,item:1303773,item:1303774,item:1303776,item:1303777
 
 [CoA`High Risk`Sell`Enchants]  (10 items)
 item:967731,item:967734,item:967737,item:967740,item:967743,item:967746,item:967749,item:967752,item:967755,item:967789
