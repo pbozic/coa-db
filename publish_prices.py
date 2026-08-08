@@ -32,7 +32,10 @@ from pathlib import Path
 
 PRICES = Path("web/public/prices.json")
 HISTORY = Path("web/public/history.json")
-PUBLISHED = (PRICES, HISTORY)
+# The addon sync tool fetches this one file: catalog and prices together, so a
+# standalone exe needs no checkout of this repository.
+ADDON = Path("web/public/addon.json")
+PUBLISHED = (PRICES, HISTORY, ADDON)
 DATA_BRANCH = "data"
 
 
@@ -168,6 +171,8 @@ def main() -> int:
     if args.sharing_cache:
         history += ["--sharing-cache", str(args.sharing_cache)]
     if run(history).returncode:
+        return 1
+    if run([python, "export_addon.py", "--publish", str(ADDON)]).returncode:
         return 1
 
     payload = json.loads(PRICES.read_text(encoding="utf-8"))

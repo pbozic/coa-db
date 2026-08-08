@@ -98,6 +98,11 @@ REFINED_RE = re.compile(r"Use:\s*(.+?)\s+at the\s+(.+?)$", re.M)
 # "Combine 5 to create an Ancient Tear" / "Refine 5 of these into a Profane Shard"
 STATED_COUNT_RE = re.compile(r"\b(?:Combine|Refine)\s+(\d+)\b", re.I)
 
+MAPPER_RE = re.compile(r"var g_mapperData = (\{.*?\});", re.S)
+# Coordinates are fetched only for the best few NPCs per item; a page for every
+# NPC that ever drops something would be hundreds of extra requests.
+COORDS_PER_ITEM = 3
+
 SOURCE_LISTVIEWS = {
     "sold-by-npc": "vendor",
     "dropped-by": "drop",
@@ -208,11 +213,15 @@ def summarise_zones(drops: list[dict]) -> list[dict]:
             entry = zones.setdefault(zone, {
                 "zone": zone, "percent": 0.0, "level": level,
                 "npc": drop["npc"], "npcs": 0, "elite": drop.get("elite", False),
+                "npc_id": drop.get("npc_id"), "zone_id": drop.get("zone_id"),
+                "spawn": drop.get("spawn"),
             })
             entry["npcs"] += 1
             if percent > entry["percent"]:
                 entry.update(percent=percent, level=level, npc=drop["npc"],
-                             elite=drop.get("elite", False))
+                             elite=drop.get("elite", False),
+                             npc_id=drop.get("npc_id"), zone_id=drop.get("zone_id"),
+                             spawn=drop.get("spawn"))
     for entry in zones.values():
         entry["score"] = round(entry["percent"] / max(1.0, entry["level"]) ** 0.5, 3)
     return sorted(zones.values(), key=lambda z: -z["score"])
@@ -242,6 +251,7 @@ class Harvester:
         self.names: dict[int, str] = {}        # item id -> name, from any page
         self.spell_cache: dict[int, aowow.Entity] = {}
         self._zones: dict[int, str] = {}
+        self._spawns: dict[tuple[int, int], list | None] = {}
 
     # -- helpers ------------------------------------------------------------
     def listing_rows(self, url: str, template: str) -> list[dict]:
@@ -448,6 +458,32 @@ class Harvester:
             node.craft = craft_from_row(created_by.rows[0])
         return node
 
+    def npc_spawn(self, npc_id: int, zone_id: int) -> list[float] | None:
+        """A representative spawn point for an NPC in a zone, as x/y percent.
+
+        The page lists every spawn; the median of them lands in the middle of
+        the pack rather than on an outlier, which is what you want to fly to.
+        """
+        key = (npc_id, zone_id)
+        if key in self._spawns:
+            return self._spawns[key]
+        point = None
+        try:
+            html = self.client.get(f"?npc={npc_id}")
+            match = MAPPER_RE.search(html)
+            if match:
+                groups = json.loads(match.group(1)).get(str(zone_id)) or []
+                points = [(c[0], c[1]) for g in groups for c in g.get("coords", [])]
+                if points:
+                    xs = sorted(p[0] for p in points)
+                    ys = sorted(p[1] for p in points)
+                    point = [round(xs[len(xs) // 2], 1), round(ys[len(ys) // 2], 1),
+                             len(points)]
+        except Exception as exc:
+            LOG.debug("npc %s coords: %s", npc_id, exc)
+        self._spawns[key] = point
+        return point
+
     def zone_name(self, zone_id: int) -> str:
         """Zone names live in the page title; the heading is a comment stub."""
         if zone_id in self._zones:
@@ -471,8 +507,13 @@ class Harvester:
         if not view or not view.rows:
             return []
         drops = []
-        for row in sorted(view.rows, key=lambda r: -(r.get("percent") or 0))[:60]:
-            zones = [self.zone_name(int(z)) for z in (row.get("location") or [])]
+        ranked = sorted(view.rows, key=lambda r: -(r.get("percent") or 0))[:60]
+        for index, row in enumerate(ranked):
+            locations = [int(z) for z in (row.get("location") or [])]
+            zones = [self.zone_name(z) for z in locations]
+            spawn = None
+            if index < COORDS_PER_ITEM and locations:
+                spawn = self.npc_spawn(int(row["id"]), locations[0])
             drops.append({
                 "npc_id": int(row["id"]),
                 "npc": aowow.strip_name_prefix(row.get("name", ""))[0],
@@ -481,6 +522,8 @@ class Harvester:
                 "percent": row.get("percent"),
                 "elite": bool(row.get("classification")),
                 "zones": zones,
+                "zone_id": locations[0] if locations else None,
+                "spawn": spawn,
             })
         return drops
 

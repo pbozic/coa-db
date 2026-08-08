@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: CoA Farm
+## Notes: High Risk crafting profit, farm routes and auction prices on your tooltips.
+## Author: coa-db
+## Version: 1.0
+## SavedVariables: CoAFarmSaved
+
+Data.lua
+Core.lua
+Tooltip.lua
+UI.lua

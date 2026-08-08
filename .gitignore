@@ -15,3 +15,8 @@ output/market/price_db.json
 output/market/.last_published
 output/market/prices.csv
 output/market/prices_test.csv
+
+# PyInstaller build artefacts. The exe is rebuilt from sync_addon.py.
+build/pyi/
+build/*.spec
+dist/
