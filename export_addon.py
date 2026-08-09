@@ -111,6 +111,21 @@ def build(catalog: coadata.Catalog, prices: dict, history: dict) -> dict:
             entry["moves"] = move.get("perDay")
         items[item_id] = entry
 
+    # An enchant is sold as its scroll, and that scroll is not a node in the
+    # graph. Without an entry here the addon cannot price it, so every enchant
+    # would silently show no profit at all.
+    for seed in catalog.seeds:
+        sale_id = seed.get("sale_item_id")
+        if not sale_id or sale_id in items:
+            continue
+        price = price_items.get(str(sale_id)) or {}
+        items[sale_id] = {
+            "name": seed.get("sale_item_name") or seed.get("name"),
+            "buy": price.get("buy"),
+            "sell": price.get("sell"),
+            "qty": price.get("quantity"),
+        }
+
     # Recipes are keyed by product so the addon can answer both directions:
     # "what does this make" and "what goes into this".
     recipes = {}

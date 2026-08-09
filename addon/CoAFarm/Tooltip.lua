@@ -78,8 +78,19 @@ local function decorate(tip, link)
             tip:AddDoubleLine("  " .. (r.recipe.name or "?"), right, 1, 1, 1, 1, 1, 1)
         end
         if #feeds > MAX_FEEDS then
-            tip:AddLine(string.format("  |cff808080and %d more — /farm|r", #feeds - MAX_FEEDS))
+            tip:AddLine(string.format("  |cff808080and %d more - /farm|r", #feeds - MAX_FEEDS))
         end
+    end
+
+    -- Where the chain actually ends. Worth a line of its own only when it is
+    -- not already the first entry above, or the tooltip repeats itself.
+    local final = F:FinalProduct(id)
+    if final and (#feeds == 0 or feeds[1].recipe.name ~= final.recipe.name) then
+        local colour = final.profit >= 0 and "|cff40d070" or "|cffef5f5f"
+        tip:AddDoubleLine("Ends up in",
+            string.format("%s  %s%s|r", final.recipe.name or "?", colour,
+                F:Money(final.profit)),
+            0.6, 0.6, 0.6, 1, 1, 1)
     end
 
     if item then addFarmLine(tip, item) end

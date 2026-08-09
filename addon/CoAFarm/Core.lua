@@ -113,6 +113,44 @@ function F:Feeds(id)
     return out
 end
 
+--[[ The finished product a material eventually reaches.
+
+     "Used in" only answers the next step: Spectral Teardrops make an Ancient
+     Tear, which tells you nothing about whether the chain is worth starting.
+     This walks up the reagent graph until it reaches something sellable and
+     returns the best of those, so the tooltip can name the flask or enchant at
+     the end of the line.
+
+     Belt buckles are skipped: they out-earn everything, so leaving them in
+     means every material reports a buckle and the answer stops being useful.
+     Drop `EXCLUDED_FAMILY` below to include them. ]]
+local EXCLUDED_FAMILY = "buckle"
+
+function F:FinalProduct(id)
+    local best, seen, queue, depth = nil, { [id] = true }, { id }, 0
+    while #queue > 0 and depth < 8 do
+        local nextQueue = {}
+        for _, current in ipairs(queue) do
+            for _, product in ipairs(self.usedIn[current] or {}) do
+                if not seen[product] then
+                    seen[product] = true
+                    table.insert(nextQueue, product)
+                    local recipe = self:Recipe(product)
+                    if recipe and recipe.seed and recipe.family ~= EXCLUDED_FAMILY then
+                        local result = self:Evaluate(product)
+                        if result and result.profit
+                           and (not best or result.profit > best.profit) then
+                            best = result
+                        end
+                    end
+                end
+            end
+        end
+        queue, depth = nextQueue, depth + 1
+    end
+    return best
+end
+
 -- Everything worth crafting, best first.
 function F:Ranked(onlySeeds)
     local out = {}
